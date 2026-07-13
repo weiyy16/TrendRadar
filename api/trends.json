@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-14T03:15:49.936579+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-14T04:53:05.800075+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "阿根廷向国际足联申请，半决赛想穿客场深蓝色队服，这种配色的球衣什么典故，对球队能有什么影响么？",
-          "url": "https://www.zhihu.com/question/2060002703879533053",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        },
         {
           "title": "世界杯四强新生代球星盘点",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E6%96%B0%E7%94%9F%E4%BB%A3%E7%90%83%E6%98%9F%E7%9B%98%E7%82%B9",
@@ -27,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "阿根廷向国际足联申请，半决赛想穿客场深蓝色队服，这种配色的球衣什么典故，对球队能有什么影响么？",
+          "url": "https://www.zhihu.com/question/2060002703879533053",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "马宁世界杯归来首次发声",
@@ -36,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "阿根廷有机会夺冠吗？",
@@ -51,20 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        },
-        {
-          "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
-          "url": "https://www.zhihu.com/question/2058981135892461058",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "不传哈兰德!挪威7号遭网暴",
@@ -75,8 +65,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
+          "url": "https://www.zhihu.com/question/2058981135892461058",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "足球前锋为何这么贵",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%B3%E7%90%83%E5%89%8D%E9%94%8B%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%B4%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "当哈兰德表情包与现实完美融合",
@@ -84,11 +100,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "头条世界杯｜瑟洛特伴侣也遭网暴，内马尔请求球迷原谅",
@@ -98,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "姆巴佩或无缘打破世界杯单届13球纪录",
@@ -107,23 +124,12 @@
           "source": "微博",
           "ranks": [
             6,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        },
-        {
-          "title": "足球前锋为何这么贵",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%B3%E7%90%83%E5%89%8D%E9%94%8B%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%B4%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "马宁告别世界杯",
@@ -134,19 +140,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "“功夫女足和功夫差了十个少林足球”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%92%8C%E5%8A%9F%E5%A4%AB%E5%B7%AE%E4%BA%86%E5%8D%81%E4%B8%AA%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "替补奇兵发威,阿根廷加时晋级",
@@ -157,8 +164,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "阿根廷队申请半决赛穿客场队服",
@@ -169,8 +176,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "UP主自制世界杯决赛夺冠",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "哈兰德没赢世界杯 但赢得了世界",
@@ -180,20 +200,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        },
-        {
-          "title": "UP主自制世界杯决赛夺冠",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "世界杯计划扩军,国足有戏?",
@@ -203,19 +211,65 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "世界杯四强上一次夺冠时间",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E4%B8%8A%E4%B8%80%E6%AC%A1%E5%A4%BA%E5%86%A0%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 04时53分]"
         },
         {
           "title": "如何看待巴西网友被阿根廷战绩打破防，巴西如今的足球水平被阿根廷拉开档次差距了吗？",
           "url": "https://www.zhihu.com/question/2060031374115829185",
           "source": "知乎",
           "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 04时53分]"
+        },
+        {
+          "title": "哈兰德女朋友穿高跟鞋颠球",
+          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B%E9%A2%A0%E7%90%83&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 04时53分]"
+        },
+        {
+          "title": "世界杯",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 04时53分]"
+        },
+        {
+          "title": "姆巴佩或无缘打破世界杯单届13球纪录",
+          "url": "https://www.toutiao.com/trending/7661307962862059539/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 04时53分]"
         },
         {
           "title": "FIFA只允许在比赛中为足球人物致哀",
@@ -238,23 +292,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "世界杯四强上一次夺冠时间",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E4%B8%8A%E4%B8%80%E6%AC%A1%E5%A4%BA%E5%86%A0%E6%97%B6%E9%97%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -264,8 +307,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -275,8 +318,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -286,8 +329,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -297,8 +340,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -308,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -319,8 +362,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
+          "url": "https://wallstreetcn.com/livenews/3133081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+          "url": "https://flash.jin10.com/detail/20260714041440304800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
@@ -342,8 +407,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "2026世界人工智能大会看点速览。（新华社）",
@@ -352,7 +417,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -381,32 +446,144 @@
       ]
     },
     {
-      "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 7,
+      "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
+      "match_count": 9,
       "titles": [
         {
-          "title": "周星驰的“炸裂”票房不可复制",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9A%84%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6",
+          "title": "《南海仲裁案裁决新批驳》报告发布，释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2059980453814219344",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+          "url": "https://wallstreetcn.com/articles/3776758",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "全球首颗近存计算3D芯片发布",
+          "url": "https://www.douyin.com/hot/2569670",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "曝苹果20系列回归玻璃机身",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
           "source": "百度热搜",
           "ranks": [
+            23,
             14,
-            9
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
+          "url": "https://www.zhihu.com/question/2058578162674397208",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "time_info": "[04时52分 ~ 04时53分]"
         },
+        {
+          "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
+          "url": "https://wallstreetcn.com/livenews/3133073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "费城半导体指数跌4.6%，存储芯片指数跌6.8%。 标普500指数初步收 跌0.7%，科技板块跌1.9%，电信板块跌1%，能源板块涨3.1%。 纳斯达克100指数初步收跌1.8%，成分股中，Applovin、闪迪初步收跌12.9%，Astera Labs跌12.4%，Arm控股跌7.6%，CoreWeave跌6.6%，英特尔跌5.9%，希捷科技跌5.6%，Diamondback Energy涨4.5%，汤森路透涨5.1%，财季Intuit涨5.4%。",
+          "url": "https://wallstreetcn.com/livenews/3133067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC发布高温预警，担心100 F（38摄氏度）的炎热天气会持续至周五。",
+          "url": "https://wallstreetcn.com/livenews/3133065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3133053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 票房 抖音 热搜 网红",
+      "match_count": 7,
+      "titles": [
         {
           "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
           "url": "https://www.zhihu.com/question/2059790933936137165",
           "source": "知乎",
           "ranks": [
             11,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "周星驰的“炸裂”票房不可复制",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%9A%84%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "功夫女足票房没有成功学",
@@ -416,8 +593,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "如何看待周星驰新电影《功夫女足》口碑两极分化的现象？无厘头是不是过时了？",
@@ -425,11 +602,35 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "网红哭穷,3.5亿家产被转移",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356120&amp;topic_name=%E7%BD%91%E7%BA%A2%E5%93%AD%E7%A9%B7%2C3.5%E4%BA%BF%E5%AE%B6%E4%BA%A7%E8%A2%AB%E8%BD%AC%E7%A7%BB",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "周星驰星女郎雪野入驻抖音",
+          "url": "https://www.douyin.com/hot/2570121",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "博主：喜剧电影已迎来新时代",
@@ -442,35 +643,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 03时15分]"
-        },
-        {
-          "title": "网红哭穷,3.5亿家产被转移",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356120&amp;topic_name=%E7%BD%91%E7%BA%A2%E5%93%AD%E7%A9%B7%2C3.5%E4%BA%BF%E5%AE%B6%E4%BA%A7%E8%A2%AB%E8%BD%AC%E7%A7%BB",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        },
-        {
-          "title": "周星驰星女郎雪野入驻抖音",
-          "url": "https://www.douyin.com/hot/2570121",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
         }
       ]
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "UP主的BW神级现场",
@@ -478,11 +656,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "中国首个禁售燃油车省份确认",
@@ -493,8 +672,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
+        },
+        {
+          "title": "美国公布第四批 UFO 文件，一段迄今最清晰影像显示有飞行物酷似双层飞船，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2059327384772466175",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "time_info": "[04时52分 ~ 04时53分]"
         },
         {
           "title": "伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹表示，霍尔木兹海峡的规则由伊朗制定。那些干涉他国并屡遭失败的人，应停止空洞叫嚣，公布其人员伤亡和经济损失的真实数字。",
@@ -503,7 +693,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -525,7 +715,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -543,58 +733,6 @@
       ]
     },
     {
-      "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "《南海仲裁案裁决新批驳》报告发布，释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2059980453814219344",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        },
-        {
-          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
-          "url": "https://wallstreetcn.com/articles/3776758",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        },
-        {
-          "title": "全球首颗近存计算3D芯片发布",
-          "url": "https://www.douyin.com/hot/2569670",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        },
-        {
-          "title": "曝苹果20系列回归玻璃机身",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
       "match_count": 3,
       "titles": [
@@ -607,8 +745,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "马上评｜舆情通报背后的多元协同治理",
@@ -619,8 +757,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         },
         {
           "title": "杭州警方通报持刀伤人案件",
@@ -628,11 +766,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            27
+            27,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时53分]"
         }
       ]
     }
