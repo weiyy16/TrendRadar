@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T02:59:38.800209+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-17T04:03:38.267424+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "头条世界杯｜足球回家？再等等吧！阿根廷逆转英格兰挺进决赛",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "蓝白球迷遭阿根廷人贴脸歧视",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "世界杯决赛对阵球队产生！阿根廷2比1淘汰英格兰",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "王冰冰版足球小白进阶指南",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "世界杯冠军奖金5000万美元",
@@ -71,11 +71,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "西班牙阿根廷会师世界杯决赛",
@@ -85,8 +86,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "阿根廷2-1英格兰赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B72-1%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "点球小抄遭窃,阿根廷真人精",
@@ -97,19 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "阿根廷2-1英格兰赛后复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B72-1%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "怒吼的队长，微笑的斯卡洛尼，燃尽的阿根廷，决赛！",
@@ -119,8 +121,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "世界杯冠军奖金5000万美元 历史最高",
@@ -131,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "世界杯扩军：一场竞技与利益的博弈",
@@ -143,8 +145,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "阿根廷：今晚我们来听喵喵叫",
@@ -154,8 +156,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "阿根廷的最后十分钟怎么了",
@@ -166,8 +168,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "澡盆德比!西班牙决战阿根廷",
@@ -178,20 +180,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "阿根廷 2-1 逆转英格兰进决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%202-1%20%E9%80%86%E8%BD%AC%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%BF%9B%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "再踢4年!C罗瞄准2030世界杯",
@@ -202,8 +192,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "阿根廷赛后拉横幅,FIFA重罚",
@@ -212,6 +202,91 @@
           "ranks": [
             23,
             24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "英格兰教练逆天,阿根廷拿下比赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356209&amp;topic_name=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%95%99%E7%BB%83%E9%80%86%E5%A4%A9%2C%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "哈兰德插播一条度假vlog",
+          "url": "https://www.douyin.com/hot/2573591",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "阿根廷球迷焚烧英国国旗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356196&amp;topic_name=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E7%84%9A%E7%83%A7%E8%8B%B1%E5%9B%BD%E5%9B%BD%E6%97%97",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "阿根廷2:1逆转绝杀英格兰",
+          "url": "https://www.douyin.com/hot/2572453",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "佛得角“面试”世界杯冠亚军",
+          "url": "https://www.toutiao.com/trending/7662946938102415403/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时03分]"
+        },
+        {
+          "title": "阿根廷西班牙争夺大力神杯",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%89%E5%A4%BA%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时03分]"
+        },
+        {
+          "title": "阿根廷 2-1 逆转英格兰进决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%202-1%20%E9%80%86%E8%BD%AC%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%BF%9B%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -230,72 +305,13 @@
           "time_info": "[01时06分 ~ 02时59分]"
         },
         {
-          "title": "英格兰教练逆天,阿根廷拿下比赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356209&amp;topic_name=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%95%99%E7%BB%83%E9%80%86%E5%A4%A9%2C%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "阿根廷球迷焚烧英国国旗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356196&amp;topic_name=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E7%84%9A%E7%83%A7%E8%8B%B1%E5%9B%BD%E5%9B%BD%E6%97%97",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "哈兰德插播一条度假vlog",
-          "url": "https://www.douyin.com/hot/2573591",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "阿根廷2:1逆转绝杀英格兰",
-          "url": "https://www.douyin.com/hot/2572453",
-          "source": "抖音",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "佛得角“面试”世界杯冠亚军",
-          "url": "https://www.toutiao.com/trending/7662946938102415403/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
           "title": "特朗普将赴世界杯现场观看决赛",
           "url": "https://flash.jin10.com/detail/20260717021058975800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -317,18 +333,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "阿根廷西班牙争夺大力神杯",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%89%E5%A4%BA%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -339,7 +344,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -357,8 +362,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "世界人工智能合作组织协定签署",
@@ -369,8 +374,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -380,8 +385,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -391,8 +396,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -402,8 +407,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
@@ -422,11 +427,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -437,8 +443,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -449,8 +455,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -461,8 +467,20 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "time_info": "[02时59分 ~ 04时03分]"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -482,7 +500,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -526,18 +544,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -570,7 +577,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -581,7 +588,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -600,7 +607,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "欧盟偷偷发布涉华文件，激烈措辞“跨越外交门槛”",
@@ -610,8 +617,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
@@ -621,8 +628,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3135254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "香港天文台发布黄色暴雨警告。",
@@ -643,8 +661,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "日产芯片超15亿块 什么概念",
@@ -652,11 +670,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
@@ -666,8 +685,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "realme手机退出中国市场",
@@ -677,30 +696,65 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "台积电法说会实录：今年资本支出加码至640亿美元 高端芯片紧缺还将延续几年",
           "url": "https://www.cls.cn/detail/2428477",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
           "url": "https://flash.jin10.com/detail/20260717022948795800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时03分]"
+        },
+        {
+          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
+          "url": "https://flash.jin10.com/detail/20260717032122881800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "04时03分"
+        },
+        {
+          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
+          "url": "https://wallstreetcn.com/livenews/3135246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "净利同比最高增长近541倍！180亿PCB概念股发布半年度业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2428740",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
@@ -709,7 +763,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -761,8 +815,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "泽连斯基在法国拧个瓶盖冲上多国热搜(图)",
@@ -772,8 +826,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
@@ -784,31 +838,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "周星驰3个问号回应被偷票房",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B03%E4%B8%AA%E9%97%AE%E5%8F%B7%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "《八仙！》预售突破 6000 万，点映口碑上佳，你预测影片最终票房能到多少？",
-          "url": "https://www.zhihu.com/question/2059956129291919389",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "美男网红注射黄金求超能力",
@@ -819,8 +862,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "《八仙！》预售突破 6000 万，点映口碑上佳，你预测影片最终票房能到多少？",
+          "url": "https://www.zhihu.com/question/2059956129291919389",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "真实评价电影功夫女足",
@@ -831,30 +887,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "2026暑期档上半程票房35.34亿元",
           "url": "https://wallstreetcn.com/livenews/3135228",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时03分]"
         },
         {
           "title": "张小斐成中国首位票房破百亿85花",
           "url": "https://www.toutiao.com/trending/7662517559984177193/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时03分]"
         },
         {
           "title": "电影《八仙》口碑",
@@ -892,8 +950,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
@@ -901,11 +959,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "马龙妻子儿子现场观赛",
@@ -913,11 +972,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "必和必拓集团（BHP）公布创纪录的铁矿石产量和更高的实际成交价格。 必和必拓西澳业务在100%权益基础上的年度铁矿石产量达到2.912亿吨，高于去年的2.9亿吨。 在2026财年，铁矿石的平均实际成交价上涨了3%，达到每湿吨84.56美元。 在2027财年，该矿企预计其西澳业务将生产2.86亿-2.98亿吨铁矿石。",
@@ -926,7 +986,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -945,7 +1005,7 @@
     },
     {
       "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "迪拜政府媒体办公室：我们否认关于迪拜市中心传出爆炸声的报道，相关信息不准确。我们呼吁媒体和公众以官方可靠消息来源为准，在发布或传播信息前核实其准确性，避免散布谣言和错误报道。",
@@ -967,8 +1027,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
+        },
+        {
+          "title": "花钱买地震预警？免费的就在你手机里",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%EF%BC%9F%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B0%B1%E5%9C%A8%E4%BD%A0%E6%89%8B%E6%9C%BA%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "澜起科技：公司韩国办公室被首尔中央地方检察厅现场搜查及取证，涉及反垄断相关法规事宜",
@@ -995,8 +1066,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "官方辟谣九寨沟湖水染色",
@@ -1006,8 +1077,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         },
         {
           "title": "天文台辟谣新疆惊现不明飞行物",
@@ -1017,8 +1088,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时03分]"
         }
       ]
     },
@@ -1033,7 +1104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
