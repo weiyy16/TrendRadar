@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T05:58:51.790631+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-07-18T06:48:32.766459+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -58,11 +58,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -73,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -85,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -97,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -108,8 +109,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -120,8 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -132,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -144,8 +145,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
@@ -159,8 +160,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -171,8 +172,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -185,8 +186,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -197,8 +198,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -209,8 +210,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
@@ -218,22 +219,35 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
           "url": "https://flash.jin10.com/detail/20260718045807451800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时48分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -259,6 +273,18 @@
           "time_info": "[01时03分 ~ 02时56分]"
         },
         {
+          "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
+          "url": "https://flash.jin10.com/detail/20260718044547376800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时48分]"
+        },
+        {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
           "url": "https://wallstreetcn.com/livenews/3135867",
           "source": "华尔街见闻-快讯",
@@ -271,6 +297,30 @@
           "time_info": "[02时56分 ~ 04时01分]"
         },
         {
+          "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
+          "url": "https://wallstreetcn.com/livenews/3135917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
+          "url": "https://flash.jin10.com/detail/20260718044353532800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时48分]"
+        },
+        {
           "title": "法国博主在上海被AI震撼",
           "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%ABAI%E9%9C%87%E6%92%BC",
           "source": "百度热搜",
@@ -280,39 +330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 04时01分]"
-        },
-        {
-          "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
-          "url": "https://flash.jin10.com/detail/20260718044547376800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
-          "url": "https://wallstreetcn.com/livenews/3135917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
-          "url": "https://flash.jin10.com/detail/20260718044353532800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -427,8 +444,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -442,8 +459,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
@@ -451,11 +468,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
+        {
+          "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
+          "url": "https://wallstreetcn.com/livenews/3135907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时48分]"
         },
         {
           "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
@@ -468,18 +499,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 04时01分]"
-        },
-        {
-          "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
-          "url": "https://wallstreetcn.com/livenews/3135907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时58分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
@@ -630,11 +649,12 @@
             5,
             6,
             8,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "阿根廷决赛遇苦主裁判",
@@ -645,22 +665,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
-        },
-        {
-          "title": "监测机构：加拿大野火烟雾或波及世界杯决赛举办地",
-          "url": "https://wallstreetcn.com/livenews/3135924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "中国博主看世界杯遭阿根廷球迷辱骂",
@@ -671,11 +681,63 @@
             25,
             23,
             13,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
+        {
+          "title": "世界杯冠军将获定制戒指 球迷也能买",
+          "url": "https://www.toutiao.com/trending/7663193808557277225/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
+        {
+          "title": "头条世界杯｜世界杯又出赚钱新招，引入冠军戒指并向球迷出售",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603005",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
+        {
+          "title": "锐评阿根廷2-1英格兰",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E9%98%BF%E6%A0%B9%E5%BB%B72-1%E8%8B%B1%E6%A0%BC%E5%85%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            20,
+            25,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
+        {
+          "title": "蓝白球迷遭阿根廷人贴脸歧视",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356242&amp;topic_name=%E8%93%9D%E7%99%BD%E7%90%83%E8%BF%B7%E9%81%AD%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BA%BA%E8%B4%B4%E8%84%B8%E6%AD%A7%E8%A7%86",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "阿根廷球员赛后发现英格兰战术小抄，如何评价英格兰准备的小抄战术？比赛场上可以偷看对手小抄吗？",
@@ -693,53 +755,16 @@
           "time_info": "[01时03分 ~ 05时58分]"
         },
         {
-          "title": "世界杯冠军将获定制戒指 球迷也能买",
-          "url": "https://www.toutiao.com/trending/7663193808557277225/",
-          "source": "今日头条",
+          "title": "监测机构：加拿大野火烟雾或波及世界杯决赛举办地",
+          "url": "https://wallstreetcn.com/livenews/3135924",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            15
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
-        },
-        {
-          "title": "头条世界杯｜世界杯又出赚钱新招，引入冠军戒指并向球迷出售",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603005",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
-        },
-        {
-          "title": "锐评阿根廷2-1英格兰",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E9%98%BF%E6%A0%B9%E5%BB%B72-1%E8%8B%B1%E6%A0%BC%E5%85%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            20,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
-        },
-        {
-          "title": "蓝白球迷遭阿根廷人贴脸歧视",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356242&amp;topic_name=%E8%93%9D%E7%99%BD%E7%90%83%E8%BF%B7%E9%81%AD%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BA%BA%E8%B4%B4%E8%84%B8%E6%AD%A7%E8%A7%86",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时48分]"
         },
         {
           "title": "EWC 英雄联盟电竞世界杯淘汰赛 T1 2:0 战胜 MSI 冠军 HLE，如何评价这场比赛？",
@@ -755,6 +780,32 @@
           "time_info": "[02时56分 ~ 05时58分]"
         },
         {
+          "title": "哈兰德最喜欢的表情包出自中国网友",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E5%87%BA%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 06时48分]"
+        },
+        {
+          "title": "在葡萄牙翻跳世界杯主题曲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%91%A1%E8%90%84%E7%89%99%E7%BF%BB%E8%B7%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时48分]"
+        },
+        {
           "title": "美国与国际足联FIFA正监测野火对世界杯决赛的影响。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3135883",
           "source": "华尔街见闻-快讯",
@@ -765,30 +816,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时01分]"
-        },
-        {
-          "title": "在葡萄牙翻跳世界杯主题曲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%91%A1%E8%90%84%E7%89%99%E7%BF%BB%E8%B7%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时58分]"
-        },
-        {
-          "title": "哈兰德最喜欢的表情包出自中国网友",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E5%87%BA%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 05时58分]"
         },
         {
           "title": "FIFA公布世界杯完整奖金分配方案",
@@ -809,21 +836,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "《功夫女足》上映 7 天票房突破 10 亿大关，登顶 2026 年暑期票房榜，你认为还有其他影片能赶超吗？",
-          "url": "https://www.zhihu.com/question/2060038001975976897",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            13,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
-        },
-        {
           "title": "《三国第一部：争洛阳》官方发文「觉得电影不好看的，可以找片方退票」，如何看待这一操作？",
           "url": "https://www.zhihu.com/question/2061409074185335802",
           "source": "知乎",
@@ -834,8 +846,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "功夫女足票房破10亿",
@@ -844,6 +856,21 @@
           "ranks": [
             19,
             21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
+        {
+          "title": "《功夫女足》上映 7 天票房突破 10 亿大关，登顶 2026 年暑期票房榜，你认为还有其他影片能赶超吗？",
+          "url": "https://www.zhihu.com/question/2060038001975976897",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            13,
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -860,8 +887,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "《功夫女足》进入2026年度票房榜前5",
@@ -873,8 +900,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "跟着抖音网友吃一天",
@@ -886,8 +913,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 06时48分]"
         }
       ]
     },
@@ -903,8 +930,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "重庆彭水山体崩塌现场已搜救出8名被困者，被埋人数待核实",
@@ -914,8 +941,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "应急管理部部长率工作组赶赴重庆彭水山体垮塌现场",
@@ -923,22 +950,24 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "重庆彭水山体崩塌现场还有34人失联",
           "url": "https://m.thepaper.cn/newsDetail_forward_33609198",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 06时48分]"
         },
         {
           "title": "美国国会公布临时拨款法案，将联邦政府资金期限延长至12月4日。",
@@ -974,11 +1003,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时48分]"
         },
         {
           "title": "抓10只蚊子免费换奶茶？商场回应",
@@ -986,11 +1016,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时48分]"
         },
         {
           "title": "微信又出新功能：已经玩嗨了",
@@ -1007,7 +1038,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "湖南警方通报男子因纠纷纵火致3死",
@@ -1020,8 +1051,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 06时48分]"
         },
         {
           "title": "七旬奶奶寻恩人 网友提供线索遇反转",
@@ -1029,11 +1060,23 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 06时48分]"
+        },
+        {
+          "title": "老君山辟谣云海观察员为萝卜岗",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%90%9B%E5%B1%B1%E8%BE%9F%E8%B0%A3%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E4%B8%BA%E8%90%9D%E5%8D%9C%E5%B2%97",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     },
@@ -1067,11 +1110,12 @@
             20,
             25,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 06时48分]"
         }
       ]
     }
