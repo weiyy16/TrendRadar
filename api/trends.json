@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T18:21:02.015384+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-07-19T19:50:56.615406+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 114,
+      "match_count": 120,
       "titles": [
         {
           "title": "中国足协回应申思、祁宏等“禁足”人员参与足球青训活动相关事件",
@@ -77,6 +77,21 @@
           "time_info": "[00时46分 ~ 09时53分]"
         },
         {
+          "title": "西班牙队更受欢迎，南美球迷抵制阿根廷队",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613963",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时41分 ~ 19时50分]"
+        },
+        {
           "title": "法国vs英格兰",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -88,19 +103,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时55分 ~ 09时53分]"
-        },
-        {
-          "title": "姆巴佩 2 射 1 传成历史射手王，一战刷爆 14 大纪录，如何评价他在世界杯季军赛的表现？",
-          "url": "https://www.zhihu.com/question/2062077879253295768",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时21分]"
         },
         {
           "title": "FIFA主席提议中美合办世界杯",
@@ -119,18 +121,45 @@
           "time_info": "[00时46分 ~ 09时53分]"
         },
         {
-          "title": "西班牙队更受欢迎，南美球迷抵制阿根廷队",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613963",
-          "source": "澎湃新闻",
+          "title": "姆巴佩 2 射 1 传成历史射手王，一战刷爆 14 大纪录，如何评价他在世界杯季军赛的表现？",
+          "url": "https://www.zhihu.com/question/2062077879253295768",
+          "source": "知乎",
           "ranks": [
-            12,
-            9,
-            8,
-            5
+            2,
+            1,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时50分]"
+        },
+        {
+          "title": "英格兰6:4法国收获铜牌",
+          "url": "https://www.douyin.com/hot/2576388",
+          "source": "抖音",
+          "ranks": [
+            2,
+            16,
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[06时41分 ~ 18时21分]"
+          "time_info": "[07时44分 ~ 19时50分]"
+        },
+        {
+          "title": "英格兰队6-4战胜法国队获季军，姆巴佩双响保留金靴悬念",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615053",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时50分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -158,8 +187,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 19时50分]"
         },
         {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
@@ -200,8 +229,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 19时50分]"
         },
         {
           "title": "库里预测阿根廷夺冠",
@@ -243,6 +272,17 @@
           "time_info": "[00时46分 ~ 07时45分]"
         },
         {
+          "title": "法国 4-6 英格兰这场比赛算是诚信互刷吗？你怎么看？",
+          "url": "https://www.zhihu.com/question/2062079550658274248",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时50分]"
+        },
+        {
           "title": "世界杯季军赛，法国 4-6 英格兰，萨卡戴帽，姆巴佩双响创纪录，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2061740947776579179",
           "source": "知乎",
@@ -271,30 +311,18 @@
           "time_info": "[00时46分 ~ 06时41分]"
         },
         {
-          "title": "英格兰6:4法国收获铜牌",
-          "url": "https://www.douyin.com/hot/2576388",
-          "source": "抖音",
-          "ranks": [
-            2,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 18时21分]"
-        },
-        {
           "title": "英格兰6-4法国获得季军",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B06-4%E6%B3%95%E5%9B%BD%E8%8E%B7%E5%BE%97%E5%AD%A3%E5%86%9B",
           "source": "bilibili 热搜",
           "ranks": [
             1,
             2,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时50分]"
         },
         {
           "title": "西班牙球员：阿根廷队有很多小动作",
@@ -310,19 +338,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 07时44分]"
-        },
-        {
-          "title": "英格兰队6-4战胜法国队获季军，姆巴佩双响保留金靴悬念",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615053",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时21分]"
         },
         {
           "title": "英格兰6比4胜法国 夺得世界杯季军",
@@ -366,17 +381,6 @@
           "time_info": "[02时51分 ~ 07时44分]"
         },
         {
-          "title": "法国 4-6 英格兰这场比赛算是诚信互刷吗？你怎么看？",
-          "url": "https://www.zhihu.com/question/2062079550658274248",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时21分]"
-        },
-        {
           "title": "姆巴佩加冕世界杯历史射手王",
           "url": "https://www.baidu.com/s?wd=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8A%A0%E5%86%95%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
           "source": "百度热搜",
@@ -388,6 +392,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时44分 ~ 13时15分]"
+        },
+        {
+          "title": "姆巴佩成世界杯历史射手王",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时50分]"
         },
         {
           "title": "法国4比6英格兰",
@@ -467,6 +485,17 @@
           "time_info": "[04时55分 ~ 05时43分]"
         },
         {
+          "title": "王冰冰带你回顾本届世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%BE%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
           "title": "英格兰奖金1.96亿法国获1.82亿",
           "url": "https://www.toutiao.com/trending/7663708381550903315/",
           "source": "今日头条",
@@ -480,17 +509,31 @@
           "time_info": "[09时52分 ~ 18时21分]"
         },
         {
-          "title": "姆巴佩成世界杯历史射手王",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
+          "title": "花10万来世界杯被送医院",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B110%E4%B8%87%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A2%AB%E9%80%81%E5%8C%BB%E9%99%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
             13,
-            9
+            8,
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时50分]"
+        },
+        {
+          "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
+          "url": "https://www.zhihu.com/question/2061433680585811334",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
         },
         {
           "title": "阿根廷主帅不满赛事方时间安排",
@@ -507,6 +550,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 05时43分]"
+        },
+        {
+          "title": "姆巴佩22球登顶世界杯历史射手榜",
+          "url": "https://www.douyin.com/hot/2576669",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时50分]"
         },
         {
           "title": "英格兰率先破门",
@@ -543,27 +598,17 @@
           "time_info": "[07时44分 ~ 07时45分]"
         },
         {
-          "title": "王冰冰带你回顾本届世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%86%B0%E5%86%B0%E5%B8%A6%E4%BD%A0%E5%9B%9E%E9%A1%BE%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "姆巴佩22球登顶世界杯射手榜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356305&amp;topic_name=%E5%A7%86%E5%B7%B4%E4%BD%A922%E7%90%83%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E6%A6%9C",
           "source": "贴吧",
           "ranks": [
             1,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时50分]"
         },
         {
           "title": "法国英格兰诚信互刷",
@@ -615,6 +660,20 @@
           "time_info": "[07时44分 ~ 09时53分]"
         },
         {
+          "title": "萨卡戴帽,英格兰60年最好成绩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356302&amp;topic_name=%E8%90%A8%E5%8D%A1%E6%88%B4%E5%B8%BD%2C%E8%8B%B1%E6%A0%BC%E5%85%B060%E5%B9%B4%E6%9C%80%E5%A5%BD%E6%88%90%E7%BB%A9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时50分]"
+        },
+        {
           "title": "英格兰半场连进四球",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8D%8A%E5%9C%BA%E8%BF%9E%E8%BF%9B%E5%9B%9B%E7%90%83",
           "source": "bilibili 热搜",
@@ -624,31 +683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
-        },
-        {
-          "title": "花10万来世界杯被送医院",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B110%E4%B8%87%E6%9D%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A2%AB%E9%80%81%E5%8C%BB%E9%99%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时21分]"
-        },
-        {
-          "title": "姆巴佩22球登顶世界杯历史射手榜",
-          "url": "https://www.douyin.com/hot/2576669",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时21分]"
         },
         {
           "title": "2026 乒乓球全锦赛男双林高远 / 袁煊松 3:2 林诗栋 / 温瑞博，晋级半决赛，如何评价？",
@@ -701,31 +735,6 @@
           "time_info": "[07时44分 ~ 13时15分]"
         },
         {
-          "title": "萨卡戴帽,英格兰60年最好成绩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356302&amp;topic_name=%E8%90%A8%E5%8D%A1%E6%88%B4%E5%B8%BD%2C%E8%8B%B1%E6%A0%BC%E5%85%B060%E5%B9%B4%E6%9C%80%E5%A5%BD%E6%88%90%E7%BB%A9",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时21分]"
-        },
-        {
-          "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，你更看好哪支球队？决胜的关键是什么？",
-          "url": "https://www.zhihu.com/question/2061433680585811334",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
-        },
-        {
           "title": "樊振东确认解说世界杯决赛",
           "url": "https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A1%AE%E8%AE%A4%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
@@ -761,6 +770,31 @@
           "time_info": "[06时41分 ~ 07时45分]"
         },
         {
+          "title": "头条世界杯｜季军战互捅局，姆巴佩射手榜刷单，十全难十美",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615067",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时50分]"
+        },
+        {
+          "title": "范志毅：世界杯不夺冠和最后1名没区别",
+          "url": "https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%EF%BC%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E5%A4%BA%E5%86%A0%E5%92%8C%E6%9C%80%E5%90%8E1%E5%90%8D%E6%B2%A1%E5%8C%BA%E5%88%AB",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
           "title": "阿根廷主帅不满赛事方时间安排",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%BB%E5%B8%85%E4%B8%8D%E6%BB%A1%E8%B5%9B%E4%BA%8B%E6%96%B9%E6%97%B6%E9%97%B4%E5%AE%89%E6%8E%92",
           "source": "百度热搜",
@@ -772,6 +806,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时51分 ~ 05时43分]"
+        },
+        {
+          "title": "世界杯决赛：西班牙vs阿根廷",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时50分]"
         },
         {
           "title": "美国时代广场成阿根廷庙会了",
@@ -786,30 +833,17 @@
           "time_info": "[13时15分 ~ 16时02分]"
         },
         {
-          "title": "头条世界杯｜季军战互捅局，姆巴佩射手榜刷单，十全难十美",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615067",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时21分]"
-        },
-        {
-          "title": "世界杯决赛：西班牙vs阿根廷",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%EF%BC%9A%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "百度热搜",
+          "title": "世界杯决赛比分预测",
+          "url": "https://www.toutiao.com/trending/7663425993927065643/",
+          "source": "今日头条",
           "ranks": [
             8,
             15,
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时21分]"
+          "time_info": "[16时02分 ~ 19时50分]"
         },
         {
           "title": "姆巴佩世界杯历史射手王",
@@ -822,6 +856,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时44分 ~ 09时53分]"
+        },
+        {
+          "title": "如何评价 FIFA 主席说可以中美合办世界杯？这是玩笑还是有所考量？",
+          "url": "https://www.zhihu.com/question/2061815234465981878",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
+          "title": "祛魅世界杯：一部权力与荣耀的历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613693",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
         },
         {
           "title": "西班牙vs阿根廷战术推演",
@@ -861,27 +919,62 @@
           "time_info": "[06时41分 ~ 07时45分]"
         },
         {
-          "title": "世界杯决赛比分预测",
-          "url": "https://www.toutiao.com/trending/7663425993927065643/",
-          "source": "今日头条",
+          "title": "鬼畜区大战世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E7%95%9C%E5%8C%BA%E5%A4%A7%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            15
+            7,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
+          "time_info": "[09时52分 ~ 19时50分]"
         },
         {
-          "title": "如何评价 FIFA 主席说可以中美合办世界杯？这是玩笑还是有所考量？",
-          "url": "https://www.zhihu.com/question/2061815234465981878",
-          "source": "知乎",
+          "title": "阿根廷夺冠概率40%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%8740%25%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
+            8,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
+          "title": "葡媒评世界杯最令人失望23人",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A1%E5%AA%92%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B23%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
+          "title": "若夺冠阿根廷或全国放假一天",
+          "url": "https://www.toutiao.com/trending/7663814854284902443/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
+          "title": "贝林厄姆在女友与哈兰德身边对比",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%9C%A8%E5%A5%B3%E5%8F%8B%E4%B8%8E%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E8%BE%B9%E5%AF%B9%E6%AF%94&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "特朗普点评英格兰队战术",
@@ -895,16 +988,16 @@
           "time_info": "[06时41分 ~ 07时45分]"
         },
         {
-          "title": "祛魅世界杯：一部权力与荣耀的历史",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613693",
-          "source": "澎湃新闻",
+          "title": "阿根廷夺冠概率40%",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%8740%25",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            18
+            17,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "EWC 半决赛 KC 2:1 T1，如何评价这场比赛？",
@@ -927,6 +1020,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 18时21分]"
+        },
+        {
+          "title": "阿根廷决赛全家福",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%86%B3%E8%B5%9B%E5%85%A8%E5%AE%B6%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
+          "title": "多队球衣已打折 国足球衣仍105美元",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E9%98%9F%E7%90%83%E8%A1%A3%E5%B7%B2%E6%89%93%E6%8A%98+%E5%9B%BD%E8%B6%B3%E7%90%83%E8%A1%A3%E4%BB%8D105%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "老吃家都来世界杯面大赛了",
@@ -966,26 +1081,27 @@
           "time_info": "[04时01分 ~ 05时43分]"
         },
         {
-          "title": "鬼畜区大战世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E7%95%9C%E5%8C%BA%E5%A4%A7%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "bilibili 热搜",
+          "title": "中国球迷世界杯现场采访火了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E9%87%87%E8%AE%BF%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            7
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
-          "title": "阿根廷夺冠概率40%",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%8740%25%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "阿根廷队带给我们什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%B8%A6%E7%BB%99%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "英格兰队上半场连轰4球",
@@ -1011,39 +1127,6 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "葡媒评世界杯最令人失望23人",
-          "url": "https://www.baidu.com/s?wd=%E8%91%A1%E5%AA%92%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BB%A4%E4%BA%BA%E5%A4%B1%E6%9C%9B23%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "若夺冠阿根廷或全国放假一天",
-          "url": "https://www.toutiao.com/trending/7663814854284902443/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "贝林厄姆在女友与哈兰德身边对比",
-          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%9C%A8%E5%A5%B3%E5%8F%8B%E4%B8%8E%E5%93%88%E5%85%B0%E5%BE%B7%E8%BA%AB%E8%BE%B9%E5%AF%B9%E6%AF%94&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "英法大战创世界杯季军赛进球纪录",
           "url": "https://www.toutiao.com/trending/7662962865448337454/",
           "source": "今日头条",
@@ -1055,15 +1138,16 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "阿根廷夺冠概率40%",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%8740%25",
-          "source": "百度热搜",
+          "title": "西班牙阿根廷谁将登顶",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B0%81%E5%B0%86%E7%99%BB%E9%A1%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "time_info": "[16时02分 ~ 19时50分]"
         },
         {
           "title": "阿根廷决赛前再举行烤肉派对",
@@ -1077,6 +1161,18 @@
           "time_info": "[18时20分 ~ 18时21分]"
         },
         {
+          "title": "世界杯季军赛赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
           "title": "英格兰奖金1亿9法国奖金1亿8",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A5%96%E9%87%911%E4%BA%BF9%E6%B3%95%E5%9B%BD%E5%A5%96%E9%87%911%E4%BA%BF8",
           "source": "百度热搜",
@@ -1086,28 +1182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "阿根廷决赛全家福",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%86%B3%E8%B5%9B%E5%85%A8%E5%AE%B6%E7%A6%8F",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "多队球衣已打折 国足球衣仍105美元",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E9%98%9F%E7%90%83%E8%A1%A3%E5%B7%B2%E6%89%93%E6%8A%98+%E5%9B%BD%E8%B6%B3%E7%90%83%E8%A1%A3%E4%BB%8D105%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "决赛还没开打阿根廷球迷已占领纽约",
@@ -1154,28 +1228,6 @@
           "time_info": "[13时15分 ~ 16时02分]"
         },
         {
-          "title": "中国球迷世界杯现场采访火了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%E9%87%87%E8%AE%BF%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "阿根廷队带给我们什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%B8%A6%E7%BB%99%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "奥利塞本届世界杯6助均来自运动战",
           "url": "https://www.toutiao.com/trending/7663996214270230591/",
           "source": "今日头条",
@@ -1187,15 +1239,15 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "范志毅：世界杯不夺冠和最后1名没区别",
-          "url": "https://www.baidu.com/s?wd=%E8%8C%83%E5%BF%97%E6%AF%85%EF%BC%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E5%A4%BA%E5%86%A0%E5%92%8C%E6%9C%80%E5%90%8E1%E5%90%8D%E6%B2%A1%E5%8C%BA%E5%88%AB",
-          "source": "百度热搜",
+          "title": "懂球天团终极预测阿根廷能否卫冕",
+          "url": "https://www.douyin.com/hot/2577501",
+          "source": "抖音",
           "ranks": [
-            29
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "英格兰季军赛闪击法国",
@@ -1231,6 +1283,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "西班牙阿根廷谁能夺冠",
+          "url": "https://www.toutiao.com/trending/7663635043625160228/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "有没有办法增加球队对世界杯季军争夺的热情？",
           "url": "https://www.zhihu.com/question/2061861632372953655",
           "source": "知乎",
@@ -1264,17 +1327,6 @@
           "time_info": "16时02分"
         },
         {
-          "title": "西班牙阿根廷谁将登顶",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B0%81%E5%B0%86%E7%99%BB%E9%A1%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "美加墨世界杯：英格兰6-4战胜法国获季军，姆巴佩双响保留金靴悬念",
           "url": "https://wallstreetcn.com/livenews/3136096",
           "source": "华尔街见闻-快讯",
@@ -1297,6 +1349,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "2026 年美加墨世界杯世界杯季军赛法国 4:6 英格兰，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2062039356462855793",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "西班牙冲击队史世界杯第二冠",
           "url": "https://www.toutiao.com/trending/7663725050926940206/",
           "source": "今日头条",
@@ -1306,6 +1369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
+          "url": "https://www.zhihu.com/question/2060160756528702468",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "前国脚辅导儿子作业“比防C罗还难”",
@@ -1330,17 +1404,6 @@
           "time_info": "07时45分"
         },
         {
-          "title": "世界杯季军赛赛后复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "董路：中国足球需要找回自己的“本”",
           "url": "https://www.toutiao.com/trending/7663358388525662251/",
           "source": "今日头条",
@@ -1350,6 +1413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "上咪咕直击世界杯终局之战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%92%AA%E5%92%95%E7%9B%B4%E5%87%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "Bossman于鑫淼展望世界杯决赛",
@@ -1385,6 +1459,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "世界杯决赛西阿大战谁更有优势",
+          "url": "https://www.toutiao.com/trending/7664192068834561579/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "全锦赛男双半决赛场馆顶棚漏水",
           "url": "https://www.toutiao.com/trending/7663128523406147634/",
           "source": "今日头条",
@@ -1399,7 +1484,7 @@
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 85,
+      "match_count": 100,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -1437,8 +1522,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 19时50分]"
         },
         {
           "title": "AI牛市结束了吗？市场充满疑虑",
@@ -1530,8 +1615,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 19时50分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -1585,11 +1670,12 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时01分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[04时01分 ~ 19时50分]"
         },
         {
           "title": "性能强悍,Kimi新模型引爆外网",
@@ -1600,11 +1686,12 @@
             14,
             19,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 19时50分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -1625,11 +1712,12 @@
             18,
             20,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 19时50分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -1658,6 +1746,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时41分 ~ 16时02分]"
+        },
+        {
+          "title": "中国AI站上全球治理主场",
+          "url": "https://www.douyin.com/hot/2577012",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时50分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -1723,17 +1835,6 @@
           "time_info": "[00时46分 ~ 02时51分]"
         },
         {
-          "title": "中国AI站上全球治理主场",
-          "url": "https://www.douyin.com/hot/2577012",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
-        },
-        {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
@@ -1746,17 +1847,17 @@
           "time_info": "[00时46分 ~ 05时43分]"
         },
         {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
+          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
+          "url": "https://wallstreetcn.com/articles/3777348",
           "source": "华尔街见闻",
           "ranks": [
-            10,
+            8,
             5,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时21分]"
+          "time_info": "[16时02分 ~ 19时50分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -1778,8 +1879,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时50分]"
         },
         {
           "title": "实体世界智能科学论坛举办 学者：AI打破学科壁垒 人人可做科学家",
@@ -1848,6 +1949,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
+          "url": "https://wallstreetcn.com/livenews/3136258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
@@ -1858,18 +1970,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 09时53分]"
-        },
-        {
-          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
-          "url": "https://wallstreetcn.com/articles/3777348",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
         },
         {
           "title": "AI赋能先进核能凝练八大共识",
@@ -1905,6 +2005,28 @@
           "time_info": "09时53分"
         },
         {
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://flash.jin10.com/detail/20260719190518960800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "AI加速进入民生场景 北电数智聚焦医疗、教育、工业实践",
+          "url": "https://wallstreetcn.com/livenews/3136257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
@@ -1926,6 +2048,43 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时51分 ~ 05时43分]"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "世界两大AI组织都是狠角色",
@@ -1952,16 +2111,16 @@
           "time_info": "[16时02分 ~ 18时21分]"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            9
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "机器人在WAIC一脚踹出真本事",
@@ -1986,28 +2145,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时15分 ~ 18时21分]"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "“中国AI只差两三个月”，硅谷坐不住了",
-          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
@@ -2042,17 +2179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "马斯克宣称要赶超Kimi",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -2090,6 +2216,28 @@
           "time_info": "[13时15分 ~ 16时02分]"
         },
         {
+          "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
+          "url": "https://wallstreetcn.com/livenews/3136256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "蔡磊获2026年度AI特别贡献人物",
+          "url": "https://www.douyin.com/hot/2577008",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "智元姚卯青：模型与数据飞轮，是物理AI持续进化的关键",
           "url": "https://wallstreetcn.com/livenews/3136141",
           "source": "华尔街见闻-快讯",
@@ -2112,6 +2260,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://flash.jin10.com/detail/20260719184851120800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "乐奇Rokid携原生操作系统YodaOS亮相WAIC 2026",
           "url": "https://wallstreetcn.com/livenews/3136165",
           "source": "华尔街见闻-快讯",
@@ -2121,6 +2280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://wallstreetcn.com/livenews/3136250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "紧身衣之王ALAIA凭什么杀回顶奢",
@@ -2145,6 +2315,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "中科闻歌WAIC 2026发布完整AI决策产品体系",
           "url": "https://wallstreetcn.com/livenews/3136161",
           "source": "华尔街见闻-快讯",
@@ -2167,6 +2348,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "Kimi K3重创美股半导体",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E9%87%8D%E5%88%9B%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "中国平安发布“专病AI产品矩阵”",
           "url": "https://wallstreetcn.com/livenews/3136160",
           "source": "华尔街见闻-快讯",
@@ -2187,6 +2379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "游族网络联合国家工业信息安全发展研究中心等发起《人工智能发展与安全倡议书》",
+          "url": "https://flash.jin10.com/detail/20260719183943679800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "不筹量子发布原子量子人工智能基座“量筹一号”",
@@ -2277,6 +2480,28 @@
           "time_info": "00时46分"
         },
         {
+          "title": "大晓机器人WAIC发布开悟世界模型3.1，具身物理智能统一评测基准平台同步亮相",
+          "url": "https://wallstreetcn.com/livenews/3136237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://wallstreetcn.com/livenews/3136235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "摩尔线程WAIC 2026披露三大“AI工厂”进展",
           "url": "https://wallstreetcn.com/livenews/3136123",
           "source": "华尔街见闻-快讯",
@@ -2294,9 +2519,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "讯飞AI大学堂WAIC2026推出AI Learning与AI Vault",
+          "url": "https://wallstreetcn.com/livenews/3136234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
@@ -2308,6 +2544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "九章云极在WAIC发布“AI工厂”及九章智算云3.0",
+          "url": "https://wallstreetcn.com/livenews/3136233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "美国Inkling模型借鉴中国AI技术",
@@ -2349,7 +2596,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -2371,7 +2618,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -2407,12 +2654,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "人一旦开始用AI后",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E5%BC%80%E5%A7%8B%E7%94%A8AI%E5%90%8E&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 36,
+      "match_count": 45,
       "titles": [
         {
           "title": "上海足协发布对“禁足”人员申思的调查通报",
@@ -2433,11 +2691,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 19时50分]"
         },
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -2461,11 +2720,25 @@
             18,
             13,
             15,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 19时50分]"
+        },
+        {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时50分]"
         },
         {
           "title": "加拿大山火持续，美多地发布空气质量、强风暴、洪水等预警",
@@ -2478,19 +2751,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时21分]"
         },
         {
           "title": "伊朗国家电视台：伊朗最高领袖哈梅内伊将于当地时间20:00针对国家问题发布声明。",
@@ -2570,11 +2830,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
+          "title": "手机次次充到100%也伤电池",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%AC%A1%E6%AC%A1%E5%85%85%E5%88%B0100%25%E4%B9%9F%E4%BC%A4%E7%94%B5%E6%B1%A0",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "当同一个视频发布在不同年份",
@@ -2602,6 +2875,18 @@
           "time_info": "[00时46分 ~ 02时51分]"
         },
         {
+          "title": "5家创业板公司发布业绩预告，天孚通信上半年净利最高预增45%",
+          "url": "https://www.cls.cn/detail/2430360",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
           "title": "如何看懂华为昇腾950超节点",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%87%82%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE950%E8%B6%85%E8%8A%82%E7%82%B9",
           "source": "bilibili 热搜",
@@ -2624,28 +2909,6 @@
           "time_info": "[13时15分 ~ 18时21分]"
         },
         {
-          "title": "手机次次充到100%也伤电池",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%AC%A1%E6%AC%A1%E5%85%85%E5%88%B0100%25%E4%B9%9F%E4%BC%A4%E7%94%B5%E6%B1%A0",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "5家创业板公司发布业绩预告，天孚通信上半年净利最高预增45%",
-          "url": "https://www.cls.cn/detail/2430360",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "两男子趁乘客候车睡着偷手机被抓",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E8%B6%81%E4%B9%98%E5%AE%A2%E5%80%99%E8%BD%A6%E7%9D%A1%E7%9D%80%E5%81%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8A%93",
           "source": "百度热搜",
@@ -2657,6 +2920,17 @@
           "time_info": "[05时42分 ~ 05时43分]"
         },
         {
+          "title": "万拿机器人发布两款灵巧手产品",
+          "url": "https://flash.jin10.com/detail/20260719190348400800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "腾讯云发布ADP 4.0海外版",
           "url": "https://flash.jin10.com/detail/20260719085329167800",
           "source": "金十数据",
@@ -2666,6 +2940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "阿里Token Plan个人版发布，Qwen3.8-Max预览版同步上线",
+          "url": "https://flash.jin10.com/detail/20260719185426934800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "告别“抽卡”，商汤发布最新旗舰模型U1 Pro",
@@ -2685,7 +2970,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -2707,9 +2992,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "万拿机器人发布两款灵巧手产品",
+          "url": "https://wallstreetcn.com/livenews/3136249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "约旦官方称美驻约旦使馆发布假消息",
+          "url": "https://flash.jin10.com/detail/20260719184441337800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "市场监管总局发布《个体工商户信用信息应用指南》",
@@ -2756,6 +3063,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "约旦国家通讯社援引政府发言人的话报道称，约旦当局尚未发布任何关于疏散亚喀巴机场或海港的决定。约旦当局在过去几小时内未发现任何潜在威胁。",
+          "url": "https://flash.jin10.com/detail/20260719183716321800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "手机次次充到100%伤电池",
           "url": "https://search.bilibili.com/all?keyword=%E6%89%8B%E6%9C%BA%E6%AC%A1%E6%AC%A1%E5%85%85%E5%88%B0100%25%E4%BC%A4%E7%94%B5%E6%B1%A0",
           "source": "bilibili 热搜",
@@ -2765,6 +3083,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "约旦官方称美驻约旦使馆发布假消息",
+          "url": "https://wallstreetcn.com/livenews/3136242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "阿里Token Plan个人版发布，Qwen3.8-Max预览版同步上线",
+          "url": "https://wallstreetcn.com/livenews/3136239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "中信建投：随着市场风偏的修复 看好商业航天板块后续表现",
@@ -2789,6 +3129,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "美驻约旦使馆发布安全警示",
+          "url": "https://flash.jin10.com/detail/20260719180836353800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "上海发布中心城区暴雨蓝色预警信号，防汛防台四级响应行动同步启动",
           "url": "https://wallstreetcn.com/livenews/3136044",
           "source": "华尔街见闻-快讯",
@@ -2811,6 +3162,17 @@
           "time_info": "13时15分"
         },
         {
+          "title": "阡视科技发布超节点系统wylon",
+          "url": "https://wallstreetcn.com/livenews/3136230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "机器人手机从概念到现实意味着什么",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BB%8E%E6%A6%82%E5%BF%B5%E5%88%B0%E7%8E%B0%E5%AE%9E%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -2828,7 +3190,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -2851,6 +3213,23 @@
           "time_info": "[00时46分 ~ 06时41分]"
         },
         {
+          "title": "女子发视频称被“陌生黄总多次喊去包厢”，杭州警方回应正开展调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33613373",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            15,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 19时50分]"
+        },
+        {
           "title": "发送给美国国会议员们的项目拨款相关通报显示，美国正准备为欧洲亲MAGA（让美国再次伟大）的倡议提供资金。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3136083",
           "source": "华尔街见闻-快讯",
@@ -2861,22 +3240,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时50分 ~ 09时53分]"
-        },
-        {
-          "title": "女子发视频称被“陌生黄总多次喊去包厢”，杭州警方回应正开展调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33613373",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            15,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 18时21分]"
         },
         {
           "title": "警方通报涉彭水山体崩塌谣言",
@@ -2939,15 +3302,17 @@
           "time_info": "[00时46分 ~ 06时41分]"
         },
         {
-          "title": "官方通报“笔试第一落选”始末",
-          "url": "https://www.toutiao.com/trending/7664013120520159275/",
-          "source": "今日头条",
+          "title": "“高考估分715查分299”？警方通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83%E4%BC%B0%E5%88%86715%E6%9F%A5%E5%88%86299%E2%80%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
-            5
+            11,
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时50分]"
         },
         {
           "title": "警方曝光牛肉制假案件，猪肉涂牛油泡牛血变「鲜牛肉」，暴露了哪些问题？消费者能从口感上分辨牛肉和猪肉吗？",
@@ -2963,16 +3328,16 @@
           "time_info": "[09时52分 ~ 18时21分]"
         },
         {
-          "title": "“高考估分715查分299”？警方通报",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83%E4%BC%B0%E5%88%86715%E6%9F%A5%E5%88%86299%E2%80%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "官方通报“笔试第一落选”始末",
+          "url": "https://www.toutiao.com/trending/7664013120520159275/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            14
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "女子身份信息被吸毒人员冒用，警方通报",
@@ -2982,8 +3347,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 19时50分]"
         },
         {
           "title": "国家开发银行原党委副书记、行长欧阳卫民通报被查",
@@ -2991,11 +3356,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
         },
         {
           "title": "卫健委辟谣韩红基金会物资分配不均",
@@ -3005,8 +3371,33 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
+          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
+          "title": "考生笔试第一却落选 官方最新通报",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E5%8D%B4%E8%90%BD%E9%80%89+%E5%AE%98%E6%96%B9%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "海南万宁辟谣“15亿影视基地落地”",
@@ -3021,27 +3412,27 @@
           "time_info": "[09时52分 ~ 13时15分]"
         },
         {
-          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
+          "title": "卫健委辟谣韩红基金会物资分配不均",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E8%BE%9F%E8%B0%A3%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E7%89%A9%E8%B5%84%E5%88%86%E9%85%8D%E4%B8%8D%E5%9D%87",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
+          "title": "官方辟谣：网传“韩红基金会向和田地区人民医院捐赠医疗设备”为不实信息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615249",
           "source": "澎湃新闻",
           "ranks": [
-            15,
+            16,
             14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
-        },
-        {
-          "title": "考生笔试第一却落选 官方最新通报",
-          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E5%8D%B4%E8%90%BD%E9%80%89+%E5%AE%98%E6%96%B9%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "16岁女儿遭父亲性侵案迎反转",
@@ -3053,28 +3444,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "卫健委辟谣韩红基金会物资分配不均",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E8%BE%9F%E8%B0%A3%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E7%89%A9%E8%B5%84%E5%88%86%E9%85%8D%E4%B8%8D%E5%9D%87",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "官方辟谣：网传“韩红基金会向和田地区人民医院捐赠医疗设备”为不实信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615249",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "三问生父被控性侵案二审反转",
@@ -3102,7 +3471,7 @@
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "如何看待《长安三万里》的导演谢君伟，也不知道他新片《三国第一部争洛阳》票房扑街的原因？",
@@ -3214,11 +3583,12 @@
           "url": "https://www.toutiao.com/trending/7664081491151929370/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "电影八仙真实观后感",
@@ -3256,8 +3626,19 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时50分]"
+        },
+        {
+          "title": "《功夫女足》进入年度票房前四",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%BF%9B%E5%85%A5%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E5%89%8D%E5%9B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 19时50分]"
         },
         {
           "title": "《功夫女足》票房破12亿",
@@ -3294,17 +3675,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "《功夫女足》进入年度票房前四",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%BF%9B%E5%85%A5%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E5%89%8D%E5%9B%9B",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "佩德里入驻抖音",
@@ -3371,6 +3741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "迪丽热巴总票房破20亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B420%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
@@ -3523,6 +3904,18 @@
           "time_info": "[04时55分 ~ 07时45分]"
         },
         {
+          "title": "杭州图书馆允许流浪汉免费入馆阅读，回复投诉读者「我无权拒绝任何人，但你可以离开」，这个做法是否合理？",
+          "url": "https://www.zhihu.com/question/2061763921598476625",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时50分]"
+        },
+        {
           "title": "英国海上贸易行动办公室：军事当局已通报，涉事船只已被操纵驶入索马里领海。英国海事贸易行动办公室已将该事件重新归类为“劫船”事件。",
           "url": "https://flash.jin10.com/detail/20260719010900540800",
           "source": "金十数据",
@@ -3535,17 +3928,6 @@
           "time_info": "[01时50分 ~ 02时51分]"
         },
         {
-          "title": "杭州图书馆允许流浪汉免费入馆阅读，回复投诉读者「我无权拒绝任何人，但你可以离开」，这个做法是否合理？",
-          "url": "https://www.zhihu.com/question/2061763921598476625",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
           "title": "英国海上贸易行动办公室：收到一起事件报告，涉及一艘商船和军事力量，事发地点位于阿曼杜古姆（Duqm）以东约100海里处。报告显示，该油轮在该地区的持续军事活动中受到影响。",
           "url": "https://flash.jin10.com/detail/20260719004636140800",
           "source": "金十数据",
@@ -3556,6 +3938,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "教程 模板 网站",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据网络状况监测网站DownDetector的数据，大约在美国时间周日凌晨3:25开始，数千名用户报告Facebook和Instagram出现故障。",
+          "url": "https://flash.jin10.com/detail/20260719175502320800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2430460",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     }
