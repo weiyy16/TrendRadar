@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T16:11:16.209824+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-07-21T18:59:24.263146+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
         {
           "title": "头条世界杯｜最好的足球重返世界之巅，西班牙书写连串历史",
@@ -30,11 +30,12 @@
             4,
             7,
             16,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时28分 ~ 16时11分]"
+          "appearance_count": 11,
+          "time_info": "[03时28分 ~ 18时59分]"
         },
         {
           "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
@@ -122,11 +123,12 @@
           "ranks": [
             3,
             2,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 16时11分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 18时59分]"
         },
         {
           "title": "C罗点赞FIFA偏袒阿根廷",
@@ -134,11 +136,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 16时11分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 18时59分]"
         },
         {
           "title": "阿根廷首都发生骚乱",
@@ -217,17 +220,6 @@
           "time_info": "[01时26分 ~ 03时28分]"
         },
         {
-          "title": "世界杯失利,阿根廷爆发骚乱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356372&amp;topic_name=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%B1%E5%88%A9%2C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%88%86%E5%8F%91%E9%AA%9A%E4%B9%B1",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
           "title": "《少林足球》多位演员已去世",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E3%80%8B%E5%A4%9A%E4%BD%8D%E6%BC%94%E5%91%98%E5%B7%B2%E5%8E%BB%E4%B8%96",
           "source": "百度热搜",
@@ -266,6 +258,20 @@
           "time_info": "[03时28分 ~ 09时52分]"
         },
         {
+          "title": "美加墨世界杯的三个意难平",
+          "url": "https://www.toutiao.com/trending/7664777282707459635/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            9,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 18时59分]"
+        },
+        {
           "title": "亚马尔 19岁的世界杯冠军",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E9%A9%AC%E5%B0%94%2019%E5%B2%81%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
@@ -292,6 +298,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时26分 ~ 07时50分]"
+        },
+        {
+          "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
+          "url": "https://www.zhihu.com/question/2062554076487881992",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 18时59分]"
         },
         {
           "title": "单届赛事犯规数破百创纪录，阿根廷队“脏”上热搜",
@@ -336,6 +354,17 @@
           "time_info": "[01时26分 ~ 07时50分]"
         },
         {
+          "title": "谁是世界杯最大的球王",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E6%98%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E7%90%83%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "C罗点赞FIFA想把世界杯送给阿根廷",
           "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%82%B9%E8%B5%9EFIFA%E6%83%B3%E6%8A%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%81%E7%BB%99%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -371,6 +400,18 @@
           "time_info": "[03时28分 ~ 13时15分]"
         },
         {
+          "title": "世界杯失利,阿根廷爆发骚乱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356372&amp;topic_name=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%B1%E5%88%A9%2C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%88%86%E5%8F%91%E9%AA%9A%E4%B9%B1",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时59分]"
+        },
+        {
           "title": "阿根廷队长赛后首次发声",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%95%BF%E8%B5%9B%E5%90%8E%E9%A6%96%E6%AC%A1%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -380,19 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
-        },
-        {
-          "title": "美加墨世界杯的三个意难平",
-          "url": "https://www.toutiao.com/trending/7664777282707459635/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 16时11分]"
         },
         {
           "title": "世界杯经济谁是赢家",
@@ -409,6 +437,17 @@
           "time_info": "[05时03分 ~ 09时52分]"
         },
         {
+          "title": "数据复盘｜104场比赛后，48队世界杯改变了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503168",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
+        },
+        {
           "title": "世界杯要扩军到 64 队，名额大增，国足这次会有希望吗？",
           "url": "https://www.zhihu.com/question/2060140311075098977",
           "source": "知乎",
@@ -423,16 +462,29 @@
           "time_info": "[03时28分 ~ 07时50分]"
         },
         {
-          "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
-          "url": "https://www.zhihu.com/question/2062554076487881992",
-          "source": "知乎",
+          "title": "西班牙队世界杯夺冠归国游行",
+          "url": "https://www.douyin.com/hot/2579281",
+          "source": "抖音",
           "ranks": [
+            16,
             17,
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时52分 ~ 16时11分]"
+          "time_info": "[13时14分 ~ 18时59分]"
+        },
+        {
+          "title": "头条世界杯｜西班牙世界排名重返第一，C罗社媒再掀风波",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33625753",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
         },
         {
           "title": "为何世界杯颁奖时球员旗帜不同",
@@ -473,15 +525,17 @@
           "time_info": "[01时26分 ~ 16时11分]"
         },
         {
-          "title": "数据复盘｜104场比赛后，48队世界杯改变了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503168",
-          "source": "澎湃新闻",
+          "title": "新华社世界杯出图",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%9B%BE",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            12,
+            28,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
+          "time_info": "[09时52分 ~ 18时59分]"
         },
         {
           "title": "美加墨世界杯落下帷幕 FIFA预估狂揽90亿美元收入",
@@ -493,18 +547,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 05时04分]"
-        },
-        {
-          "title": "西班牙队世界杯夺冠归国游行",
-          "url": "https://www.douyin.com/hot/2579281",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
         },
         {
           "title": "这届世界杯经常出现的「XX 是个外行」是什么梗，为什么这么多人躺床上骂别人是外行，这个梗为什么这么好玩？",
@@ -529,18 +571,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 05时04分]"
-        },
-        {
-          "title": "头条世界杯｜西班牙世界排名重返第一，C罗社媒再掀风波",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33625753",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
         },
         {
           "title": "西班牙阿根廷赛后打起来了",
@@ -579,18 +609,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 07时50分]"
-        },
-        {
-          "title": "新华社世界杯出图",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 13时15分]"
         },
         {
           "title": "C罗点赞FIFA想把世界杯送给阿根廷",
@@ -715,6 +733,39 @@
           "time_info": "09时52分"
         },
         {
+          "title": "阿根廷队多人面临禁赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%A4%9A%E4%BA%BA%E9%9D%A2%E4%B8%B4%E7%A6%81%E8%B5%9B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "阿根廷队多人面临禁赛",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%A4%9A%E4%BA%BA%E9%9D%A2%E4%B8%B4%E7%A6%81%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "美加墨世界杯那些瞬间",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%82%A3%E4%BA%9B%E7%9E%AC%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "输球后阿根廷首都发生骚乱",
           "url": "https://www.douyin.com/hot/2578366",
           "source": "抖音",
@@ -748,6 +799,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "马云现身世界杯总决赛现场",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA",
           "source": "百度热搜",
@@ -779,12 +841,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "西班牙夺冠为何被视为“足球赢了”",
+          "url": "https://www.toutiao.com/trending/7664388208460922934/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -830,11 +903,12 @@
             11,
             13,
             18,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 16时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时26分 ~ 18时59分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -940,27 +1014,17 @@
           "time_info": "[09时52分 ~ 13时15分]"
         },
         {
-          "title": "我在豆包养宠物",
-          "url": "https://www.douyin.com/hot/2579333",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
           "title": "Rain喊话NiKo大表哥对决",
           "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
         },
         {
           "title": "WAIC预计达成超200亿元意向采购金额",
@@ -974,27 +1038,17 @@
           "time_info": "[07时50分 ~ 09时52分]"
         },
         {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.toutiao.com/trending/7664683124179337279/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
           "ranks": [
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -1011,6 +1065,18 @@
           "time_info": "[01时26分 ~ 07时50分]"
         },
         {
+          "title": "我在豆包养宠物",
+          "url": "https://www.douyin.com/hot/2579333",
+          "source": "抖音",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时59分]"
+        },
+        {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
           "url": "https://wallstreetcn.com/livenews/3137082",
           "source": "华尔街见闻-快讯",
@@ -1022,16 +1088,52 @@
           "time_info": "05时04分"
         },
         {
+          "title": "AI的猴子为什么能让菲律宾“破防”",
+          "url": "https://www.toutiao.com/trending/7664683124179337279/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时59分]"
+        },
+        {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
             6,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
         },
         {
           "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
@@ -1070,29 +1172,6 @@
           "time_info": "[05时03分 ~ 07时50分]"
         },
         {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
-        },
-        {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
-        },
-        {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
           "url": "https://wallstreetcn.com/articles/3777377",
           "source": "华尔街见闻",
@@ -1102,6 +1181,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 07时50分]"
+        },
+        {
+          "title": "未来的AI终端长什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84AI%E7%BB%88%E7%AB%AF%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 18时59分]"
         },
         {
           "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
@@ -1183,15 +1274,26 @@
           "time_info": "[13时14分 ~ 13时15分]"
         },
         {
-          "title": "未来的AI终端长什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84AI%E7%BB%88%E7%AB%AF%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
           "ranks": [
-            23
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
+          "url": "https://www.cls.cn/detail/2432387",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -1205,15 +1307,37 @@
           "time_info": "01时26分"
         },
         {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "Kimi负责人回应三大争议：SOTA模型应有自己的定价权",
           "url": "https://wallstreetcn.com/livenews/3137428",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "AI耗电激增与高温炙烤下 美国电网迎极限考验",
+          "url": "https://wallstreetcn.com/livenews/3137523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -1249,15 +1373,37 @@
           "time_info": "13时15分"
         },
         {
+          "title": "AI的猴子为什么能让菲律宾“破防”",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9A%84%E7%8C%B4%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%AE%A9%E8%8F%B2%E5%BE%8B%E5%AE%BE%E2%80%9C%E7%A0%B4%E9%98%B2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "瑞银证券孟磊：短期震荡后，继续看好科技和AI为下半年市场主线",
           "url": "https://wallstreetcn.com/livenews/3137401",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "国家超算互联网上线Kimi K3 API服务",
+          "url": "https://wallstreetcn.com/livenews/3137498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "xAI为微软Excel推出Grok插件",
@@ -1274,18 +1420,19 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 18时59分]"
         },
         {
           "title": "中国海警局发布菲律宾非法「坐滩」57 号舰蓄意挑衅的声明，并公布现场画面，有哪些信息值得关注？",
@@ -1296,8 +1443,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 16时11分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 18时59分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -1390,7 +1537,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1441,6 +1588,19 @@
           "time_info": "09时52分"
         },
         {
+          "title": "【午报】科创50探底回升涨近7%，半导体芯片产业链集体爆发",
+          "url": "https://www.cls.cn/detail/2432290",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
+        },
+        {
           "title": "美股存储芯片反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -1452,16 +1612,16 @@
           "time_info": "[01时26分 ~ 06时50分]"
         },
         {
-          "title": "【午报】科创50探底回升涨近7%，半导体芯片产业链集体爆发",
-          "url": "https://www.cls.cn/detail/2432290",
-          "source": "财联社热门",
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时59分]"
         },
         {
           "title": "复联5毁灭之日新预告发布",
@@ -1474,17 +1634,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时52分 ~ 16时11分]"
-        },
-        {
-          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
-          "url": "https://wallstreetcn.com/articles/3777521",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "科创50涨超6% 芯片股领涨",
@@ -1576,6 +1725,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "小鹏集团发布TuringViT高效视觉编码器",
           "url": "https://flash.jin10.com/detail/20260721125250366800",
           "source": "金十数据",
@@ -1585,6 +1745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "据港交所文件，小米集团(01810.HK)于7月21日回购了180万股B类股份，交易金额为5000万港元。",
+          "url": "https://flash.jin10.com/detail/20260721182312996800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "SpaceX将于8月4日发布二季度业绩报告。",
@@ -1659,9 +1830,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "澜起科技：DDR5 RCD芯片出货量显著增加 CPU需求增加将推动内存互连芯片市场规模扩大",
+          "url": "https://wallstreetcn.com/livenews/3137509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "创业板指涨超4%，科创50涨幅扩大至6%，半导体芯片股领涨，华虹宏力、强一股份、臻宝科技、中科飞测、中微公司等涨幅居前。",
@@ -1673,6 +1855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》发布",
+          "url": "https://flash.jin10.com/detail/20260721180258777800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "创业板指涨超3%，科创50涨近5%，沪指涨0.16%，深成指涨2%，半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近2000只。",
@@ -1692,7 +1885,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -1700,7 +1893,7 @@
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美军公布最新伤亡情况",
@@ -1713,6 +1906,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时26分 ~ 09时52分]"
+        },
+        {
+          "title": "中方人员在仁爱礁“袭击”菲方？现场视频还原真相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33624136",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时03分 ~ 18时59分]"
         },
         {
           "title": "复仇者联盟5正式预告公布",
@@ -1728,20 +1936,6 @@
           "time_info": "[01时26分 ~ 09时52分]"
         },
         {
-          "title": "中方人员在仁爱礁“袭击”菲方？现场视频还原真相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33624136",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时03分 ~ 16时11分]"
-        },
-        {
           "title": "伊朗公布打击多国美军基地战果",
           "url": "https://news.ifeng.com/c/8uvTwaa2exp",
           "source": "凤凰网",
@@ -1752,6 +1946,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时52分 ~ 13时15分]"
+        },
+        {
+          "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33623764",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
         },
         {
           "title": "谢贤遗嘱公布",
@@ -1765,18 +1971,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时26分 ~ 09时52分]"
-        },
-        {
-          "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33623764",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
         },
         {
           "title": "如何评价 ShowMaker 在 EWC 面对现场观众嘘声时的回应？",
@@ -1814,6 +2008,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "BLG公布大名单",
+          "url": "https://s.weibo.com/weibo?q=BLG%E5%85%AC%E5%B8%83%E5%A4%A7%E5%90%8D%E5%8D%95&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "SpaceX(SPCX.O)将于当地时间8月4日公布2026年第二季度业绩并举行网络直播会议。",
           "url": "https://flash.jin10.com/detail/20260721040924618800",
           "source": "金十数据",
@@ -1831,7 +2036,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -2020,8 +2225,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 16时11分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 18时59分]"
         },
         {
           "title": "英国海上贸易行动办公室：收到关于阿曼利马（Limah）东北方向8海里处发生意外事件的报告。已收到多份报告称，一艘油轮报告其在霍尔木兹海峡遭不明抛射物击中。",
@@ -2065,7 +2270,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -2076,7 +2281,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -2095,8 +2300,19 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "广西辟谣“女流浪汉怀孕”",
+          "url": "https://www.toutiao.com/trending/7664750324720078345/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 18时59分]"
+        },
         {
           "title": "影迷会辟谣林青霞保留谢贤部分遗产",
           "url": "https://www.toutiao.com/trending/7664540225989804075/",
@@ -2110,17 +2326,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时26分 ~ 07时50分]"
-        },
-        {
-          "title": "广西辟谣“女流浪汉怀孕”",
-          "url": "https://www.toutiao.com/trending/7664750324720078345/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 16时11分]"
         },
         {
           "title": "林青霞影迷会辟谣林青霞保管谢贤遗产",
@@ -2142,11 +2347,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时59分]"
         },
         {
           "title": "评论员：稳市场不等于市场立刻反转",
@@ -2158,6 +2364,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 16时11分]"
+        },
+        {
+          "title": "A股上演史诗级深V反转",
+          "url": "https://www.toutiao.com/trending/7663853393986813962/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "周一（7月20日）纽约尾盘，ICE美元指数涨0.20%，报100.964点，日内交投区间为100.650-101.027点，整体呈现出V形反转行情。 彭博美元指数涨0.03%，报1217.41点，日内交投区间为1215.57-1218.47点。",
@@ -2174,7 +2391,7 @@
     },
     {
       "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国钢铁(X.N)向美国钢铁工人联合会提出一项为期五年的劳资协议方案，包括累计18.2%的工资涨幅和4000美元协议批准奖金。双方将于8月10日在匹兹堡恢复谈判。",
@@ -2192,11 +2409,23 @@
           "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时59分]"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     }
