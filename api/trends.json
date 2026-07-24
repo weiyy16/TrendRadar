@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T09:55:16.835474+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-07-24T13:15:21.792780+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 13时15分]"
+        },
         {
           "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
           "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 07时55分]"
-        },
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时59分 ~ 09时55分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -67,8 +67,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
@@ -76,11 +76,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -122,17 +123,6 @@
           "time_info": "[01时11分 ~ 07时55分]"
         },
         {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机柜。",
           "url": "https://flash.jin10.com/detail/20260724004744566800",
           "source": "金十数据",
@@ -164,6 +154,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时11分 ~ 06时57分]"
+        },
+        {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 13时15分]"
+        },
+        {
+          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计AI加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。",
@@ -204,11 +217,12 @@
           "url": "https://www.cls.cn/detail/2435740",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 13时15分]"
         },
         {
           "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
@@ -301,6 +315,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "科技记者、新书《人工智能帝国》作者Karen Hao认为，当前AI发展模式高度集中于少数大型科技公司，这些企业在追求技术突破的同时，也可能带来数据、能源、环境和劳动力等方面的问题，并进一步扩大经济不平等。她呼吁外界关注AI产业背后的权力结构，而不仅仅是技术进步本身。",
+          "url": "https://flash.jin10.com/detail/20260724130651260800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "苹果未能将所有AI语音训练诉讼案归入同一法官审理",
           "url": "https://wallstreetcn.com/livenews/3138995",
           "source": "华尔街见闻-快讯",
@@ -321,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "中国AI大反超，美国还能挡多久？",
+          "url": "https://news.ifeng.com/c/8uzcXG8YK32",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "存算一体芯片是AI的答案吗",
@@ -422,6 +458,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
+          "url": "https://wallstreetcn.com/livenews/3139199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
           "url": "https://wallstreetcn.com/livenews/3139011",
           "source": "华尔街见闻-快讯",
@@ -453,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
+          "url": "https://www.toutiao.com/trending/7665911607725149738/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "xAI：将GROK 4.5推出至iOS、Android、Web和X。",
@@ -491,7 +549,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
@@ -532,8 +590,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时57分 ~ 09时55分]"
+          "appearance_count": 6,
+          "time_info": "[06时57分 ~ 13时15分]"
         },
         {
           "title": "水果店只卖苹果 其中1款399元1颗",
@@ -603,8 +661,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时59分 ~ 09时55分]"
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 13时15分]"
         },
         {
           "title": "摩根大通将特斯拉目标价从475.00美元/股下调至445.00美元/股。",
@@ -635,9 +693,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "科创50指数逆市涨超2%，存储芯片板块走强；成分股中，晶晨股份、中科飞测双双涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260724131128507800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "任正非：韬定律是华为唯一突围道路",
@@ -646,7 +715,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -748,13 +817,35 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
+          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
+          "url": "https://wallstreetcn.com/articles/3777822",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "A股存储芯片板块午后回升，托伦斯涨超15%，至纯科技涨停，正帆科技涨超9%，通富微电、精测电子、强一股份、深科技、拓荆科技等个股跟涨。消息面上，长鑫科技将于2026年7月27日在上海证券交易所科创板上市。",
+          "url": "https://flash.jin10.com/detail/20260724130333818800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "A股开盘，沪指开跌0.60%，深证成指开跌1.47%，创业板指开跌1.68%；油服工程、燃气板块走强，贵金属、MLCC、CPO、存储芯片、PCB等板块低开。",
           "url": "https://flash.jin10.com/detail/20260724092540841800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -814,6 +905,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "越南天然气总公司（PV GAS）发布8月现货液化天然气供应招标，寻求采购150至170万百万英热的现货LNG，交货期为8月10日至26日。",
+          "url": "https://flash.jin10.com/detail/20260724125831868800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "AMD的CEO苏姿丰：新款Venice CPU扩大（本公司产品）在行业的领先地位。 全新EPYC架构带来了史上最大幅度的代际性能飞跃。 新款服务器CPU遥遥领先那些基于Arm的芯片。 新款EPYC性能比英伟达CPU高出20%。 Venice全面投产，客户需求强劲。 那些基于Venice的系统将在四季度出现。",
           "url": "https://wallstreetcn.com/livenews/3139013",
           "source": "华尔街见闻-快讯",
@@ -842,7 +944,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -869,6 +971,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报145150元/吨，较上日16:30价格下跌250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3139185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "AMD发布新产品，剑指2万亿美元市场机遇",
           "url": "https://wallstreetcn.com/livenews/3139003",
           "source": "华尔街见闻-快讯",
@@ -890,11 +1003,12 @@
           "url": "https://www.zhihu.com/question/2061502500440465960",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
@@ -932,11 +1046,12 @@
             17,
             26,
             16,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "美国公布新关税措施 24日生效",
@@ -944,11 +1059,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 09时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 13时15分]"
         },
         {
           "title": "王虹、邓煜领奖现场",
@@ -969,8 +1085,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 13时15分]"
         },
         {
           "title": "实拍王虹邓煜菲尔兹奖颁奖现场",
@@ -987,6 +1103,17 @@
           "time_info": "[05时59分 ~ 09时55分]"
         },
         {
+          "title": "美国公布新关税措施24日生效",
+          "url": "https://www.douyin.com/hot/2582854",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 13时15分]"
+        },
+        {
           "title": "美国公布新关税措施 24日生效",
           "url": "https://flash.jin10.com/detail/20260724052345750800",
           "source": "金十数据",
@@ -997,17 +1124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 06时57分]"
-        },
-        {
-          "title": "美国公布新关税措施24日生效",
-          "url": "https://www.douyin.com/hot/2582854",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 09时55分]"
         },
         {
           "title": "日本6月核心CPI年率将于十分钟后公布。",
@@ -1057,7 +1173,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何评价台球厅一男子拍助教屁股被索赔两千元，现因猥亵他人已被警方依法行政拘留？",
@@ -1069,8 +1185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "重庆梁平警方：挡道指挥加塞女子已被行拘，其丈夫被罚款并记分",
@@ -1080,11 +1196,12 @@
             12,
             10,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "足协辟谣米利西奇辞职",
@@ -1095,11 +1212,12 @@
             17,
             15,
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "中国警方向美方遣返美籍红通逃犯",
@@ -1206,12 +1324,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "男子有偿献血15次口吐白沫 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9C%89%E5%81%BF%E7%8C%AE%E8%A1%8015%E6%AC%A1%E5%8F%A3%E5%90%90%E7%99%BD%E6%B2%AB+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         }
       ]
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "抖音网友带我逛菲尔兹奖现场",
@@ -1222,11 +1351,12 @@
             8,
             9,
             11,
-            18
+            18,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "抖音网友祝贺邓煜王虹获奖",
@@ -1241,8 +1371,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 09时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 13时15分]"
         },
         {
           "title": "解析电影功夫女足内核",
@@ -1251,11 +1381,12 @@
           "ranks": [
             6,
             30,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 09时55分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 13时15分]"
         },
         {
           "title": "动画电影《八仙！》票房能超越《功夫女足》吗？",
@@ -1282,6 +1413,17 @@
           "time_info": "[03时02分 ~ 05时59分]"
         },
         {
+          "title": "如何看待周星驰电影《长江七号》最近在网络上获得好评？",
+          "url": "https://www.zhihu.com/question/2063330676313690982",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "电影想你了高凡留下最痛的纪念品",
           "url": "https://www.douyin.com/hot/2582069",
           "source": "抖音",
@@ -1291,6 +1433,141 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "故宫下周一免费开放",
+          "url": "https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%85%8D%E8%B4%B9%E5%BC%80%E6%94%BE",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 13时15分]"
+        },
+        {
+          "title": "职场开黄腔被开除网友一片该声",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%9C%BA%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E5%BC%80%E9%99%A4%E7%BD%91%E5%8F%8B%E4%B8%80%E7%89%87%E8%AF%A5%E5%A3%B0%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 06时57分]"
+        },
+        {
+          "title": "工信部办公厅印发2026年度国家工业节能监察任务清单",
+          "url": "https://flash.jin10.com/detail/20260724130800445800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "故宫下周一免费开放",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%85%8D%E8%B4%B9%E5%BC%80%E6%94%BE%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "据以色列第12频道：以色列总理办公室将在当地时间周五下午举行一次有限范围的安全磋商会议。",
+          "url": "https://flash.jin10.com/detail/20260724000452789800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "人社部亮出社保“家底”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E9%83%A8%E4%BA%AE%E5%87%BA%E7%A4%BE%E4%BF%9D%E2%80%9C%E5%AE%B6%E5%BA%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 07时55分]"
+        },
+        {
+          "title": "江西龙南市一工厂试用期工资1块钱1小时？劳动监察部门赴涉事工厂了解情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642659",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 13时15分]"
+        },
+        {
+          "title": "一首歌了解90后数学家王虹",
+          "url": "https://www.douyin.com/hot/2581990",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21,
+            14,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "人社部亮出社保“家底”",
+          "url": "https://www.toutiao.com/trending/7665260651014848521/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时59分]"
+        },
+        {
+          "title": "国际专业技术工程师联合会：已与波音(BA.N)就新合同的四项非经济条款达成初步协议。工会团队与波音还继续了此前关于经济问题的讨论，包括薪酬和退休福利。",
+          "url": "https://flash.jin10.com/detail/20260724124644055800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         }
       ]
     },
@@ -1342,106 +1619,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "人社部亮出社保“家底”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E9%83%A8%E4%BA%AE%E5%87%BA%E7%A4%BE%E4%BF%9D%E2%80%9C%E5%AE%B6%E5%BA%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
-        },
-        {
-          "title": "江西龙南市一工厂试用期工资1块钱1小时？劳动监察部门赴涉事工厂了解情况",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33642659",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
-        },
-        {
-          "title": "一首歌了解90后数学家王虹",
-          "url": "https://www.douyin.com/hot/2581990",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 09时55分]"
-        },
-        {
-          "title": "人社部亮出社保“家底”",
-          "url": "https://www.toutiao.com/trending/7665260651014848521/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时02分 ~ 05时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "职场开黄腔被开除网友一片该声",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%9C%BA%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E5%BC%80%E9%99%A4%E7%BD%91%E5%8F%8B%E4%B8%80%E7%89%87%E8%AF%A5%E5%A3%B0%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 06时57分]"
-        },
-        {
-          "title": "故宫下周一免费开放",
-          "url": "https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%85%8D%E8%B4%B9%E5%BC%80%E6%94%BE",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
-          "title": "据以色列第12频道：以色列总理办公室将在当地时间周五下午举行一次有限范围的安全磋商会议。",
-          "url": "https://flash.jin10.com/detail/20260724000452789800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
         }
       ]
     }
