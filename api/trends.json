@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T07:55:16.522291+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-24T09:55:16.835474+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
@@ -21,37 +21,16 @@
           "time_info": "[01时11分 ~ 07时55分]"
         },
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时57分]"
-        },
-        {
-          "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
-        },
-        {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时59分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[05时59分 ~ 09时55分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -63,8 +42,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时57分]"
         },
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -73,11 +63,35 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时53分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -108,16 +122,15 @@
           "time_info": "[01时11分 ~ 07时55分]"
         },
         {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机柜。",
@@ -187,6 +200,28 @@
           "time_info": "[05时59分 ~ 06时57分]"
         },
         {
+          "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
+          "url": "https://www.cls.cn/detail/2435740",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
+          "url": "https://www.zhihu.com/question/2063657419020792636",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
           "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
           "url": "https://wallstreetcn.com/livenews/3139099",
           "source": "华尔街见闻-快讯",
@@ -211,6 +246,28 @@
           "time_info": "[06时57分 ~ 07时55分]"
         },
         {
+          "title": "梁文锋称商业化是 DeepSeek 副产品，先做 AGI 突破，商业化水到渠成，如何理解？眼下该模式跑得通吗？",
+          "url": "https://www.zhihu.com/question/2063622655547110211",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "17岁少年贡献Kimi K3核心架构技术",
+          "url": "https://www.toutiao.com/trending/7665767109372153380/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
           "title": "AMD(AMD.O)：预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
           "url": "https://flash.jin10.com/detail/20260724003935431800",
           "source": "金十数据",
@@ -228,7 +285,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -338,7 +395,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -349,7 +406,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -434,7 +491,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
@@ -447,6 +504,36 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 07时55分]"
+        },
+        {
+          "title": "英皇娱乐发布声明",
+          "url": "https://www.douyin.com/hot/2582615",
+          "source": "抖音",
+          "ranks": [
+            22,
+            26,
+            20,
+            23,
+            15,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 09时55分]"
         },
         {
           "title": "水果店只卖苹果 其中1款399元1颗",
@@ -474,22 +561,6 @@
             18,
             13,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
-        },
-        {
-          "title": "英皇娱乐发布声明",
-          "url": "https://www.douyin.com/hot/2582615",
-          "source": "抖音",
-          "ranks": [
-            22,
-            26,
-            20,
-            23,
-            15,
-            13
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -524,6 +595,18 @@
           "time_info": "[01时11分 ~ 06时57分]"
         },
         {
+          "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
+          "url": "https://wallstreetcn.com/articles/3777778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时59分 ~ 09时55分]"
+        },
+        {
           "title": "摩根大通将特斯拉目标价从475.00美元/股下调至445.00美元/股。",
           "url": "https://flash.jin10.com/detail/20260724024132493800",
           "source": "金十数据",
@@ -546,16 +629,26 @@
           "time_info": "03时02分"
         },
         {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
+          "title": "南方两倍做空特斯拉(07366.HK)涨超15%；消息面上，特斯拉季度利润未达预期且自由现金流逾两年来首度转负。",
+          "url": "https://flash.jin10.com/detail/20260724093227900800",
+          "source": "金十数据",
           "ranks": [
-            12,
             3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 07时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "任正非：韬定律是华为唯一突围道路",
+          "url": "https://wallstreetcn.com/livenews/3139154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "上海一店只卖苹果 有一款单颗399元",
@@ -584,16 +677,16 @@
           "time_info": "[01时11分 ~ 04时53分]"
         },
         {
-          "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
-          "url": "https://wallstreetcn.com/articles/3777778",
-          "source": "华尔街见闻",
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            8
+            15,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时59分 ~ 07时55分]"
+          "time_info": "[07时54分 ~ 09时55分]"
         },
         {
           "title": "中国“芯片刻刀”终于出鞘",
@@ -621,17 +714,6 @@
           "time_info": "[04时53分 ~ 05时59分]"
         },
         {
-          "title": "美股七巨头齐跌 特斯拉重挫14%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
           "title": "特斯拉跌幅扩大至15.2%，刷新日低，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得大约41.2亿美元的单日盯市(mark-to-market)利润。 SpaceX一度涨1.9%。",
           "url": "https://wallstreetcn.com/livenews/3139048",
           "source": "华尔街见闻-快讯",
@@ -644,13 +726,46 @@
           "time_info": "[04时53分 ~ 05时59分]"
         },
         {
+          "title": "梁文锋称华为芯片一年内平替英伟达",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E7%A7%B0%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E4%B8%80%E5%B9%B4%E5%86%85%E5%B9%B3%E6%9B%BF%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "特斯拉崩跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "A股开盘，沪指开跌0.60%，深证成指开跌1.47%，创业板指开跌1.68%；油服工程、燃气板块走强，贵金属、MLCC、CPO、存储芯片、PCB等板块低开。",
+          "url": "https://flash.jin10.com/detail/20260724092540841800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "机构密集调研苹果产业链公司",
           "url": "https://wallstreetcn.com/livenews/3139111",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -721,6 +836,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "英伟达与Amkor签署价值15亿美元的芯片封装协议",
+          "url": "https://wallstreetcn.com/livenews/3139136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "特斯拉一度重挫15%，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得约41.2亿美元的单日盯市(mark-to-market)利润。S3数据显示，特斯拉约3%的股份被卖空。",
           "url": "https://wallstreetcn.com/livenews/3139044",
           "source": "华尔街见闻-快讯",
@@ -757,7 +883,7 @@
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
@@ -767,8 +893,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
@@ -777,11 +903,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "周星驰路演现场给小影迷唱生日歌",
@@ -792,8 +919,36 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "理财王大赛S2结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E8%B4%A2%E7%8E%8B%E5%A4%A7%E8%B5%9BS2%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            23,
+            17,
+            26,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "美国公布新关税措施 24日生效",
+          "url": "https://www.cls.cn/detail/2435701",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 09时55分]"
         },
         {
           "title": "王虹、邓煜领奖现场",
@@ -807,30 +962,29 @@
           "time_info": "[01时11分 ~ 03时02分]"
         },
         {
-          "title": "理财王大赛S2结果公布",
-          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E8%B4%A2%E7%8E%8B%E5%A4%A7%E8%B5%9BS2%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            23,
-            17,
-            26,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时55分]"
-        },
-        {
-          "title": "美国公布新关税措施 24日生效",
-          "url": "https://www.cls.cn/detail/2435701",
-          "source": "财联社热门",
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "实拍王虹邓煜菲尔兹奖颁奖现场",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8B%8D%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E9%A2%81%E5%A5%96%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            23,
+            28,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时59分 ~ 09时55分]"
         },
         {
           "title": "美国公布新关税措施 24日生效",
@@ -845,19 +999,6 @@
           "time_info": "[05时59分 ~ 06时57分]"
         },
         {
-          "title": "实拍王虹邓煜菲尔兹奖颁奖现场",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8B%8D%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E9%A2%81%E5%A5%96%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时59分 ~ 07时55分]"
-        },
-        {
           "title": "美国公布新关税措施24日生效",
           "url": "https://www.douyin.com/hot/2582854",
           "source": "抖音",
@@ -865,8 +1006,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 09时55分]"
         },
         {
           "title": "日本6月核心CPI年率将于十分钟后公布。",
@@ -875,7 +1016,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -916,7 +1057,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价台球厅一男子拍助教屁股被索赔两千元，现因猥亵他人已被警方依法行政拘留？",
@@ -928,8 +1069,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "重庆梁平警方：挡道指挥加塞女子已被行拘，其丈夫被罚款并记分",
@@ -938,23 +1079,12 @@
           "ranks": [
             12,
             10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
-        },
-        {
-          "title": "中国警方向美方遣返美籍红通逃犯",
-          "url": "https://news.ifeng.com/c/8v05Biqr8zl",
-          "source": "凤凰网",
-          "ranks": [
             11,
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "足协辟谣米利西奇辞职",
@@ -964,7 +1094,20 @@
             21,
             17,
             15,
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "中国警方向美方遣返美籍红通逃犯",
+          "url": "https://news.ifeng.com/c/8v05Biqr8zl",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -981,6 +1124,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 07时55分]"
+        },
+        {
+          "title": "赛里木湖景区通报工作人员殴打司机",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "赛里木湖景区通报工作人员殴打司机",
+          "url": "https://www.toutiao.com/trending/7665732992987349011/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "广西一公园大树倾倒致3死3伤 官方回应",
@@ -1030,6 +1195,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时55分]"
+        },
+        {
+          "title": "赛里木湖景区通报工作人员殴打旅游车司机：7人被警方控制，予以辞退",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33649439",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         }
       ]
     },
@@ -1049,8 +1225,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "抖音网友祝贺邓煜王虹获奖",
@@ -1061,11 +1237,12 @@
             24,
             27,
             12,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "解析电影功夫女足内核",
@@ -1073,11 +1250,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[04时53分 ~ 09时55分]"
         },
         {
           "title": "动画电影《八仙！》票房能超越《功夫女足》吗？",
@@ -1117,6 +1295,57 @@
       ]
     },
     {
+      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现在回看，本届世界杯最出圈的梗是？",
+          "url": "https://www.zhihu.com/question/2061075073474066248",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 09时55分]"
+        },
+        {
+          "title": "如何整体评价本次世界杯？",
+          "url": "https://www.zhihu.com/question/2062643903791108655",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 01时12分]"
+        },
+        {
+          "title": "蓝战非吐槽「阿根廷太脏」，遭数万阿根廷球迷围攻，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063564618597938295",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "为什么英国参加世界杯不叫英国队，而叫英格兰？",
+          "url": "https://www.zhihu.com/question/2050507183931012504",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
       "match_count": 4,
       "titles": [
@@ -1138,11 +1367,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "一首歌了解90后数学家王虹",
@@ -1156,8 +1386,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "人社部亮出社保“家底”",
@@ -1175,48 +1405,8 @@
       ]
     },
     {
-      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "现在回看，本届世界杯最出圈的梗是？",
-          "url": "https://www.zhihu.com/question/2061075073474066248",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时53分 ~ 07时55分]"
-        },
-        {
-          "title": "如何整体评价本次世界杯？",
-          "url": "https://www.zhihu.com/question/2062643903791108655",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
-        },
-        {
-          "title": "为什么英国参加世界杯不叫英国队，而叫英格兰？",
-          "url": "https://www.zhihu.com/question/2050507183931012504",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "职场开黄腔被开除网友一片该声",
@@ -1230,6 +1420,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时53分 ~ 06时57分]"
+        },
+        {
+          "title": "故宫下周一免费开放",
+          "url": "https://www.baidu.com/s?wd=%E6%95%85%E5%AE%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%85%8D%E8%B4%B9%E5%BC%80%E6%94%BE",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "据以色列第12频道：以色列总理办公室将在当地时间周五下午举行一次有限范围的安全磋商会议。",
