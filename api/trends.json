@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T08:06:36.796335+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-07-25T11:59:11.082864+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -17,8 +17,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 08时06分]"
+          "appearance_count": 8,
+          "time_info": "[02时14分 ~ 11时59分]"
+        },
+        {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 11时59分]"
         },
         {
           "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
@@ -48,6 +59,20 @@
           "time_info": "[02时14分 ~ 08时06分]"
         },
         {
+          "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
+          "url": "https://wallstreetcn.com/articles/3777851",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时58分 ~ 11时59分]"
+        },
+        {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -59,15 +84,16 @@
           "time_info": "[06时59分 ~ 07时00分]"
         },
         {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 11时59分]"
         },
         {
           "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
@@ -81,6 +107,18 @@
           "time_info": "05时58分"
         },
         {
+          "title": "台风红霞最新路径发布",
+          "url": "https://www.toutiao.com/trending/7666237422249709119/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 11时59分]"
+        },
+        {
           "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
           "url": "https://www.cls.cn/detail/2436472",
           "source": "财联社热门",
@@ -91,19 +129,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时14分 ~ 07时00分]"
-        },
-        {
-          "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
-          "url": "https://wallstreetcn.com/articles/3777851",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时58分 ~ 08时06分]"
         },
         {
           "title": "马斯克：开源获得压倒性支持。",
@@ -171,6 +196,28 @@
           "time_info": "[05时58分 ~ 08时06分]"
         },
         {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "马斯克财富一周蒸发8800亿元",
+          "url": "https://www.toutiao.com/trending/7665638121970745370/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
           "url": "https://wallstreetcn.com/livenews/3139661",
           "source": "华尔街见闻-快讯",
@@ -183,15 +230,70 @@
           "time_info": "[07时00分 ~ 08时06分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
+          "title": "除了玩手机还有这么多低成本爱好",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "Claude Opus 5发布",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%205%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "小米澎程 skynomadn90max 白色测试车现身，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2063349995479234462",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "马斯克财富一周蒸发8800亿元",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B4%A2%E5%AF%8C%E4%B8%80%E5%91%A8%E8%92%B8%E5%8F%918800%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "小米新机入网",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0%E6%9C%BA%E5%85%A5%E7%BD%91%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "三星华为阔折叠你怎么选",
+          "url": "https://www.douyin.com/hot/2583429",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
@@ -203,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "沙特民防部门针对吉赞地区发布紧急预警。",
+          "url": "https://flash.jin10.com/detail/20260725110604199800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "马斯克：Grok 4.6将在未来两周发布，Grok 4.7将在未来四周。",
@@ -233,20 +346,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
         {
-          "title": "台风红霞最新路径发布",
-          "url": "https://www.toutiao.com/trending/7666237422249709119/",
-          "source": "今日头条",
+          "title": "马斯克旗下的隧道企业“无聊公司”（The Boring Company）拟在新一轮融资中寻求200亿美元的估值。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139688",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "11时59分"
         },
         {
           "title": "阿联酋对外贸易部长：预计加拿大能源领域很快会有相关公告发布。",
@@ -269,13 +382,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "SK集团会长崔泰源：下次与英伟达黄仁勋见面时，他可能会要求提供更多内存芯片。 我们宣布的超大型项目现实且可实现。 Anthropic已决定自行打造“算力”。",
+          "url": "https://wallstreetcn.com/livenews/3139676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时14分 ~ 11时59分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时14分 ~ 11时59分]"
+        },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3777754",
@@ -300,17 +452,15 @@
           "time_info": "[02时14分 ~ 05时58分]"
         },
         {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
           "ranks": [
-            8,
-            7,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 08时06分]"
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -327,26 +477,13 @@
           "time_info": "[02时14分 ~ 08时06分]"
         },
         {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 08时06分]"
-        },
-        {
           "title": "韩国总统李在明：与全球科技公司合作开启人工智能新纪元。",
           "url": "https://flash.jin10.com/detail/20260725075120011800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -405,6 +542,28 @@
           "time_info": "[02时14分 ~ 08时06分]"
         },
         {
+          "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2063822441583993476",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -428,6 +587,17 @@
           "time_info": "[02时14分 ~ 04时13分]"
         },
         {
+          "title": "为什么说物理AI爆发要看深圳",
+          "url": "https://www.toutiao.com/trending/7666129028557835782/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
           "url": "https://wallstreetcn.com/livenews/3139592",
           "source": "华尔街见闻-快讯",
@@ -445,7 +615,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -472,6 +642,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
+          "url": "https://wallstreetcn.com/livenews/3139701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
           "url": "https://flash.jin10.com/detail/20260725010418061800",
           "source": "金十数据",
@@ -492,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "Meta Platforms(META.O)：Meta AI应用及Meta.ai的新功能将于7月24日起在部分市场陆续推出。",
@@ -525,23 +717,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
+          "url": "https://wallstreetcn.com/livenews/3139690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "委内瑞拉正式通报联合国，决定退出国际刑事法院",
           "url": "https://news.ifeng.com/c/8v2TyR0Kmp4",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 11时59分]"
         },
         {
           "title": "委内瑞拉正式通报联合国，决定退出国际刑事法院",
@@ -557,6 +761,94 @@
           "time_info": "[05时58分 ~ 08时06分]"
         },
         {
+          "title": "辟谣周榜｜沈阳全城停水系谣言",
+          "url": "https://www.toutiao.com/trending/7666039489613185043/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 11时59分]"
+        },
+        {
+          "title": "重庆警方今年打掉境内外电诈团伙198个",
+          "url": "https://www.toutiao.com/trending/7666253915905871398/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "重庆警方打掉境内外电诈团伙198个",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E6%89%93%E6%8E%89%E5%A2%83%E5%86%85%E5%A4%96%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99198%E4%B8%AA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "重庆警方今年打掉境内外电诈团伙198个",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E4%BB%8A%E5%B9%B4%E6%89%93%E6%8E%89%E5%A2%83%E5%86%85%E5%A4%96%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99198%E4%B8%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "重庆警方今年打掉境内外电诈团伙198个",
+          "url": "https://www.douyin.com/hot/2584249",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "中纪委通报：上半年50名省部级及以上干部被立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656291",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "警方通报女子举报遭公安一领导猥亵",
+          "url": "https://www.toutiao.com/trending/7666274175920639538/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "女子举报遭警察猥亵 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E9%81%AD%E8%AD%A6%E5%AF%9F%E7%8C%A5%E4%BA%B5+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "伦敦证券交易所集团-理柏（LSGE Lipper）正评估美国投资级（债券）基金的每周数据流。 此前，摩根大通报告称，逾六年来最大单周资金外流数据可能存在错误。",
           "url": "https://wallstreetcn.com/livenews/3139617",
           "source": "华尔街见闻-快讯",
@@ -566,17 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "辟谣周榜｜沈阳全城停水系谣言",
-          "url": "https://www.toutiao.com/trending/7666039489613185043/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         },
         {
           "title": "官方回应贵州大方再曝溶洞污染事件",
@@ -593,18 +874,19 @@
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 08时06分]"
+          "appearance_count": 8,
+          "time_info": "[02时14分 ~ 11时59分]"
         },
         {
           "title": "重庆山体崩塌现场新搜寻出3名遇难者",
@@ -644,8 +926,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 08时06分]"
+          "appearance_count": 5,
+          "time_info": "[06时59分 ~ 11时59分]"
+        },
+        {
+          "title": "现场公布！“菲舰似乎主动找打，碰瓷痕迹明显”",
+          "url": "https://news.ifeng.com/c/8v23O72INCo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "一位中国青年学者的菲尔兹奖现场感悟：要学王虹敢挑战大问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654786",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654735",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "台风红霞最新路径公布",
@@ -654,7 +969,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -712,9 +1027,52 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "微信撤回消息后可删除提示字",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E6%B6%88%E6%81%AF%E5%90%8E%E5%8F%AF%E5%88%A0%E9%99%A4%E6%8F%90%E7%A4%BA%E5%AD%97%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2,
+            6,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时14分 ~ 08时06分]"
+        },
+        {
+          "title": "Anthropic发布更具成本效率的Claude Opus 5模型",
+          "url": "https://flash.jin10.com/detail/20260725013909944800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "教师连续15年免费开办暑假托管班",
+          "url": "https://www.toutiao.com/trending/7666267151229714470/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         }
       ]
     },
@@ -754,41 +1112,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
       ]
     },
     {
-      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 2,
+      "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "微信撤回消息后可删除提示字",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E6%B6%88%E6%81%AF%E5%90%8E%E5%8F%AF%E5%88%A0%E9%99%A4%E6%8F%90%E7%A4%BA%E5%AD%97%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "工资交一半,老哥爱宠遭毒手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
+          "source": "贴吧",
           "ranks": [
-            5,
-            2,
-            6,
-            7,
-            22
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 08时06分]"
-        },
-        {
-          "title": "Anthropic发布更具成本效率的Claude Opus 5模型",
-          "url": "https://flash.jin10.com/detail/20260725013909944800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         }
       ]
     }
