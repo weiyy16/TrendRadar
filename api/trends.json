@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T05:46:05.372241+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-07-26T06:46:25.459628+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
@@ -38,8 +38,71 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "中央气象台发布今年首个台风红警",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
+          "url": "https://www.cls.cn/detail/2436740",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "任正非为什么说「τ 定律是华为唯一出路」？",
+          "url": "https://www.zhihu.com/question/2063930109304594992",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "最高级别预警！中央气象台发布暴雨红警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658733",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "中央气象台发布今年首个台风红色预警",
@@ -54,88 +117,30 @@
           "time_info": "[00时01分 ~ 01时59分]"
         },
         {
-          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
-          "url": "https://www.cls.cn/detail/2436740",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
-          "title": "中央气象台发布今年首个台风红警",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
-          "title": "任正非为什么说「τ 定律是华为唯一出路」？",
-          "url": "https://www.zhihu.com/question/2063930109304594992",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
           "title": "时光代理人3片头曲发布",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA3%E7%89%87%E5%A4%B4%E6%9B%B2%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
             5,
             13,
-            3
+            3,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
-          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
-          "url": "https://www.cls.cn/detail/2436840",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
-          "title": "最高级别预警！中央气象台发布暴雨红警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658733",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "“红霞”即将登陆，中央气象台发布最高级别台风预警",
           "url": "https://wallstreetcn.com/livenews/3139773",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "今年首个台风红色预警发布",
@@ -147,6 +152,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 03时07分]"
+        },
+        {
+          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时07分 ~ 06时46分]"
+        },
+        {
+          "title": "永远会被小苹果阿姨的真诚感动",
+          "url": "https://www.douyin.com/hot/2584228",
+          "source": "抖音",
+          "ranks": [
+            25,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "“红霞”已加强为强台风 今年首个台风红色预警发布",
@@ -175,30 +206,6 @@
           "time_info": "[01时00分 ~ 03时07分]"
         },
         {
-          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时07分 ~ 05时46分]"
-        },
-        {
-          "title": "永远会被小苹果阿姨的真诚感动",
-          "url": "https://www.douyin.com/hot/2584228",
-          "source": "抖音",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时07分]"
-        },
-        {
           "title": "《APEC数据促进增长高级别圆桌会主席声明》发布",
           "url": "https://flash.jin10.com/detail/20260726000736034800",
           "source": "金十数据",
@@ -224,6 +231,17 @@
           "time_info": "[00时01分 ~ 04时42分]"
         },
         {
+          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
           "title": "爸爸带娃玩手机孩子打翻烧水壶",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A8%83%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%AD%A9%E5%AD%90%E6%89%93%E7%BF%BB%E7%83%A7%E6%B0%B4%E5%A3%B6%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -238,7 +256,7 @@
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -249,24 +267,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            3,
-            14,
-            17,
-            20,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
@@ -278,11 +280,29 @@
             13,
             10,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            3,
+            14,
+            17,
+            20,
+            19,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -292,8 +312,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -304,8 +324,35 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -317,32 +364,6 @@
             27,
             14,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
-          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -376,22 +397,24 @@
           "url": "https://wallstreetcn.com/livenews/3139752",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时46分]"
+        },
+        {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时46分]"
-        },
-        {
-          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
-          "url": "https://flash.jin10.com/detail/20260726044659225800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "time_info": "[01时59分 ~ 06时46分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -406,16 +429,16 @@
           "time_info": "[00时01分 ~ 03时07分]"
         },
         {
-          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
-          "url": "https://wallstreetcn.com/articles/3777925",
-          "source": "华尔街见闻",
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 05时46分]"
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时46分]"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -423,11 +446,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时46分]"
         },
         {
           "title": "AI已经摸不透柯洁了",
@@ -439,6 +463,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 05时46分]"
+        },
+        {
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         }
       ]
     },
@@ -456,8 +491,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "电影八仙总票房破6亿",
@@ -471,8 +506,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "河南瓜农控诉有网红博流量低价收瓜",
@@ -482,22 +517,24 @@
             30,
             22,
             25,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "2026暑期档电影票房破55亿",
           "url": "https://wallstreetcn.com/livenews/3139775",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "电影《三国第一部：争洛阳》撤档",
@@ -506,11 +543,12 @@
           "ranks": [
             21,
             8,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时46分]"
         },
         {
           "title": "《年会不能停 2！》开点映了，看过的都来说说，如何评价这部电影？",
@@ -519,11 +557,12 @@
           "ranks": [
             19,
             17,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时07分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[03时07分 ~ 06时46分]"
         },
         {
           "title": "保罗乔治直播锐评抖音海选球迷",
@@ -572,8 +611,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
@@ -584,8 +623,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -594,11 +633,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "直击台风红霞现场实况",
@@ -608,8 +648,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 06时46分]"
+        },
+        {
+          "title": "日本确认南鸟岛海泥含中重稀土",
+          "url": "https://www.toutiao.com/trending/7665884486211371035/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            12,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时07分 ~ 06时46分]"
         },
         {
           "title": "伊朗公布近期美国在中东地区资产受损清单",
@@ -623,19 +677,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时59分 ~ 04时42分]"
-        },
-        {
-          "title": "日本确认南鸟岛海泥含中重稀土",
-          "url": "https://www.toutiao.com/trending/7665884486211371035/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时07分 ~ 05时46分]"
         },
         {
           "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
@@ -685,11 +726,12 @@
             12,
             10,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "胖东来门口设200万音响免费唱",
@@ -704,19 +746,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "印尼海关办公室的一位发言人表示，政府正引入独立检验机构以查明矿产出口的构成，包括检测是否含有稀土金属。 政府并非随意暂停或禁止氧化铝和镍等矿产商品的出口，并正确保符合要求的商品出口顺畅。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3139771",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
@@ -724,11 +767,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时46分]"
         }
       ]
     },
@@ -744,8 +788,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "主办方通报李权哲高铁座位争议",
@@ -757,8 +801,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         },
         {
           "title": "专家辟谣“乳状云预示龙卷风”",
@@ -768,8 +812,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         }
       ]
     },
@@ -785,11 +829,12 @@
             27,
             9,
             14,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 06时46分]"
         }
       ]
     },
@@ -806,8 +851,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时46分]"
         }
       ]
     }
