@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T00:01:53.301935+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-07-27T01:04:14.122742+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "Kimi K3再引关注，瑞银：中国模型的结构性成本优势有望长期保持",
@@ -15,41 +15,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
           "url": "https://www.zhihu.com/question/2063915578427963194",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "AI还要跌多久",
@@ -59,19 +62,56 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
           "url": "https://www.cls.cn/detail/2437146",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
+        },
+        {
+          "title": "AI冲击短剧行业 “戏王”也扛不住了",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -85,37 +125,37 @@
           "time_info": "[00时00分 ~ 00时01分]"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
+          "title": "考公人发现豆包的神奇用法",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E4%BA%BA%E5%8F%91%E7%8E%B0%E8%B1%86%E5%8C%85%E7%9A%84%E7%A5%9E%E5%A5%87%E7%94%A8%E6%B3%95&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "AI冲击短剧行业 “戏王”也扛不住了",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
+          "title": "观众为何不能容忍长剧片头用AI",
+          "url": "https://www.toutiao.com/trending/7666471179586650166/",
+          "source": "今日头条",
           "ranks": [
-            21
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
+          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
+          "url": "https://wallstreetcn.com/livenews/3139836",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "[00时01分 ~ 01时04分]"
         },
         {
           "title": "美国发生AI失控事故",
@@ -135,18 +175,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
-          "url": "https://wallstreetcn.com/livenews/3139836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         }
@@ -164,19 +193,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "硬核逃犯32年不用手机终被逮",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356524&amp;topic_name=%E7%A1%AC%E6%A0%B8%E9%80%83%E7%8A%AF32%E5%B9%B4%E4%B8%8D%E7%94%A8%E6%89%8B%E6%9C%BA%E7%BB%88%E8%A2%AB%E9%80%AE",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -186,8 +216,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -196,9 +226,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时04分]"
         },
         {
           "title": "黄仁勋、马斯克，最新涉华表态",
@@ -208,8 +238,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "如何看待张煜东在训练场录音曝光后发布的澄清声明？",
@@ -219,8 +249,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "极客湾手机续航大横评",
@@ -228,11 +258,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "小苹果阿姨感谢网友关心",
@@ -242,8 +273,19 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
+        },
+        {
+          "title": "韩国气象厅发布多地最高级别高温警报",
+          "url": "https://wallstreetcn.com/livenews/3139830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "[00时01分 ~ 01时04分]"
         },
         {
           "title": "日本大妈网恋“马斯克”被骗70万日元",
@@ -255,17 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时01分]"
-        },
-        {
-          "title": "韩国气象厅发布多地最高级别高温警报",
-          "url": "https://wallstreetcn.com/livenews/3139830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
         }
       ]
     },
@@ -278,11 +309,24 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91%E8%A2%AB%E9%80%AE%E6%8D%95%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
+        },
+        {
+          "title": "台网红馆长反对毒油事件",
+          "url": "https://www.douyin.com/hot/2585721",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "如何评价章笛沙执导，黄渤、吴磊、高叶等主演的电影《群星闪耀时》？",
@@ -292,63 +336,56 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
-        },
-        {
-          "title": "台网红馆长反对毒油事件",
-          "url": "https://www.douyin.com/hot/2585721",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "滞销西瓜被网红压价到一毛多一斤",
           "url": "https://www.baidu.com/s?wd=%E6%BB%9E%E9%94%80%E8%A5%BF%E7%93%9C%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%8E%8B%E4%BB%B7%E5%88%B0%E4%B8%80%E6%AF%9B%E5%A4%9A%E4%B8%80%E6%96%A4",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "《年会不能停 2！》开点映了，看过的都来说说，如何评价这部电影？",
           "url": "https://www.zhihu.com/question/2063662105644082961",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "鹿晗粉碎热搜词条",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%B2%89%E7%A2%8E%E7%83%AD%E6%90%9C%E8%AF%8D%E6%9D%A1%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "电影痴迷到底恐怖在哪里",
           "url": "https://www.douyin.com/hot/2585711",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "2026年暑期档电影票房已破55亿元，超去年同期10亿元",
@@ -357,9 +394,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时04分]"
         }
       ]
     },
@@ -375,8 +412,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "两万斤河南滞销西瓜进入复旦，免费送给学生",
@@ -386,69 +423,74 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "以总理办公室官员：目前国际部队的数量仅约为200人，来自友好国家。",
           "url": "https://flash.jin10.com/detail/20260726231120357800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时04分]"
         },
         {
           "title": "以总理办公室官员：任何国际部队进入加沙需获得以总理及国防和外交部长的单独批准。",
           "url": "https://flash.jin10.com/detail/20260726231018571800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时04分]"
         },
         {
           "title": "以总理办公室官员：国际部队将在与我们军队的全面协调下，在加沙黄线以外的地区开展工作。",
           "url": "https://flash.jin10.com/detail/20260726230953560800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时04分]"
         },
         {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
           "url": "https://flash.jin10.com/detail/20260726230940914800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时04分]"
         },
         {
           "title": "以总理办公室官员：除非哈马斯及加沙地带解除武装，否则我们坚持控制加沙的“黄线”区域。",
           "url": "https://flash.jin10.com/detail/20260726230858124800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时04分]"
         }
       ]
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "甘肃省委书记和省长赶赴山洪现场",
@@ -458,8 +500,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "甘肃省委书记省长赶赴山洪现场",
@@ -469,19 +511,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
           "url": "https://www.cls.cn/detail/2437013",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "甘肃渭源一景区山洪已致 10 人遇难，23 人受伤，现场情况如何？哪些信息值得关注？",
@@ -491,8 +534,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "极氪回应境外锁车事件并公布调整方案，此前有车主反映自驾出国遭远程锁车超30小时",
@@ -502,36 +545,60 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         },
         {
           "title": "我在现场看湘超",
           "url": "https://www.douyin.com/hot/2585328",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
+        },
+        {
+          "title": "甘肃省委书记省长赶赴山洪现场",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E8%B5%B6%E8%B5%B4%E5%B1%B1%E6%B4%AA%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "[01时03分 ~ 01时04分]"
         }
       ]
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "九寨沟景区通报泥石流致游客滞留",
           "url": "https://www.toutiao.com/trending/7666413116233629738/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
+        },
+        {
+          "title": "俄罗斯外交部：阿拉格齐向拉夫罗夫通报了当前为缓和因美国袭击伊朗而引发的中东紧张局势所开展的外交努力。",
+          "url": "https://flash.jin10.com/detail/20260727003153619800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "甘肃白银警方侦破一起16年前的命案，4名嫌犯落网",
@@ -541,8 +608,36 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "警方通报浦东足球场周边道路打架案件",
+          "url": "https://www.toutiao.com/trending/7666823117087506451/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "小王拆解世界杯谁是输家",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%8E%8B%E6%8B%86%E8%A7%A3%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B0%81%E6%98%AF%E8%BE%93%E5%AE%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
         }
       ]
     },
@@ -555,11 +650,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 01时04分]"
         }
       ]
     }
