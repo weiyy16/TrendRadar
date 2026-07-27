@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T04:16:24.324399+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-07-28T05:58:56.725225+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "真逗,DeepSeek说要去吃饭",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 05时58分]"
         },
         {
           "title": "国内首部AI长片首播",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "各个行业被AI取代的概率",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
@@ -61,11 +61,23 @@
           "ranks": [
             4,
             19,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
+        },
+        {
+          "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -90,19 +102,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
-        },
-        {
           "title": "外媒丑化Kimi创始人惹众怒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
           "source": "贴吧",
@@ -111,8 +110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -123,8 +122,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
@@ -135,8 +134,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -145,6 +144,32 @@
           "ranks": [
             17,
             20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时58分]"
+        },
+        {
+          "title": "DeepSeek说他先去吃饭了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            12,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -162,16 +187,42 @@
           "time_info": "[00时09分 ~ 02时20分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
+          "url": "https://www.zhihu.com/question/2058547288499119870",
+          "source": "知乎",
           "ranks": [
-            8,
-            20
+            16,
+            14,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时20分]"
+          "time_info": "[02时20分 ~ 05时58分]"
+        },
+        {
+          "title": "真有人把AI的照片当成自己",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 05时58分]"
+        },
+        {
+          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
+          "url": "https://www.cls.cn/detail/2438154",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时58分]"
         },
         {
           "title": "林志颖回应Kimi网上照片",
@@ -185,18 +236,6 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "真有人把AI的照片当成自己",
-          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 04时16分]"
-        },
-        {
           "title": "特朗普连发数十张AI图遭吐槽",
           "url": "https://www.douyin.com/hot/2586656",
           "source": "抖音",
@@ -206,18 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
-        },
-        {
-          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
-          "url": "https://www.zhihu.com/question/2058547288499119870",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 04时16分]"
         },
         {
           "title": "虞书欣疑似被AI融脸和声音",
@@ -254,6 +281,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3140521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "惠誉评级：人工智能市场的修正正成为主要信用风险。",
           "url": "https://flash.jin10.com/detail/20260728013709597800",
           "source": "金十数据",
@@ -265,26 +303,48 @@
           "time_info": "02时20分"
         },
         {
+          "title": "黄仁勋将赴美国国会山，讨论AI领导地位与开源问题",
+          "url": "https://flash.jin10.com/detail/20260728045414356800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
           "url": "https://wallstreetcn.com/livenews/3140484",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
         {
-          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
-          "url": "https://www.cls.cn/detail/2438154",
+          "title": "奥尔特曼宣称人类已处于\"奇点\"之中 AI将带来巨大积极影响",
+          "url": "https://www.cls.cn/detail/2437876",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
+          "url": "https://flash.jin10.com/detail/20260728042311728800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "KimiAI：已经开源了MoonEP，这是针对分布式MoE工作负载打造的高性能通信库。MoonEP旨在提升大规模场景下专家并行通信效率，帮助降低大型MoE模型在训练和推理系统中的通信开销。",
@@ -296,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
+          "url": "https://flash.jin10.com/detail/20260728041608521800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
@@ -315,9 +386,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "报道：特朗普政府即将敲定AI自愿监管框架",
+          "url": "https://wallstreetcn.com/livenews/3140508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
@@ -389,7 +471,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
@@ -399,8 +481,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -411,30 +493,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
-        },
-        {
-          "title": "亚马逊Leo拟部署5105颗卫星，进军手机直连通信市场",
-          "url": "https://wallstreetcn.com/livenews/3140496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
-          "url": "https://wallstreetcn.com/livenews/3140495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "九寨沟发布门票售罄通告",
@@ -446,8 +506,30 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
+        },
+        {
+          "title": "SpaceX蒸发的市值相当于一个特斯拉",
+          "url": "https://flash.jin10.com/detail/20260728054612999800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "苹果市值超越英伟达重回全球第一",
+          "url": "https://flash.jin10.com/detail/20260728053417052800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "约好跟同学写作业 其实是一起玩手机",
@@ -459,8 +541,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "苹果总市值超越英伟达重返全球第一",
@@ -470,8 +552,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "硬核逃犯32年不用手机终被逮",
@@ -482,8 +564,70 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
+        },
+        {
+          "title": "亚马逊Leo拟部署5105颗卫星，进军手机直连通信市场",
+          "url": "https://wallstreetcn.com/livenews/3140496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时58分]"
+        },
+        {
+          "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3140495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时58分]"
+        },
+        {
+          "title": "美方发布“强迫劳动”301调查最终措施，商务部回应",
+          "url": "https://www.cls.cn/detail/2438033",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 05时58分]"
+        },
+        {
+          "title": "饭店老板撞脸马斯克爆火",
+          "url": "https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E8%80%81%E6%9D%BF%E6%92%9E%E8%84%B8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 05时58分]"
+        },
+        {
+          "title": "男子骑车看手机 碾压路人脚赔9000元",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E7%9C%8B%E6%89%8B%E6%9C%BA+%E7%A2%BE%E5%8E%8B%E8%B7%AF%E4%BA%BA%E8%84%9A%E8%B5%949000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 05时58分]"
         },
         {
           "title": "极客湾手机续航大横评",
@@ -498,16 +642,16 @@
           "time_info": "[00时09分 ~ 04时16分]"
         },
         {
-          "title": "美方发布“强迫劳动”301调查最终措施，商务部回应",
-          "url": "https://www.cls.cn/detail/2438033",
+          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
+          "url": "https://www.cls.cn/detail/2437832",
           "source": "财联社热门",
           "ranks": [
-            13,
+            12,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 04时16分]"
+          "time_info": "[04时16分 ~ 05时58分]"
         },
         {
           "title": "九寨沟发布门票售罄通告",
@@ -521,38 +665,16 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "饭店老板撞脸马斯克爆火",
-          "url": "https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E8%80%81%E6%9D%BF%E6%92%9E%E8%84%B8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
+          "title": "央视发布钓鱼岛纪录片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%8F%91%E5%B8%83%E9%92%93%E9%B1%BC%E5%B2%9B%E7%BA%AA%E5%BD%95%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            16
+            28,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 04时16分]"
-        },
-        {
-          "title": "男子骑车看手机 碾压路人脚赔9000元",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E7%9C%8B%E6%89%8B%E6%9C%BA+%E7%A2%BE%E5%8E%8B%E8%B7%AF%E4%BA%BA%E8%84%9A%E8%B5%949000%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 04时16分]"
-        },
-        {
-          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
-          "url": "https://www.cls.cn/detail/2437832",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "[02时20分 ~ 05时58分]"
         },
         {
           "title": "为什么大多数男生会执着于一台属于自己的电脑？",
@@ -561,7 +683,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -577,15 +699,15 @@
           "time_info": "02时20分"
         },
         {
-          "title": "央视发布钓鱼岛纪录片",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%8F%91%E5%B8%83%E9%92%93%E9%B1%BC%E5%B2%9B%E7%BA%AA%E5%BD%95%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "中概指数收涨2.5%，KWEB涨2.7%，小米涨约9%，金山云涨超4.8%，网易、阿里、腾讯、阿里至少涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3140498",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时58分"
         },
         {
           "title": "美股存储芯片指数跌超7%，成分股闪迪跌9.2%，泰瑞达跌5.2%，西部数据跌5%，希捷科技跌4.4%，美光跌4.3%，拉姆研究跌4.3%。 此外，SK海力士ADR跌幅扩大至6％，报145.44美元/股，创上市以来新低，盘中市值1.06万亿美元。 费城半导体指数跌4%，英伟达跌约3.8%。",
@@ -602,7 +724,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "敬一丹公众号疑辟谣脑溢血传闻",
@@ -612,8 +734,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "敬一丹公众号疑似辟谣脑溢血传闻",
@@ -625,8 +747,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
+        },
+        {
+          "title": "中使馆通报公民遭保安强力对待",
+          "url": "https://www.douyin.com/hot/2586769",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "官方回应河南三支一扶成绩争议",
@@ -635,11 +768,12 @@
           "ranks": [
             16,
             26,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "Hoya辟谣加盟,Bin起驾回宫",
@@ -650,8 +784,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "周一（7月27日）纽约尾盘，ICE美元指数涨0.07%，报101.534点，日内交投区间为101.116-101.540点，整体呈现出长尾V形反转，北京时间15:00以来持续上扬。 彭博美元指数跌0.01%，报1222.37点，日内交投区间为1219.12-1222.58点。",
@@ -660,9 +794,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "敬一丹公众号疑似辟谣去世传闻",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%80%E4%B8%B9%E5%85%AC%E4%BC%97%E5%8F%B7%E7%96%91%E4%BC%BC%E8%BE%9F%E8%B0%A3%E5%8E%BB%E4%B8%96%E4%BC%A0%E9%97%BB%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "河南通报三支一扶高分争议",
@@ -682,7 +827,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
@@ -690,7 +835,7 @@
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "电影《年会不能停 2！》点映后口碑如何，它有哪些看点值得期待？",
@@ -698,11 +843,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "网红良子爬山被两人用竹竿抬肚子",
@@ -711,11 +857,12 @@
           "ranks": [
             25,
             19,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "时代少年团演唱会官宣抖音独家直播",
@@ -771,6 +918,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "韩红曾在电影节推荐《群星闪耀时》",
+          "url": "https://www.toutiao.com/trending/7666981089940930603/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         }
       ]
     },
@@ -818,7 +976,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
@@ -837,8 +995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "哈兰德评价哈兰葱",
@@ -849,8 +1007,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "世界杯历史优秀球员盘点",
@@ -890,8 +1048,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时58分]"
         },
         {
           "title": "中国驻日使馆发言人就日公布起诉村田晃大消息答记者问：日方须作出负责任的交代",
