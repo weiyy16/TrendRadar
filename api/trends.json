@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:54:03.306414+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-07-30T07:55:42.015980+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "千万不要把手机交给商家写好评",
@@ -14,22 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "女子修手机被店主导出40多张私密照",
@@ -37,6 +27,55 @@
           "source": "今日头条",
           "ranks": [
             8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "这次，马斯克都看不下去了",
+          "url": "https://news.ifeng.com/c/8vA3lGhS6lv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
+          "url": "https://www.zhihu.com/question/2065017879477725134",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682399",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
           "is_new": false,
@@ -58,42 +97,18 @@
           "time_info": "[03时01分 ~ 06时54分]"
         },
         {
-          "title": "这次，马斯克都看不下去了",
-          "url": "https://news.ifeng.com/c/8vA3lGhS6lv",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
-        },
-        {
-          "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
-          "url": "https://www.zhihu.com/question/2065017879477725134",
-          "source": "知乎",
+          "title": "“小苹果阿姨”故事感动全网",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
           "ranks": [
             15,
-            12,
-            10,
-            11
+            20,
+            30,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
-        },
-        {
-          "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682399",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
@@ -134,24 +149,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 06时54分]"
-        },
-        {
-          "title": "“小苹果阿姨”故事感动全网",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 07时55分]"
         },
         {
           "title": "小苹果阿姨劝大家别送东西了",
@@ -159,11 +162,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[04时15分 ~ 07时55分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨14.7%，小米涨8.1%，理想涨4.6%，拼多多、腾讯涨3.2%，B站、小鹏涨超2%，网易涨1.8%，日月光半导体跌6.8%。 ETF中，KWEB初步收涨1.8%，CQQQ涨0.2%。",
@@ -219,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美媒：马斯克计划在中期选举中大力支持共和党",
+          "url": "https://flash.jin10.com/detail/20260730070850843800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "美联储主席沃什举行新闻发布会：本次FOMC讨论富有建设性。",
@@ -367,18 +382,34 @@
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -388,33 +419,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -423,11 +429,12 @@
           "ranks": [
             17,
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -437,8 +444,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -446,6 +453,28 @@
           "source": "贴吧",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "AI热潮下的“冰火两重天”：芯片商笑纳现金，云厂商仍在等回报",
+          "url": "https://flash.jin10.com/detail/20260730073649960800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -474,6 +503,18 @@
           "time_info": "03时01分"
         },
         {
+          "title": "AI手机大战全面开打",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时55分]"
+        },
+        {
           "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
           "url": "https://wallstreetcn.com/livenews/3141925",
           "source": "华尔街见闻-快讯",
@@ -490,22 +531,45 @@
           "url": "https://www.zhihu.com/question/2065158710427751418",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时55分]"
         },
         {
-          "title": "AI手机大战全面开打",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
-          "source": "百度热搜",
+          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
+          "url": "https://flash.jin10.com/detail/20260730071758962800",
+          "source": "金十数据",
           "ranks": [
-            28
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
@@ -525,9 +589,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "微软CEO：AI模型应易于切换",
+          "url": "https://flash.jin10.com/detail/20260730065749615800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "市场消息：英特尔(INTC.O)向初创公司RosaicLabs提供了一些技术的访问权限，该公司CEO是英特尔CEO在其他公司的共同投资人。",
+          "url": "https://flash.jin10.com/detail/20260730065409051800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "卡特彼勒因AI退潮及Baird对数据中心的警告而暴跌",
@@ -539,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "Kimi K3为何全量开源",
+          "url": "https://www.douyin.com/hot/2589996",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "Meta Platforms(META.O)首席执行官：对新型人工智能创意工具的需求强劲。",
@@ -558,7 +655,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -588,7 +685,7 @@
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美女网红遭闺蜜诱骗丧命",
@@ -598,8 +695,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "网红私占宁波无人岛直播改造被查处，个人可以开发利用无居民海岛吗？荒岛为何不能随意建房、居住？",
@@ -612,8 +709,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "券商网红女首席处罚落地，“公开不当言论”涉及了哪些？",
@@ -624,22 +721,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
-        },
-        {
-          "title": "曾经的百亿票房先生黄渤，两部影片接连失利，他为什么突然不再是票房保障了？还有哪些演员扛不动院线票房了？",
-          "url": "https://www.zhihu.com/question/2041688424608952500",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "周星驰《功夫女足》上映 18 天票房破 20 亿，超过《给阿嬷的情书》跻身年度第二，如何评价这一成绩？",
@@ -649,11 +732,27 @@
             8,
             5,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "曾经的百亿票房先生黄渤，两部影片接连失利，他为什么突然不再是票房保障了？还有哪些演员扛不动院线票房了？",
+          "url": "https://www.zhihu.com/question/2041688424608952500",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            8,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "半个抖音的知识博主都去四川了",
@@ -664,8 +763,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "343斤网红徒步峨眉山晕倒被抬下山",
@@ -676,8 +775,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "抖音乒乓百分大战下次见",
@@ -693,6 +792,18 @@
           "time_info": "[03时01分 ~ 06时54分]"
         },
         {
+          "title": "“网红券商”Robinhood二季度净营收13.1亿美元，分析师预期12.8亿美元。 二季度调整后EBITDA为7.41亿美元，分析师预期6.289亿美元。 二季度加密货币收入1亿美元，分析师预期0.866亿美元。 二季度ARPU为187美元，分析师预期186.09美元。 二季度期权营收3.42亿美元，分析师预期3.384亿美元。 预计全年总体开支26.8亿-27.8亿美元，分析师预期29.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时55分]"
+        },
+        {
           "title": "电影悟空大圣宣布撤档",
           "url": "https://www.douyin.com/hot/2588922",
           "source": "抖音",
@@ -705,21 +816,43 @@
           "time_info": "[03时01分 ~ 04时15分]"
         },
         {
-          "title": "“网红券商”Robinhood二季度净营收13.1亿美元，分析师预期12.8亿美元。 二季度调整后EBITDA为7.41亿美元，分析师预期6.289亿美元。 二季度加密货币收入1亿美元，分析师预期0.866亿美元。 二季度ARPU为187美元，分析师预期186.09美元。 二季度期权营收3.42亿美元，分析师预期3.384亿美元。 预计全年总体开支26.8亿-27.8亿美元，分析师预期29.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3141943",
-          "source": "华尔街见闻-快讯",
+          "title": "电影悟空大圣宣布撤档",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%82%9F%E7%A9%BA%E5%A4%A7%E5%9C%A3%E5%AE%A3%E5%B8%83%E6%92%A4%E6%A1%A3%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "07时55分"
+        },
+        {
+          "title": "343斤网红玻璃桥跳舞被催促赶紧走",
+          "url": "https://s.weibo.com/weibo?q=%23343%E6%96%A4%E7%BD%91%E7%BA%A2%E7%8E%BB%E7%92%83%E6%A1%A5%E8%B7%B3%E8%88%9E%E8%A2%AB%E5%82%AC%E4%BF%83%E8%B5%B6%E7%B4%A7%E8%B5%B0%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "鉴宝网红炒股亏光父母积蓄遭拉黑",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%89%B4%E5%AE%9D%E7%BD%91%E7%BA%A2%E7%82%92%E8%82%A1%E4%BA%8F%E5%85%89%E7%88%B6%E6%AF%8D%E7%A7%AF%E8%93%84%E9%81%AD%E6%8B%89%E9%BB%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "重庆失联“00后”网格员龚宝冬确认遇难",
@@ -730,8 +863,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "重庆失联00后网格员确认遇难",
@@ -741,8 +874,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -750,11 +883,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "山体崩塌失联00后网格员确认遇难",
@@ -766,8 +900,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "记者用两个非常惨烈形容日本震后现场",
+          "url": "https://www.toutiao.com/trending/7668085321384529418/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "重庆失联00后网格员确认遇难",
@@ -775,22 +920,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "UP主赛车比赛现场探班王一博",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B5%9B%E8%BD%A6%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E6%8E%A2%E7%8F%AD%E7%8E%8B%E4%B8%80%E5%8D%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时55分]"
         },
         {
           "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
@@ -799,7 +946,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -824,24 +971,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "王耀庆年会2现场安可王说跳就跳",
+          "url": "https://www.douyin.com/hot/2589561",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
     {
       "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "已经忘了微信是怎么取代QQ的了",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
-        },
         {
           "title": "网友曝胖东来直饮水成免费取水点",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9B%B4%E9%A5%AE%E6%B0%B4%E6%88%90%E5%85%8D%E8%B4%B9%E5%8F%96%E6%B0%B4%E7%82%B9%23&t=31&band_rank=2&Refer=top",
@@ -852,8 +999,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "已经忘了微信是怎么取代QQ的了",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
+        },
+        {
+          "title": "已经忘了微信是怎么取代QQ的了",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16,
+            19,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "曝胖东来设置的直饮水成免费取水点",
@@ -865,20 +1039,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 05时53分]"
-        },
-        {
-          "title": "已经忘了微信是怎么取代QQ的了",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B2%E7%BB%8F%E5%BF%98%E4%BA%86%E5%BE%AE%E4%BF%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%96%E4%BB%A3QQ%E7%9A%84%E4%BA%86&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            16,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
         },
         {
           "title": "穷鬼年轻人被免费试吃坑麻了",
@@ -898,9 +1058,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "曝胖东来直饮水成免费取水点",
+          "url": "https://www.toutiao.com/trending/7667612671155617846/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
@@ -917,8 +1088,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "官方通报女生提醒同学别睡觉被老师打",
@@ -927,22 +1098,52 @@
           "ranks": [
             25,
             24,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时15分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[04时15分 ~ 07时55分]"
         },
         {
           "title": "官方通报乒乓球运动员挥拳击打对手",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E6%8C%A5%E6%8B%B3%E5%87%BB%E6%89%93%E5%AF%B9%E6%89%8B%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际足联正式对阿根廷足协启动调查",
+          "url": "https://www.toutiao.com/trending/7667140581370937350/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "国际足联正式对阿根廷足协启动调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E6%AD%A3%E5%BC%8F%E5%AF%B9%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F%E5%90%AF%E5%8A%A8%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
