@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-08-01T05:59:41.036972+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-08-01T07:01:48.482296+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
+          "url": "https://wallstreetcn.com/articles/3778381",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3778379",
@@ -19,28 +44,16 @@
           "time_info": "[01时23分 ~ 05时59分]"
         },
         {
-          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
-          "url": "https://www.cls.cn/detail/2442818",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
-        },
-        {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -49,22 +62,12 @@
           "ranks": [
             1,
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
-        },
-        {
-          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
-          "url": "https://wallstreetcn.com/articles/3778376",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -75,8 +78,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -87,19 +102,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
-          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
-          "url": "https://wallstreetcn.com/articles/3778413",
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
           "source": "华尔街见闻",
           "ranks": [
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -110,8 +126,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -120,22 +136,61 @@
           "ranks": [
             8,
             9,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
+          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
+          "url": "https://wallstreetcn.com/articles/3778378",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "保时捷女销冠回应被AI合成不雅视频",
+          "url": "https://www.toutiao.com/trending/7668540826486865930/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14,
+            24,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
@@ -147,31 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "保时捷女销冠回应被AI合成不雅视频",
-          "url": "https://www.toutiao.com/trending/7668540826486865930/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            14,
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
-        },
-        {
-          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
-          "url": "https://wallstreetcn.com/articles/3778378",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
         },
         {
           "title": "AI男主都能带货了",
@@ -188,50 +218,6 @@
           "time_info": "[01时23分 ~ 05时59分]"
         },
         {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
-          "url": "https://flash.jin10.com/detail/20260801052517590800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
-          "url": "https://flash.jin10.com/detail/20260801052034583800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
-          "url": "https://wallstreetcn.com/livenews/3143487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
@@ -244,6 +230,31 @@
           "time_info": "[01时23分 ~ 03时13分]"
         },
         {
+          "title": "如何评价 Deepseek-V4-Flash 正式版？",
+          "url": "https://www.zhihu.com/question/2066525148576998707",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
           "title": "AI公司批量抢购旧书",
           "url": "https://www.baidu.com/s?wd=AI%E5%85%AC%E5%8F%B8%E6%89%B9%E9%87%8F%E6%8A%A2%E8%B4%AD%E6%97%A7%E4%B9%A6",
           "source": "百度热搜",
@@ -254,6 +265,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时23分 ~ 04时57分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
+          "url": "https://flash.jin10.com/detail/20260801052517590800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时01分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
+          "url": "https://flash.jin10.com/detail/20260801052034583800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时01分]"
         },
         {
           "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
@@ -280,17 +315,16 @@
           "time_info": "[04时57分 ~ 05时59分]"
         },
         {
-          "title": "DeepSeek拟在内蒙古建超算中心",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
-          "source": "bilibili 热搜",
+          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
+          "url": "https://wallstreetcn.com/livenews/3143487",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            20,
+            4,
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时01分]"
         },
         {
           "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
@@ -298,11 +332,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时01分]"
         },
         {
           "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
@@ -310,11 +345,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时01分]"
         },
         {
           "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
@@ -322,11 +358,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时01分]"
         },
         {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
@@ -351,6 +388,50 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "因担忧虚假图像，谷歌撤回地球AI工具",
+          "url": "https://wallstreetcn.com/livenews/3143502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "报道：OpenAI本周预览了AI模型Astra",
+          "url": "https://wallstreetcn.com/livenews/3143500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "全球AI概念股集体反弹：欧股创历史新高 韩股暴涨近18%",
+          "url": "https://www.cls.cn/detail/2442691",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
           "url": "https://wallstreetcn.com/livenews/3143443",
           "source": "华尔街见闻-快讯",
@@ -365,36 +446,38 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
-        },
         {
           "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688958",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "三大运营商发布公告：第三方互联网渠道不再提供电信号卡办理服务",
           "url": "https://m.thepaper.cn/newsDetail_forward_33691634",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -409,8 +492,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "SpaceX即将发布IPO后首份财报 大摩警告最危险时刻来临",
@@ -421,8 +504,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "三大运营商发布公告",
@@ -433,19 +516,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "事关办理低龄未成年人严重暴力犯罪核准追诉案件，两部门联合发布规定",
           "url": "https://m.thepaper.cn/newsDetail_forward_33691641",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "跑分超glm5.2,DSv4flash发布",
@@ -455,8 +539,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "还有谁?小米澎程顶配不到30万",
@@ -466,8 +550,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计？",
@@ -499,11 +583,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 05时59分]"
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 07时01分]"
         },
         {
           "title": "苹果跌幅扩大至10%，创2025年4月以来最大盘中跌幅。苹果预计第四财季营收增长9%至11%，市场预期为增长12.1%。",
@@ -516,6 +601,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时13分]"
+        },
+        {
+          "title": "美股三大指数集体高开 苹果跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时01分]"
+        },
+        {
+          "title": "库克最后一场苹果电话会：汇率和供应限制打压业绩指引，“为供应链受限苦苦挣扎”，“正评估所有供应选项”",
+          "url": "https://wallstreetcn.com/articles/3778372",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
@@ -551,6 +659,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "特斯拉辟谣剥离中国业务",
+          "url": "https://www.douyin.com/hot/2591753",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "苹果跌幅扩大至10%",
           "url": "https://flash.jin10.com/detail/20260801003635344800",
           "source": "金十数据",
@@ -560,17 +679,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "美股三大指数集体高开 苹果跌超8%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
         }
       ]
     },
@@ -585,11 +693,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "据以色列i24News：加沙和平委员会的一位高级官员当地时间周五透露，根据拟议的加沙框架，以色列需履行的义务仅限于后续阶段，且具有可逆性。此外，这些义务的履行还取决于哈马斯及其他武装组织能否首先履行其安全承诺。",
@@ -662,8 +771,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "如果是 2012 年前的梅西面对 2026 世界杯决赛的冠军西班牙，有没有力挽狂澜的可能？",
@@ -723,8 +832,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "1988元可抱抱亲亲，其他服务可与伴漂女子详谈？贵州贵定县文旅局通报",
@@ -735,8 +844,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
         },
         {
           "title": "A股放量上涨是反弹还是反转",
@@ -775,39 +884,8 @@
       ]
     },
     {
-      "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家电网原董事长辛保安落马，退休已逾两年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692070",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
-        },
-        {
-          "title": "两项社保标准公开征求意见",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E9%A1%B9%E7%A4%BE%E4%BF%9D%E6%A0%87%E5%87%86%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马特·达蒙中国宣传《奥德赛》，谈及电影《长城》直言「好莱坞让张艺谋失望了」，怎样理解这一说法？",
@@ -819,8 +897,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "如何评价电影《隐入尘烟》？",
+          "url": "https://www.zhihu.com/question/516290284",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "索尼影业：《蜘蛛侠》预览票房达到7200万美元，创历史（同期）新高。",
@@ -832,6 +921,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国家电网原董事长辛保安落马，退休已逾两年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692070",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时01分]"
+        },
+        {
+          "title": "两项社保标准公开征求意见",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E9%A1%B9%E7%A4%BE%E4%BF%9D%E6%A0%87%E5%87%86%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 07时01分]"
         }
       ]
     },
