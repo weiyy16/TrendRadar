@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T04:08:16.600796+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-08-02T05:46:35.690626+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -61,8 +61,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -72,20 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -95,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -106,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -117,8 +118,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -128,8 +129,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -158,7 +159,7 @@
     },
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "当我把哈兰德大葱给福登看",
@@ -169,8 +170,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "阿根廷总统称巴西总统是小偷和坐过牢的人，卢拉回应",
@@ -180,8 +181,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "哈兰德与乔丹合影",
@@ -191,8 +192,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "外国女足球员试图进入西班牙飞地身亡",
@@ -205,8 +206,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "葡萄牙航空一客机起飞后因紧急情况返航",
@@ -216,8 +217,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "葡萄牙将加强南部海上边境管控",
@@ -227,8 +228,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "卫报列今年金球奖五大候选，凯恩、梅西、姆巴佩、亚马尔、罗德里入选，有哪些亮点和争议？",
+          "url": "https://www.zhihu.com/question/2066804117901669732",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         }
       ]
     },
@@ -244,8 +256,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
@@ -255,8 +267,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
@@ -267,20 +279,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
-          "url": "https://flash.jin10.com/detail/20260802021650818800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
@@ -290,8 +290,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
+          "url": "https://flash.jin10.com/detail/20260802021650818800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 05时46分]"
         },
         {
           "title": "“年龄不是免罪金牌”新规发布",
@@ -320,8 +333,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "续作拉胯,年会2首日票房倒挂",
@@ -331,8 +344,46 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "电影痴迷观影后遗症",
+          "url": "https://www.douyin.com/hot/2593333",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "初代网红宠物妞妞离世",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%AE%A0%E7%89%A9%E5%A6%9E%E5%A6%9E%E7%A6%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "2026暑期档电影票房破70亿，《八仙！》破10亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694228",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "广州一村子把周星驰电影画进现实",
@@ -347,113 +398,12 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "电影痴迷观影后遗症",
-          "url": "https://www.douyin.com/hot/2593333",
-          "source": "抖音",
-          "ranks": [
-            20,
-            17,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "初代网红宠物妞妞离世",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%AE%A0%E7%89%A9%E5%A6%9E%E5%A6%9E%E7%A6%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "2026暑期档电影票房破70亿，《八仙！》破10亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33694228",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "警方对捐侵华罪证少年启动保护",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356703&amp;topic_name=%E8%AD%A6%E6%96%B9%E5%AF%B9%E6%8D%90%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E5%90%AF%E5%8A%A8%E4%BF%9D%E6%8A%A4",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "陕西文旅辟谣遭伪史论者骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "戒指掉入高铁厕所无法寻找？官方回应",
-          "url": "https://www.baidu.com/s?wd=%E6%88%92%E6%8C%87%E6%8E%89%E5%85%A5%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%97%A0%E6%B3%95%E5%AF%BB%E6%89%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
-        },
-        {
-          "title": "警方对捐日本侵华罪证少年启动保护",
-          "url": "https://www.toutiao.com/trending/7668841212840889883/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时57分 ~ 04时08分]"
         }
       ]
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "个贷新规 8 月 1 日起实施，银行个贷综合融资成本上限公布，所有息费统一折算年化，对普通人借钱意味着什么？",
@@ -465,8 +415,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "圆脸谈美军F35坠毁后续",
@@ -475,11 +425,23 @@
           "ranks": [
             26,
             27,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "伊拉克政府声明：我们确认武装部队已做好准备，挫败任何针对邻国的企图，维护我们的地区安全。武装部队重申，不允许将伊拉克领土作为对邻国进行攻击的出发点或通道。",
+          "url": "https://flash.jin10.com/detail/20260802042733398800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "上汽集团公布最新销量数据：7月上汽集团整车销售33.9万辆，1-7月累计销售238.4万辆。",
@@ -489,8 +451,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "原神至冬交响音乐现场",
@@ -509,11 +471,77 @@
           "url": "https://www.toutiao.com/trending/7669039535711633446/",
           "source": "今日头条",
           "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "警方 通报 官方回应 反转 辟谣",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "警方对捐侵华罪证少年启动保护",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356703&amp;topic_name=%E8%AD%A6%E6%96%B9%E5%AF%B9%E6%8D%90%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E5%90%AF%E5%8A%A8%E4%BF%9D%E6%8A%A4",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "陕西文旅辟谣遭伪史论者骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "戒指掉入高铁厕所无法寻找？官方回应",
+          "url": "https://www.baidu.com/s?wd=%E6%88%92%E6%8C%87%E6%8E%89%E5%85%A5%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%97%A0%E6%B3%95%E5%AF%BB%E6%89%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "警方对捐日本侵华罪证少年启动保护",
+          "url": "https://www.toutiao.com/trending/7668841212840889883/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 05时46分]"
         }
       ]
     },
@@ -529,8 +557,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "美国财长买入日元笔记被拍",
@@ -556,11 +584,12 @@
           "ranks": [
             16,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         }
       ]
     }
