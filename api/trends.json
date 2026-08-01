@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T00:52:54.400410+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-02T01:55:30.245457+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -81,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -92,8 +92,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -103,19 +103,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
           "url": "https://flash.jin10.com/detail/20260801222340904800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -125,8 +126,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -136,8 +137,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "杨丞琳照片被判AI",
@@ -157,6 +158,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "当我把哈兰德大葱给福登看",
+          "url": "https://www.douyin.com/hot/2593967",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
+        },
+        {
           "title": "葡萄牙航空一客机起飞后因紧急情况返航",
           "url": "https://wallstreetcn.com/livenews/3143622",
           "source": "华尔街见闻-快讯",
@@ -164,19 +177,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "当我把哈兰德大葱给福登看",
-          "url": "https://www.douyin.com/hot/2593967",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "阿根廷总统称巴西总统是小偷和坐过牢的人，卢拉回应",
@@ -186,8 +188,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "哈兰德与乔丹合影",
@@ -197,8 +199,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
+        },
+        {
+          "title": "外国女足球员试图进入西班牙飞地身亡",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%90%83%E5%91%98%E8%AF%95%E5%9B%BE%E8%BF%9B%E5%85%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A3%9E%E5%9C%B0%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "葡萄牙将加强南部海上边境管控",
@@ -208,19 +222,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "外国女足球员试图进入西班牙飞地身亡",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%90%83%E5%91%98%E8%AF%95%E5%9B%BE%E8%BF%9B%E5%85%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A3%9E%E5%9C%B0%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         }
       ]
     },
@@ -236,8 +239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "续作拉胯,年会2首日票房倒挂",
@@ -247,19 +250,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "广州一村子把周星驰电影画进现实",
           "url": "https://www.toutiao.com/trending/7667917496282873862/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
+        },
+        {
+          "title": "电影痴迷观影后遗症",
+          "url": "https://www.douyin.com/hot/2593333",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "2026暑期档电影票房破70亿，《八仙！》破10亿",
@@ -269,19 +285,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "电影痴迷观影后遗症",
-          "url": "https://www.douyin.com/hot/2593333",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "初代网红宠物妞妞离世",
@@ -291,8 +296,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         }
       ]
     },
@@ -308,8 +313,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
@@ -319,8 +324,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
@@ -330,8 +335,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
@@ -341,13 +346,74 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "“年龄不是免罪金牌”新规发布",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B4%E9%BE%84%E4%B8%8D%E6%98%AF%E5%85%8D%E7%BD%AA%E9%87%91%E7%89%8C%E2%80%9D%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "最新消息 后续 现场 确认 公布",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "上汽集团公布最新销量数据：7月上汽集团整车销售33.9万辆，1-7月累计销售238.4万辆。",
+          "url": "https://wallstreetcn.com/livenews/3143611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
+        },
+        {
+          "title": "个贷新规 8 月 1 日起实施，银行个贷综合融资成本上限公布，所有息费统一折算年化，对普通人借钱意味着什么？",
+          "url": "https://www.zhihu.com/question/2066825729162195132",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
+        },
+        {
+          "title": "东北超62035人现场助战刷新纪录",
+          "url": "https://www.toutiao.com/trending/7669039535711633446/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
+        },
+        {
+          "title": "原神至冬交响音乐现场",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "圆脸谈美军F35坠毁后续",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%BE%8E%E5%86%9BF35%E5%9D%A0%E6%AF%81%E5%90%8E%E7%BB%AD",
+          "source": "bilibili 热搜",
           "ranks": [
             26
           ],
@@ -369,8 +435,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "警方对捐侵华罪证少年启动保护",
@@ -380,8 +446,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "陕西文旅辟谣遭伪史论者骚扰",
@@ -391,8 +457,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "戒指掉入高铁厕所无法寻找？官方回应",
@@ -402,58 +468,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "上汽集团公布最新销量数据：7月上汽集团整车销售33.9万辆，1-7月累计销售238.4万辆。",
-          "url": "https://wallstreetcn.com/livenews/3143611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "个贷新规 8 月 1 日起实施，银行个贷综合融资成本上限公布，所有息费统一折算年化，对普通人借钱意味着什么？",
-          "url": "https://www.zhihu.com/question/2066825729162195132",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "东北超62035人现场助战刷新纪录",
-          "url": "https://www.toutiao.com/trending/7669039535711633446/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "圆脸谈美军F35坠毁后续",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%BE%8E%E5%86%9BF35%E5%9D%A0%E6%AF%81%E5%90%8E%E7%BB%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         }
       ]
     },
@@ -469,8 +485,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         },
         {
           "title": "美国财长买入日元笔记被拍",
@@ -494,11 +510,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%BF%98%E8%83%BD%E9%87%8D%E6%96%B0%E4%B8%8A%E6%B6%A8%E5%90%97%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时55分]"
         }
       ]
     }
