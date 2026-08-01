@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T12:17:45.828553+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-08-01T15:25:26.115808+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -17,8 +17,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
+        },
+        {
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -33,18 +48,19 @@
           "time_info": "[01时23分 ~ 08时04分]"
         },
         {
-          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
-          "url": "https://wallstreetcn.com/articles/3778413",
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
           "source": "华尔街见闻",
           "ranks": [
+            9,
             8,
             7,
-            5,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -71,18 +87,19 @@
           "time_info": "[01时23分 ~ 05时59分]"
         },
         {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
-          "source": "华尔街见闻",
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
           "ranks": [
-            9,
-            8,
             7,
-            4
+            6,
+            8,
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -99,20 +116,6 @@
           "time_info": "[01时23分 ~ 07时01分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
-        },
-        {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
           "url": "https://www.cls.cn/detail/2442641",
           "source": "财联社热门",
@@ -125,6 +128,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时23分 ~ 12时17分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时23分 ~ 15时25分]"
+        },
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 15时25分]"
         },
         {
           "title": "Aiming回应宫斗:对方先骂人",
@@ -165,30 +193,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时23分 ~ 08时04分]"
-        },
-        {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 08时04分]"
-        },
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 12时17分]"
         },
         {
           "title": "保时捷女销冠回应被AI合成不雅视频",
@@ -272,6 +276,17 @@
           "time_info": "[05时59分 ~ 08时04分]"
         },
         {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://flash.jin10.com/detail/20260801052034583800",
           "source": "金十数据",
@@ -290,7 +305,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -394,28 +409,17 @@
           "time_info": "[04时57分 ~ 08时04分]"
         },
         {
-          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3143503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时04分]"
-        },
-        {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
           "url": "https://wallstreetcn.com/articles/3778448",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 15时25分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -426,8 +430,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 15时25分]"
+        },
+        {
+          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时17分]"
+          "time_info": "[07时01分 ~ 08时04分]"
         },
         {
           "title": "因担忧虚假图像，谷歌撤回地球AI工具",
@@ -454,6 +470,30 @@
           "time_info": "[07时01分 ~ 08时04分]"
         },
         {
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
           "url": "https://www.zhihu.com/question/2065499504187371980",
           "source": "知乎",
@@ -463,6 +503,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 05时59分]"
+        },
+        {
+          "title": "DeepSeekV4Flash正式版跑分出炉",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E8%B7%91%E5%88%86%E5%87%BA%E7%82%89%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -476,15 +528,15 @@
           "time_info": "01时23分"
         },
         {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "15时25分"
         },
         {
           "title": "全球AI概念股集体反弹：欧股创历史新高 韩股暴涨近18%",
@@ -509,15 +561,59 @@
           "time_info": "04时57分"
         },
         {
+          "title": "头部AI再失控 Claude黑进三家公司",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8AI%E5%86%8D%E5%A4%B1%E6%8E%A7+Claude%E9%BB%91%E8%BF%9B%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "DeepSeek V4 Flash模型权重发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "达利欧称 AI 资产泡沫特征已显现，80 年一次大周期已进尾声，这一说法有哪些依据？AI 热还能持续多久？",
           "url": "https://www.zhihu.com/question/2066610469444347106",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "AI大模型暴利时代彻底终结",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9A%B4%E5%88%A9%E6%97%B6%E4%BB%A3%E5%BD%BB%E5%BA%95%E7%BB%88%E7%BB%93&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "华尔街AI股神高杠杆爆仓出局",
@@ -531,24 +627,13 @@
           "time_info": "08时04分"
         },
         {
-          "title": "DeepSeekV4Flash正式版跑分出炉",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E8%B7%91%E5%88%86%E5%87%BA%E7%82%89%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "你如何评价「因为不能拖欠 AI 的钱开始招程序员」这种说法？是真的普遍存在的现象吗？",
           "url": "https://www.zhihu.com/question/2066094534753269655",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -559,7 +644,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -570,7 +655,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -581,18 +666,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "实测DeepSeek V4 Flash",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
@@ -600,8 +674,21 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "三大运营商发布公告：第三方互联网渠道不再提供电信号卡办理服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691634",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
+        },
         {
           "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688958",
@@ -609,18 +696,6 @@
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
-        },
-        {
-          "title": "三大运营商发布公告：第三方互联网渠道不再提供电信号卡办理服务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691634",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -644,11 +719,12 @@
           "ranks": [
             14,
             13,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
         },
         {
           "title": "跑分超glm5.2,DSv4flash发布",
@@ -722,28 +798,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "黑龙江发布暴雨红色预警：五常局地累计雨量或将超100毫米",
-          "url": "https://wallstreetcn.com/livenews/3143554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "吉林省发布山洪灾害气象风险橙色预警",
-          "url": "https://wallstreetcn.com/livenews/3143552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计？",
           "url": "https://www.zhihu.com/question/2065496535039742086",
           "source": "知乎",
@@ -756,6 +810,18 @@
           "time_info": "[01时23分 ~ 03时13分]"
         },
         {
+          "title": "如何评价最新发布的人民军队宣传片《制胜》？有哪些值得关注的细节？",
+          "url": "https://www.zhihu.com/question/2065877408276918979",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
           "url": "https://wallstreetcn.com/livenews/3143461",
           "source": "华尔街见闻-快讯",
@@ -766,6 +832,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时59分]"
+        },
+        {
+          "title": "黑龙江发布暴雨红色预警：五常局地累计雨量或将超100毫米",
+          "url": "https://wallstreetcn.com/livenews/3143554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
+          "title": "吉林省发布山洪灾害气象风险橙色预警",
+          "url": "https://wallstreetcn.com/livenews/3143552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
         },
         {
           "title": "发改委连续3场发布会回应算力发展",
@@ -805,6 +895,30 @@
           "time_info": "[07时01分 ~ 08时04分]"
         },
         {
+          "title": "菲律宾在中国领土黄岩岛划设所谓“领海基线”，外交部发布声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691585",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
+          "title": "甘肃省发布地质灾害气象风险红色预警",
+          "url": "https://wallstreetcn.com/livenews/3143544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
           "title": "如何评价华为盘古 5050 亿参数的 openPangu-2.0-Pro 模型及技术报告正式开源上线？",
           "url": "https://www.zhihu.com/question/2066567142019786000",
           "source": "知乎",
@@ -829,17 +943,6 @@
           "time_info": "[05时59分 ~ 07时01分]"
         },
         {
-          "title": "如何评价最新发布的人民军队宣传片《制胜》？有哪些值得关注的细节？",
-          "url": "https://www.zhihu.com/question/2065877408276918979",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "女子做支气管镜时身亡，丈夫称麻醉师全程玩手机，院方则称医生责任不大，卫健部门已介入，责任该如何认定？",
           "url": "https://www.zhihu.com/question/2066454251669124944",
           "source": "知乎",
@@ -849,6 +952,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
+          "url": "https://www.zhihu.com/question/2066835566323136078",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "科威特军队总参谋部：科威特防空部队目前正在应对敌方无人机攻击，以回击伊朗的侵略行径。若听到爆炸声，那是我方防空系统拦截敌方攻击所致。我们呼吁所有人遵守主管部门发布的安全与防护指令。",
+          "url": "https://flash.jin10.com/detail/20260801142851230800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "库克最后一场苹果电话会：汇率和供应限制打压业绩指引，“为供应链受限苦苦挣扎”，“正评估所有供应选项”",
@@ -862,26 +987,15 @@
           "time_info": "07时01分"
         },
         {
-          "title": "菲律宾在中国领土黄岩岛划设所谓“领海基线”，外交部发布声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691585",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "甘肃省发布地质灾害气象风险红色预警",
-          "url": "https://wallstreetcn.com/livenews/3143544",
+          "title": "《黄岩岛国家级自然保护区管理办法》发布",
+          "url": "https://wallstreetcn.com/livenews/3143556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "15时25分"
         },
         {
           "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
@@ -901,7 +1015,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -934,9 +1048,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "中央气象台继续发布暴雨黄色预警",
+          "url": "https://www.toutiao.com/trending/7668298609683349567/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "苹果跌幅扩大至10%",
@@ -956,7 +1081,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
@@ -964,7 +1089,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "陕西文旅辟谣遭伪史论者骚扰",
@@ -972,11 +1097,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
         },
         {
           "title": "1988元可抱抱亲亲，其他服务可与伴漂女子详谈？贵州贵定县文旅局通报",
@@ -999,19 +1125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时17分]"
-        },
-        {
-          "title": "警方对捐日本侵华罪证少年启动保护",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%AF%B9%E6%8D%90%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E5%90%AF%E5%8A%A8%E4%BF%9D%E6%8A%A4",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 15时25分]"
         },
         {
           "title": "警方对捐日本侵华罪证少年启动保护",
@@ -1020,20 +1135,57 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "警方删除威胁捐日军罪证少年言论",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%88%A0%E9%99%A4%E5%A8%81%E8%83%81%E6%8D%90%E6%97%A5%E5%86%9B%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E8%A8%80%E8%AE%BA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "警方对捐日本侵华罪证少年启动保护",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%AF%B9%E6%8D%90%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E5%90%AF%E5%8A%A8%E4%BF%9D%E6%8A%A4",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
         },
         {
           "title": "警方对捐日本侵华罪证少年启动保护",
           "url": "https://www.toutiao.com/trending/7668841212840889883/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
+          "title": "广西梧州一公职人员称领导私联医生询问病情，警方已立案，这涉嫌侵犯隐私吗？院方可向第三方透露患者病情吗？",
+          "url": "https://www.zhihu.com/question/2066061932646197067",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 15时25分]"
         },
         {
           "title": "A股放量上涨是反弹还是反转",
@@ -1048,25 +1200,13 @@
           "time_info": "[01时23分 ~ 03时13分]"
         },
         {
-          "title": "广西梧州一公职人员称领导私联医生询问病情，警方已立案，这涉嫌侵犯隐私吗？院方可向第三方透露患者病情吗？",
-          "url": "https://www.zhihu.com/question/2066061932646197067",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时17分]"
-        },
-        {
           "title": "邮政通报快递“送到你床上”事件",
           "url": "https://www.toutiao.com/trending/7668608819761709097/",
           "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -1088,7 +1228,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -1118,7 +1258,7 @@
     },
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "亚足联：与欧足联共同捍卫世界杯",
@@ -1172,7 +1312,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -1183,7 +1323,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -1199,13 +1339,46 @@
           "time_info": "01时23分"
         },
         {
+          "title": "国际足联主席因凡蒂诺放弃「出售世界杯等国际足联赛事部分股权」，为什么大家这么反对这一计划？",
+          "url": "https://www.zhihu.com/question/2066811074758665895",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "《少林足球》25周年聚餐",
+          "url": "https://www.toutiao.com/trending/7668477481762488363/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "因凡蒂诺：放弃世界杯股份出售计划",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E5%87%A1%E8%92%82%E8%AF%BA%EF%BC%9A%E6%94%BE%E5%BC%83%E4%B8%96%E7%95%8C%E6%9D%AF%E8%82%A1%E4%BB%BD%E5%87%BA%E5%94%AE%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "据韩联社：韩国官员表示，韩国与阿根廷达成协议，增强在关键矿产方面的合作。",
           "url": "https://flash.jin10.com/detail/20260801102900725800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -1219,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "《少林足球》剧组罕见合体",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%B0%91%E6%9E%97%E8%B6%B3%E7%90%83%E3%80%8B%E5%89%A7%E7%BB%84%E7%BD%95%E8%A7%81%E5%90%88%E4%BD%93",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -1236,22 +1420,12 @@
             7,
             27,
             26,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
-        },
-        {
-          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
-          "url": "https://www.zhihu.com/question/2066465758503252393",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
         },
         {
           "title": "据以色列i24News：加沙和平委员会的一位高级官员当地时间周五透露，根据拟议的加沙框架，以色列需履行的义务仅限于后续阶段，且具有可逆性。此外，这些义务的履行还取决于哈马斯及其他武装组织能否首先履行其安全承诺。",
@@ -1266,6 +1440,29 @@
           "time_info": "[01时23分 ~ 03时13分]"
         },
         {
+          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
+          "url": "https://www.zhihu.com/question/2066465758503252393",
+          "source": "知乎",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
+          "title": "原神至冬交响音乐现场",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
+        },
+        {
           "title": "标普确认卢森堡AAA评级，前景展望稳定。",
           "url": "https://wallstreetcn.com/livenews/3143454",
           "source": "华尔街见闻-快讯",
@@ -1275,17 +1472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "原神至冬交响音乐现场",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
         },
         {
           "title": "怎么看 Anthropic 公布的 Claude 也发生了沙箱逃逸，真实入侵了三家组织的事？",
@@ -1355,11 +1541,12 @@
           "url": "https://wallstreetcn.com/livenews/3143555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时25分]"
         },
         {
           "title": "好莱坞女星赞达亚 2026 年有 4 部电影上映，其中 3 部都是大片，她怎么崛起的？如何评价其演技？",
@@ -1367,11 +1554,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 15时25分]"
         },
         {
           "title": "这不是电影这是中国军人实弹训练",
@@ -1409,6 +1597,45 @@
       ]
     },
     {
+      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "职场人通勤motd",
+          "url": "https://www.douyin.com/hot/2591725",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时59分]"
+        },
+        {
+          "title": "金山办公WPS存储管理新版本上线，ChinaJoy现场征集用户反馈",
+          "url": "https://flash.jin10.com/detail/20260801142335611800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "英国海上贸易行动办公室：已收到有关在阿曼哈萨布东北21海里处发生事件的报告。一艘油轮船长称，看到该船附近出现大范围水花和爆炸。目前尚未报告船只受损情况。",
+          "url": "https://flash.jin10.com/detail/20260801135841470800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
       "match_count": 3,
       "titles": [
@@ -1424,8 +1651,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 12时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 15时25分]"
         },
         {
           "title": "两项社保标准公开征求意见",
@@ -1448,26 +1675,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "职场人通勤motd",
-          "url": "https://www.douyin.com/hot/2591725",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时59分]"
         }
       ]
     }
