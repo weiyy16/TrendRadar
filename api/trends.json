@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T21:04:20.792779+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-08-02T22:56:11.233813+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -75,6 +75,21 @@
           "time_info": "[00时52分 ~ 09时57分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 22时56分]"
+        },
+        {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
           "url": "https://wallstreetcn.com/articles/3778497",
           "source": "华尔街见闻",
@@ -87,20 +102,6 @@
           "time_info": "[07时50分 ~ 19时57分]"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 21时04分]"
-        },
-        {
           "title": "这届AI进化到开始玩心眼了",
           "url": "https://www.douyin.com/hot/2592773",
           "source": "抖音",
@@ -108,11 +109,12 @@
             5,
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时50分 ~ 21时04分]"
+          "appearance_count": 14,
+          "time_info": "[07时50分 ~ 22时56分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -122,11 +124,12 @@
             4,
             9,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 21时04分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 22时56分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -139,8 +142,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 21时04分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 22时56分]"
+        },
+        {
+          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时56分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -179,17 +196,30 @@
           "time_info": "[16时09分 ~ 19时57分]"
         },
         {
-          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            5,
-            18
+            13,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[16时09分 ~ 22时56分]"
+        },
+        {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时56分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -216,41 +246,17 @@
           "time_info": "[00时52分 ~ 09时57分]"
         },
         {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时09分 ~ 21时04分]"
-        },
-        {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时04分]"
-        },
-        {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
           "url": "https://wallstreetcn.com/livenews/3143681",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时04分]"
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 22时56分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -263,6 +269,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时57分 ~ 16时09分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
@@ -332,6 +349,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -425,7 +453,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
@@ -490,6 +518,19 @@
           "time_info": "[00时52分 ~ 09时57分]"
         },
         {
+          "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/2066920261631451637",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时09分 ~ 22时56分]"
+        },
+        {
           "title": "小米多款手机今起正式涨价",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
           "source": "百度热搜",
@@ -500,19 +541,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 13时22分]"
-        },
-        {
-          "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/2066920261631451637",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时09分 ~ 21时04分]"
         },
         {
           "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
@@ -574,11 +602,23 @@
             3,
             10,
             14,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时09分 ~ 21时04分]"
+          "appearance_count": 5,
+          "time_info": "[16时09分 ~ 22时56分]"
+        },
+        {
+          "title": "分析师：芯片股若出现反弹不足为奇，但不太可能引领牛市的下一阶段",
+          "url": "https://flash.jin10.com/detail/20260802222329040800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "水利部：20条河流仍超警，发布红色山洪灾害气象预警",
@@ -595,6 +635,18 @@
           "time_info": "[16时09分 ~ 21时04分]"
         },
         {
+          "title": "华为半导体首席科学家罕见露面",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%BD%95%E8%A7%81%E9%9C%B2%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时56分]"
+        },
+        {
           "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
           "url": "https://wallstreetcn.com/livenews/3143639",
           "source": "华尔街见闻-快讯",
@@ -609,6 +661,18 @@
           "time_info": "[09时57分 ~ 18时28分]"
         },
         {
+          "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33697943",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时56分]"
+        },
+        {
           "title": "存储芯片利好来了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -619,17 +683,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时50分 ~ 09时57分]"
-        },
-        {
-          "title": "华为半导体首席科学家罕见露面",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%BD%95%E8%A7%81%E9%9C%B2%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "小米上调部分型号手机售价，普遍涨价300元",
@@ -655,17 +708,6 @@
           "time_info": "[13时21分 ~ 13时22分]"
         },
         {
-          "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33697943",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
-        },
-        {
           "title": "雷军说晚安被指营销 小米高管回应",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%99%9A%E5%AE%89%E8%A2%AB%E6%8C%87%E8%90%A5%E9%94%80+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -675,6 +717,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "一天一变 电脑价格飙升",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A9%E4%B8%80%E5%8F%98+%E7%94%B5%E8%84%91%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "手机不好卖 芯片出货量暴跌",
+          "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "杭州发布主城区雷暴大风黄色预警",
@@ -756,229 +820,8 @@
       ]
     },
     {
-      "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 21时04分]"
-        },
-        {
-          "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696810",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 21时04分]"
-        },
-        {
-          "title": "警方对捐侵华罪证少年启动保护",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356703&amp;topic_name=%E8%AD%A6%E6%96%B9%E5%AF%B9%E6%8D%90%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E5%90%AF%E5%8A%A8%E4%BF%9D%E6%8A%A4",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            16,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 21时04分]"
-        },
-        {
-          "title": "陕西文旅辟谣遭伪史论者骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 21时04分]"
-        },
-        {
-          "title": "湖南通报公职人员损坏地锁事件",
-          "url": "https://news.ifeng.com/c/8vG3MK0DYoN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 21时04分]"
-        },
-        {
-          "title": "警方对捐日本侵华罪证少年启动保护",
-          "url": "https://www.toutiao.com/trending/7668841212840889883/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14,
-            8,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时57分 ~ 07时51分]"
-        },
-        {
-          "title": "戒指掉入高铁厕所无法寻找？官方回应",
-          "url": "https://www.baidu.com/s?wd=%E6%88%92%E6%8C%87%E6%8E%89%E5%85%A5%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%97%A0%E6%B3%95%E5%AF%BB%E6%89%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时46分]"
-        },
-        {
-          "title": "山东青岛一仓库起火 官方通报",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%9D%92%E5%B2%9B%E4%B8%80%E4%BB%93%E5%BA%93%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
-        },
-        {
-          "title": "官方回应青岛大火",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9D%92%E5%B2%9B%E5%A4%A7%E7%81%AB&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 21时04分]"
-        },
-        {
-          "title": "官方辟谣女子酒店退房搬空用品",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时04分]"
-        },
-        {
-          "title": "官方通报青岛仓库起火",
-          "url": "https://www.douyin.com/hot/2594888",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 21时04分]"
-        },
-        {
-          "title": "青岛发生火灾浓烟滚滚 官方通报",
-          "url": "https://www.toutiao.com/trending/7668896251409514542/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 21时04分]"
-        },
-        {
-          "title": "网传成都三岔湖水干了 当地辟谣",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E4%B8%89%E5%B2%94%E6%B9%96%E6%B0%B4%E5%B9%B2%E4%BA%86+%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 16时09分]"
-        },
-        {
-          "title": "景德镇辟谣瓷柱路灯损坏赔16万",
-          "url": "https://www.douyin.com/hot/2593068",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 09时57分]"
-        },
-        {
-          "title": "湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696957",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
-        },
-        {
-          "title": "73 岁老人高铁如厕掉落两万元金戒指，12306 称不符合寻找条件，铁路通报称查找未果，这种情况怎么办？",
-          "url": "https://www.zhihu.com/question/2066895410681967056",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
-        },
-        {
-          "title": "湖南省足协通报湘超联赛漏判点球",
-          "url": "https://www.douyin.com/hot/2594383",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
-        },
-        {
-          "title": "当地通报公职人员停车受阻撬地锁",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%81%9C%E8%BD%A6%E5%8F%97%E9%98%BB%E6%92%AC%E5%9C%B0%E9%94%81",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何评价董润年导演，张若昀、白客主演的喜剧电影《年会不能停！2》？",
@@ -995,6 +838,20 @@
           "time_info": "[00时52分 ~ 07时51分]"
         },
         {
+          "title": "为什么董宇辉能坚持看 500 多遍《大话西游》？真有人能同一部电影看 500 遍吗？",
+          "url": "https://www.zhihu.com/question/2066466013324088063",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 22时56分]"
+        },
+        {
           "title": "初代网红宠物妞妞离世",
           "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%BB%A3%E7%BD%91%E7%BA%A2%E5%AE%A0%E7%89%A9%E5%A6%9E%E5%A6%9E%E7%A6%BB%E4%B8%96",
           "source": "百度热搜",
@@ -1009,20 +866,6 @@
           "time_info": "[00时52分 ~ 09时57分]"
         },
         {
-          "title": "为什么董宇辉能坚持看 500 多遍《大话西游》？真有人能同一部电影看 500 遍吗？",
-          "url": "https://www.zhihu.com/question/2066466013324088063",
-          "source": "知乎",
-          "ranks": [
-            8,
-            15,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 21时04分]"
-        },
-        {
           "title": "续作拉胯,年会2首日票房倒挂",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356709&amp;topic_name=%E7%BB%AD%E4%BD%9C%E6%8B%89%E8%83%AF%2C%E5%B9%B4%E4%BC%9A2%E9%A6%96%E6%97%A5%E7%A5%A8%E6%88%BF%E5%80%92%E6%8C%82",
           "source": "贴吧",
@@ -1030,11 +873,12 @@
             7,
             14,
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 21时04分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 22时56分]"
         },
         {
           "title": "2026暑期档电影票房破70亿，《八仙！》破10亿",
@@ -1062,6 +906,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时09分 ~ 19时57分]"
+        },
+        {
+          "title": "在抖音看演唱会直播",
+          "url": "https://www.douyin.com/hot/2593701",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时09分 ~ 22时56分]"
+        },
+        {
+          "title": "2026暑期档电影票房破71亿",
+          "url": "https://www.baidu.com/s?wd=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时56分]"
         },
         {
           "title": "广州一村子把周星驰电影画进现实",
@@ -1094,50 +963,39 @@
           "time_info": "[00时52分 ~ 06时46分]"
         },
         {
-          "title": "在抖音看演唱会直播",
-          "url": "https://www.douyin.com/hot/2593701",
-          "source": "抖音",
-          "ranks": [
-            21,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时09分 ~ 21时04分]"
-        },
-        {
-          "title": "2026暑期档电影票房破71亿",
-          "url": "https://www.baidu.com/s?wd=2026%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B471%E4%BA%BF",
+          "title": "央视曝光网红漂流乱象",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%BC%82%E6%B5%81%E4%B9%B1%E8%B1%A1",
           "source": "百度热搜",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "网红曝一线明星一部戏收入100多万",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%9B%9D%E4%B8%80%E7%BA%BF%E6%98%8E%E6%98%9F%E4%B8%80%E9%83%A8%E6%88%8F%E6%94%B6%E5%85%A5100%E5%A4%9A%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 21时04分]"
+          "appearance_count": 6,
+          "time_info": "[19时56分 ~ 22时56分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
           "url": "https://www.douyin.com/hot/2594688",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 21时04分]"
+          "appearance_count": 6,
+          "time_info": "[19时56分 ~ 22时56分]"
         },
         {
           "title": "2026年度电影总票房突破230亿",
@@ -1146,11 +1004,24 @@
           "ranks": [
             6,
             10,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 22时56分]"
+        },
+        {
+          "title": "网红透露非顶流一线明星拍戏收入",
+          "url": "https://www.toutiao.com/trending/7669327885878001707/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时56分]"
         },
         {
           "title": "抖音作者上手揭秘“天下第一刀”",
@@ -1176,15 +1047,26 @@
           "time_info": "[21时03分 ~ 21时04分]"
         },
         {
-          "title": "网红透露非顶流一线明星拍戏收入",
-          "url": "https://www.toutiao.com/trending/7669327885878001707/",
-          "source": "今日头条",
+          "title": "电影去你的岛后劲太大了",
+          "url": "https://www.douyin.com/hot/2595016",
+          "source": "抖音",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "网红漂流工作人员说一切看造化",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%BC%82%E6%B5%81%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%AF%B4%E4%B8%80%E5%88%87%E7%9C%8B%E9%80%A0%E5%8C%96%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "2026年度电影总票房突破230亿，暑期档连续23天票房过亿",
@@ -1211,8 +1093,255 @@
       ]
     },
     {
+      "keyword_group": "警方 通报 官方回应 反转 辟谣",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 21时04分]"
+        },
+        {
+          "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696810",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 22时56分]"
+        },
+        {
+          "title": "警方对捐侵华罪证少年启动保护",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356703&amp;topic_name=%E8%AD%A6%E6%96%B9%E5%AF%B9%E6%8D%90%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E5%90%AF%E5%8A%A8%E4%BF%9D%E6%8A%A4",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            16,
+            19,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 22时56分]"
+        },
+        {
+          "title": "湖南通报公职人员损坏地锁事件",
+          "url": "https://news.ifeng.com/c/8vG3MK0DYoN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 22时56分]"
+        },
+        {
+          "title": "陕西文旅辟谣遭伪史论者骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            26,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 22时56分]"
+        },
+        {
+          "title": "警方对捐日本侵华罪证少年启动保护",
+          "url": "https://www.toutiao.com/trending/7668841212840889883/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            14,
+            8,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时57分 ~ 07时51分]"
+        },
+        {
+          "title": "官方回应青岛大火",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9D%92%E5%B2%9B%E5%A4%A7%E7%81%AB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时56分 ~ 22时56分]"
+        },
+        {
+          "title": "官方辟谣女子酒店退房搬空用品",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E6%90%AC%E7%A9%BA%E7%94%A8%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时56分]"
+        },
+        {
+          "title": "戒指掉入高铁厕所无法寻找？官方回应",
+          "url": "https://www.baidu.com/s?wd=%E6%88%92%E6%8C%87%E6%8E%89%E5%85%A5%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%97%A0%E6%B3%95%E5%AF%BB%E6%89%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 06时46分]"
+        },
+        {
+          "title": "山东青岛一仓库起火 官方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%9D%92%E5%B2%9B%E4%B8%80%E4%BB%93%E5%BA%93%E8%B5%B7%E7%81%AB+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "官方通报青岛仓库起火",
+          "url": "https://www.douyin.com/hot/2594888",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 21时04分]"
+        },
+        {
+          "title": "湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696957",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时56分]"
+        },
+        {
+          "title": "青岛发生火灾浓烟滚滚 官方通报",
+          "url": "https://www.toutiao.com/trending/7668896251409514542/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 21时04分]"
+        },
+        {
+          "title": "湖南省足协通报湘超联赛漏判点球",
+          "url": "https://www.douyin.com/hot/2594383",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 22时56分]"
+        },
+        {
+          "title": "网传成都三岔湖水干了 当地辟谣",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%88%90%E9%83%BD%E4%B8%89%E5%B2%94%E6%B9%96%E6%B0%B4%E5%B9%B2%E4%BA%86+%E5%BD%93%E5%9C%B0%E8%BE%9F%E8%B0%A3",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 16时09分]"
+        },
+        {
+          "title": "景德镇辟谣瓷柱路灯损坏赔16万",
+          "url": "https://www.douyin.com/hot/2593068",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 09时57分]"
+        },
+        {
+          "title": "青岛一仓库突发大火，官方通报",
+          "url": "https://news.ifeng.com/c/8vGbrX7zt9l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "73 岁老人高铁如厕掉落两万元金戒指，12306 称不符合寻找条件，铁路通报称查找未果，这种情况怎么办？",
+          "url": "https://www.zhihu.com/question/2066895410681967056",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "下周市场是否有望由反弹变为反转",
+          "url": "https://www.toutiao.com/trending/7669410940253503498/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "当地通报公职人员停车受阻撬地锁",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%81%9C%E8%BD%A6%E5%8F%97%E9%98%BB%E6%92%AC%E5%9C%B0%E9%94%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】个人贷款新规来了；造车新势力最新成绩单公布",
@@ -1222,8 +1351,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时57分 ~ 21时04分]"
+          "appearance_count": 12,
+          "time_info": "[09时57分 ~ 22时56分]"
         },
         {
           "title": "华强北商户确认显卡全面封仓，价格大涨约 30%，封仓可能持续多久？价格还会上涨吗？",
@@ -1239,6 +1368,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时57分 ~ 21时04分]"
+        },
+        {
+          "title": "全国开展深化扫黑除恶专项斗争，举报途径公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33697649",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时56分]"
         },
         {
           "title": "圆脸谈美军F35坠毁后续",
@@ -1300,16 +1442,15 @@
           "time_info": "[00时52分 ~ 09时57分]"
         },
         {
-          "title": "全国开展深化扫黑除恶专项斗争，举报途径公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33697649",
-          "source": "澎湃新闻",
+          "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
+          "url": "https://news.ifeng.com/c/8vGSlnonKX0",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时04分]"
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "东北超62035人现场助战刷新纪录",
@@ -1375,6 +1516,17 @@
           "time_info": "[13时21分 ~ 13时22分]"
         },
         {
+          "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
+          "url": "https://flash.jin10.com/detail/20260802212924338800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "日本经济产业大臣赤泽亮正：后续即使按保守估计、仅维持往年同期75%的采购水平，通过动用国家储备，也足以保障石油供应至2028年3月底。",
           "url": "https://flash.jin10.com/detail/20260802144834289800",
           "source": "金十数据",
@@ -1400,7 +1552,7 @@
     },
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "当我把哈兰德大葱给福登看",
@@ -1512,6 +1664,17 @@
           "time_info": "[21时03分 ~ 21时04分]"
         },
         {
+          "title": "C罗婚礼将用“siu”代替“我愿意”",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%A9%9A%E7%A4%BC%E5%B0%86%E7%94%A8%E2%80%9Csiu%E2%80%9D%E4%BB%A3%E6%9B%BF%E2%80%9C%E6%88%91%E6%84%BF%E6%84%8F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
           "title": "卫报列今年金球奖五大候选，凯恩、梅西、姆巴佩、亚马尔、罗德里入选，有哪些亮点和争议？",
           "url": "https://www.zhihu.com/question/2066804117901669732",
           "source": "知乎",
@@ -1560,7 +1723,7 @@
     },
     {
       "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "59岁绿化工遭职场霸凌坠亡",
@@ -1568,11 +1731,23 @@
           "source": "贴吧",
           "ranks": [
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 22时56分]"
+        },
+        {
+          "title": "离谱,日本职场比地震还狠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356727&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E8%81%8C%E5%9C%BA%E6%AF%94%E5%9C%B0%E9%9C%87%E8%BF%98%E7%8B%A0",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "路遇大爷求助 小伙免费上门割麦",
@@ -1613,7 +1788,7 @@
     },
     {
       "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "房价还能重新上涨吗",
@@ -1641,6 +1816,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时21分 ~ 16时09分]"
+        },
+        {
+          "title": "上海新房价格涨幅领跑全国，1至7月深圳商务公寓网签销售量增超60%",
+          "url": "https://flash.jin10.com/detail/20260802222324586800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "59岁陈小春称不敢退休",
