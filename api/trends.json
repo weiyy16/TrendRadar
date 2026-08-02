@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:47:29.089313+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-08-03T06:47:49.508153+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -26,11 +26,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -50,11 +51,12 @@
           "ranks": [
             11,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -64,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -75,19 +77,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
           "url": "https://www.cls.cn/detail/2443437",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -97,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -109,8 +112,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -121,8 +124,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -130,11 +133,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时47分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -155,40 +159,17 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "提醒：周一（8月3日），Palantir、安森美半导体等将发布业绩报告； 周二，SpaceX、AMD、卡特彼勒等将发布业绩报告； 周三，诺和诺德、闪迪、西部数据、迪士尼等发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3143737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时47分]"
-        },
-        {
-          "title": "美国参议院筹款委员会发布融资立法草案的文本。",
-          "url": "https://wallstreetcn.com/livenews/3143736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时47分]"
-        },
-        {
           "title": "近120万辆特斯拉汽车遭调查",
           "url": "https://www.baidu.com/s?wd=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "一天一变 电脑价格飙升",
@@ -199,11 +180,12 @@
             8,
             9,
             10,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
@@ -213,8 +195,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "提醒：周一（8月3日），Palantir、安森美半导体等将发布业绩报告； 周二，SpaceX、AMD、卡特彼勒等将发布业绩报告； 周三，诺和诺德、闪迪、西部数据、迪士尼等发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3143737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时47分]"
         },
         {
           "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
@@ -228,8 +223,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
@@ -243,8 +238,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "手机不好卖 芯片出货量暴跌",
@@ -255,33 +250,49 @@
             9,
             13,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
-          "title": "美国参议院拨款委员会发布融资立法草案的文本",
-          "url": "https://flash.jin10.com/detail/20260803042455615800",
-          "source": "金十数据",
+          "title": "美国参议院筹款委员会发布融资立法草案的文本。",
+          "url": "https://wallstreetcn.com/livenews/3143736",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3,
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时47分]"
         },
         {
           "title": "“年龄不是免罪金牌”新规发布",
           "url": "https://www.toutiao.com/trending/7668652434415160838/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时47分]"
+        },
+        {
+          "title": "美国参议院拨款委员会发布融资立法草案的文本",
+          "url": "https://flash.jin10.com/detail/20260803042455615800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时47分]"
         },
         {
           "title": "温州发布防御台风白海豚通知",
@@ -308,6 +319,128 @@
       ]
     },
     {
+      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "离谱,日本职场比地震还狠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356727&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E8%81%8C%E5%9C%BA%E6%AF%94%E5%9C%B0%E9%9C%87%E8%BF%98%E7%8B%A0",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "59岁绿化工遭职场霸凌坠亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356717&amp;topic_name=59%E5%B2%81%E7%BB%BF%E5%8C%96%E5%B7%A5%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%E5%9D%A0%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "英国海上贸易行动办公室：所有船员均已报告安全。",
+          "url": "https://flash.jin10.com/detail/20260803061235662800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
+          "url": "https://wallstreetcn.com/livenews/3143731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 06时47分]"
+        },
+        {
+          "title": "英国海上贸易行动办公室：目前尚无船只受损的报告。",
+          "url": "https://flash.jin10.com/detail/20260803061235234800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "胖东来设“免费1小时”电脑体验区",
+          "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%AE%BE%E2%80%9C%E5%85%8D%E8%B4%B91%E5%B0%8F%E6%97%B6%E2%80%9D%E7%94%B5%E8%84%91%E4%BD%93%E9%AA%8C%E5%8C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 06时47分]"
+        },
+        {
+          "title": "内塔尼亚胡办公室：我们已向美国传达了对哈马斯解除武装提案的严重担忧，我们的情报评估显示，哈马斯决心增强其军事能力。",
+          "url": "https://flash.jin10.com/detail/20260803000350520800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "英国海上贸易行动办公室：在阿曼海塞卜东北方向20海里处发生了一起事件。一艘油轮的船长报告称，听到船只附近发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260803061143055800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "人在职场 忠于公司还是忠于老板",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%9C%A8%E8%81%8C%E5%9C%BA+%E5%BF%A0%E4%BA%8E%E5%85%AC%E5%8F%B8%E8%BF%98%E6%98%AF%E5%BF%A0%E4%BA%8E%E8%80%81%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "商场开始“玩抽象”：举办乱讲PPT大赛",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E5%BC%80%E5%A7%8B%E2%80%9C%E7%8E%A9%E6%8A%BD%E8%B1%A1%E2%80%9D%EF%BC%9A%E4%B8%BE%E5%8A%9E%E4%B9%B1%E8%AE%B2PPT%E5%A4%A7%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电影 票房 抖音 热搜 网红",
       "match_count": 10,
       "titles": [
@@ -319,8 +452,47 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "央视曝光网红漂流乱象",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%BC%82%E6%B5%81%E4%B9%B1%E8%B1%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            18,
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "电影去你的岛后劲太大了",
+          "url": "https://www.douyin.com/hot/2595016",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "续作拉胯,年会2首日票房倒挂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356709&amp;topic_name=%E7%BB%AD%E4%BD%9C%E6%8B%89%E8%83%AF%2C%E5%B9%B4%E4%BC%9A2%E9%A6%96%E6%97%A5%E7%A5%A8%E6%88%BF%E5%80%92%E6%8C%82",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "索尼影业最新一部电影《蜘蛛侠》全球首映票房9.27亿美元。",
@@ -338,19 +510,19 @@
           "time_info": "[00时51分 ~ 05时47分]"
         },
         {
-          "title": "央视曝光网红漂流乱象",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%BC%82%E6%B5%81%E4%B9%B1%E8%B1%A1",
-          "source": "百度热搜",
+          "title": "漫威旗下那么多超级英雄，为何偏偏是蜘蛛侠的电影票房在内地市场甚至全球市场最赚钱？",
+          "url": "https://www.zhihu.com/question/2065883320236480395",
+          "source": "知乎",
           "ranks": [
-            10,
+            19,
             18,
-            13,
-            16,
-            15
+            8,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "time_info": "[01时55分 ~ 06时47分]"
         },
         {
           "title": "《蜘蛛侠》新片斩获好莱坞影史第二大首周末票房",
@@ -368,55 +540,18 @@
           "time_info": "[00时51分 ~ 05时47分]"
         },
         {
-          "title": "电影去你的岛后劲太大了",
-          "url": "https://www.douyin.com/hot/2595016",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
-        },
-        {
-          "title": "续作拉胯,年会2首日票房倒挂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356709&amp;topic_name=%E7%BB%AD%E4%BD%9C%E6%8B%89%E8%83%AF%2C%E5%B9%B4%E4%BC%9A2%E9%A6%96%E6%97%A5%E7%A5%A8%E6%88%BF%E5%80%92%E6%8C%82",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
-        },
-        {
-          "title": "漫威旗下那么多超级英雄，为何偏偏是蜘蛛侠的电影票房在内地市场甚至全球市场最赚钱？",
-          "url": "https://www.zhihu.com/question/2065883320236480395",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时47分]"
-        },
-        {
           "title": "暑期档只剩一个月，票房勉强过 70 亿，如何评价 2026 年暑期档的表现？",
           "url": "https://www.zhihu.com/question/2067190472313942531",
           "source": "知乎",
           "ranks": [
             19,
             9,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 06时47分]"
         },
         {
           "title": "全抖音都在模仿痴迷名场面",
@@ -427,25 +562,26 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "为什么董宇辉能坚持看 500 多遍《大话西游》？真有人能同一部电影看 500 遍吗？",
           "url": "https://www.zhihu.com/question/2066466013324088063",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 06时47分]"
         }
       ]
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "全国开展深化扫黑除恶专项斗争，举报途径公布",
@@ -455,8 +591,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -466,8 +602,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "【早报】个人贷款新规来了；造车新势力最新成绩单公布",
@@ -478,19 +614,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：今日公布的持续决议案是负责任的选择。",
-          "url": "https://flash.jin10.com/detail/20260803045617825800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "巴西劳工党正式确认卢拉为总统候选人",
@@ -504,6 +629,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时55分 ~ 04时09分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：今日公布的持续决议案是负责任的选择。",
+          "url": "https://flash.jin10.com/detail/20260803045617825800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时47分]"
         },
         {
           "title": "巴西劳工党正式确认卢拉为总统候选人",
@@ -522,11 +659,35 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 06时47分]"
+        },
+        {
+          "title": "东莞队获粤BA冠军 现场大合唱《红日》",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E9%98%9F%E8%8E%B7%E7%B2%A4BA%E5%86%A0%E5%86%9B+%E7%8E%B0%E5%9C%BA%E5%A4%A7%E5%90%88%E5%94%B1%E3%80%8A%E7%BA%A2%E6%97%A5%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时47分]"
+        },
+        {
+          "title": "美国总统特朗普：已决定对加拿大野火问题采取惩罚措施，但暂不公布。",
+          "url": "https://flash.jin10.com/detail/20260803054649195800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "06时47分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
@@ -538,17 +699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "东莞队获粤BA冠军 现场大合唱《红日》",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E8%8E%9E%E9%98%9F%E8%8E%B7%E7%B2%A4BA%E5%86%A0%E5%86%9B+%E7%8E%B0%E5%9C%BA%E5%A4%A7%E5%90%88%E5%94%B1%E3%80%8A%E7%BA%A2%E6%97%A5%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
         }
       ]
     },
@@ -564,8 +714,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "官方辟谣女子酒店退房搬空用品",
@@ -575,8 +725,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "湖南衡阳通报“公职人员损坏车位地锁”：将严肃处理",
@@ -586,8 +736,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "青岛一仓库突发大火，官方通报",
@@ -597,8 +747,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "湖南通报公职人员损坏地锁事件",
@@ -608,8 +758,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "警方对捐侵华罪证少年启动保护",
@@ -620,8 +770,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
         },
         {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
@@ -651,96 +801,9 @@
       ]
     },
     {
-      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "离谱,日本职场比地震还狠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356727&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E8%81%8C%E5%9C%BA%E6%AF%94%E5%9C%B0%E9%9C%87%E8%BF%98%E7%8B%A0",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
-        },
-        {
-          "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
-          "url": "https://wallstreetcn.com/livenews/3143731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 05时47分]"
-        },
-        {
-          "title": "59岁绿化工遭职场霸凌坠亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356717&amp;topic_name=59%E5%B2%81%E7%BB%BF%E5%8C%96%E5%B7%A5%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%E5%9D%A0%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
-        },
-        {
-          "title": "胖东来设“免费1小时”电脑体验区",
-          "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%AE%BE%E2%80%9C%E5%85%8D%E8%B4%B91%E5%B0%8F%E6%97%B6%E2%80%9D%E7%94%B5%E8%84%91%E4%BD%93%E9%AA%8C%E5%8C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 05时47分]"
-        },
-        {
-          "title": "内塔尼亚胡办公室：我们已向美国传达了对哈马斯解除武装提案的严重担忧，我们的情报评估显示，哈马斯决心增强其军事能力。",
-          "url": "https://flash.jin10.com/detail/20260803000350520800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "商场开始“玩抽象”：举办乱讲PPT大赛",
-          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E5%BC%80%E5%A7%8B%E2%80%9C%E7%8E%A9%E6%8A%BD%E8%B1%A1%E2%80%9D%EF%BC%9A%E4%B8%BE%E5%8A%9E%E4%B9%B1%E8%AE%B2PPT%E5%A4%A7%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
       "match_count": 2,
       "titles": [
-        {
-          "title": "葡萄牙航空一客机起飞后因突发情况紧急降落",
-          "url": "https://flash.jin10.com/detail/20260803000508847800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
         {
           "title": "C罗婚礼将用“siu”代替“我愿意”",
           "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%A9%9A%E7%A4%BC%E5%B0%86%E7%94%A8%E2%80%9Csiu%E2%80%9D%E4%BB%A3%E6%9B%BF%E2%80%9C%E6%88%91%E6%84%BF%E6%84%8F%E2%80%9D",
@@ -752,8 +815,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "葡萄牙航空一客机起飞后因突发情况紧急降落",
+          "url": "https://flash.jin10.com/detail/20260803000508847800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
