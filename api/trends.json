@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T04:20:44.491876+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-08-05T06:06:20.173236+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 22,
+      "match_count": 32,
       "titles": [
         {
           "title": "SpaceX资本开支不及预期，在AI领域亏损超预期",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -25,11 +25,23 @@
           "ranks": [
             4,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
+        },
+        {
+          "title": "AMD：AI计算市场年化增速为40%。",
+          "url": "https://wallstreetcn.com/livenews/3144971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "中国版“生物DeepSeek”诞生",
@@ -38,11 +50,12 @@
           "ranks": [
             6,
             13,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
@@ -54,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -65,19 +78,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
           "url": "https://wallstreetcn.com/articles/3778632",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
@@ -87,8 +101,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -98,8 +112,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -109,8 +123,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -147,6 +161,18 @@
           "time_info": "[00时47分 ~ 00时48分]"
         },
         {
+          "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
+          "url": "https://www.zhihu.com/question/2067720724765045518",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 06时06分]"
+        },
+        {
           "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
           "url": "https://www.zhihu.com/question/2067576901791638083",
           "source": "知乎",
@@ -158,15 +184,59 @@
           "time_info": "[00时47分 ~ 00时48分]"
         },
         {
+          "title": "白宫悄悄划界 开源模型无缘先进AI测试框架",
+          "url": "https://flash.jin10.com/detail/20260805052501788800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
           "url": "https://wallstreetcn.com/livenews/3144926",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
+          "url": "https://flash.jin10.com/detail/20260805052416082800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "Anthropic：在我们开展内部调查期间，正与英国人工智能安全研究所（AISI）密切合作，收集这起事件的更多细节。 目前没有证据表明存在从安全环境中逃脱的情况。",
+          "url": "https://wallstreetcn.com/livenews/3144966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "据AXIOS：白宫将开源模型排除在先进AI能力测试框架之外。",
+          "url": "https://flash.jin10.com/detail/20260805051558907800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "SpaceX(SPCX.O)：SpaceX正与英伟达(NVDA.O)合作设计Starmind AI1卫星计算载荷。每颗Starmind卫星将搭载英伟达Rubin GPU和Vera CPU，用于提供数据中心级别的太空计算能力。",
@@ -175,7 +245,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -186,9 +256,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "OpenAI模型在第三方网络测试中突破安全边界",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "富国银行：AI投资热潮将外溢推动传统工业股上涨",
@@ -197,7 +278,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -208,18 +289,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
-          "url": "https://www.zhihu.com/question/2067720724765045518",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -246,22 +316,77 @@
           "time_info": "00时48分"
         },
         {
+          "title": "Booking的CEO：目前，人工智能引流对我们整体业务的贡献仍然相对较小。",
+          "url": "https://wallstreetcn.com/livenews/3144952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克：SpaceX预计到2026年年底将形成超过2 GW的算力。 预计首批Starmind AI卫星将于明年开始发射升空。",
+          "url": "https://wallstreetcn.com/livenews/3144951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克：往后我们决定完全基于英伟达开展技术搭建。 人工智能与机器人技术将大幅提升带宽需求。",
+          "url": "https://wallstreetcn.com/livenews/3144950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
           "source": "bilibili 热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         }
       ]
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 12,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
+          "url": "https://flash.jin10.com/detail/20260805053156645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
         {
           "title": "SpaceX在业绩报告发布前收涨9.4%。",
           "url": "https://wallstreetcn.com/livenews/3144934",
@@ -269,9 +394,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "雌雄大盗合伙偷手机被抓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356775&amp;topic_name=%E9%9B%8C%E9%9B%84%E5%A4%A7%E7%9B%97%E5%90%88%E4%BC%99%E5%81%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8A%93",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
+        },
+        {
+          "title": "马斯克：星舰预计到2027年底可安全载人。",
+          "url": "https://flash.jin10.com/detail/20260805053022430800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克预计，星舰到明年底将具备足够的安全性，可实现载人飞行。 星舰飞船大概率会在2027年底前满足载人安全要求。",
+          "url": "https://wallstreetcn.com/livenews/3144973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
@@ -280,7 +438,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -296,28 +454,18 @@
           "time_info": "02时24分"
         },
         {
-          "title": "雌雄大盗合伙偷手机被抓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356775&amp;topic_name=%E9%9B%8C%E9%9B%84%E5%A4%A7%E7%9B%97%E5%90%88%E4%BC%99%E5%81%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8A%93",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
-        },
-        {
           "title": "马斯克又悄悄做出一个独角兽",
           "url": "https://www.toutiao.com/trending/7670012720964239402/",
           "source": "今日头条",
           "ranks": [
             24,
             16,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
@@ -327,8 +475,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "存储芯片超级周期走到十字路口？",
@@ -339,8 +487,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
@@ -366,6 +514,39 @@
           "time_info": "02时24分"
         },
         {
+          "title": "马斯克：SpaceX可能会提前实现“1万亿美元收入”目标",
+          "url": "https://wallstreetcn.com/livenews/3144965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克：SpaceX(SPCX.O)现在目标是2030年实现1万亿美元收入，而不是2031年。",
+          "url": "https://flash.jin10.com/detail/20260805051012522800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克：SpaceX正打造一个庞大的企业销售团队，从而为星链锁定更多企业合同。",
+          "url": "https://wallstreetcn.com/livenews/3144961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
           "url": "https://flash.jin10.com/detail/20260805011115589800",
           "source": "金十数据",
@@ -377,15 +558,48 @@
           "time_info": "02时24分"
         },
         {
+          "title": "马斯克：SpaceX承诺将只使用英伟达GPU，因为它们性能最佳。 公司预计明年将获得英伟达图形处理器供应总量中“相当大的份额”。",
+          "url": "https://wallstreetcn.com/livenews/3144956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3144913",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "SpaceX：7月Grok 4.5发布后，token消耗量增长两倍。 IPO和债券发行改善了财务状况。 第二季度赢得逾60亿美元美国政府合同。 美国政府任务需求不断增长。",
+          "url": "https://wallstreetcn.com/livenews/3144955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
+          "url": "https://wallstreetcn.com/livenews/3144948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "SpaceX财报发布前夕，航天概念股普涨",
@@ -410,11 +624,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
@@ -425,8 +640,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "抖音7月处置色情低俗内容40.3万条",
@@ -435,11 +650,12 @@
           "ranks": [
             8,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "抖音手瓦选秀大会",
@@ -448,11 +664,12 @@
           "ranks": [
             21,
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "电影痴迷二刷全是细节",
@@ -461,11 +678,24 @@
           "ranks": [
             30,
             27,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
+        },
+        {
+          "title": "《蜘蛛侠：崭新之日》全球开画票房 9.27 亿美元，仅次于《复仇者联盟 4》居影史第二，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/2067561924846248123",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 06时06分]"
         },
         {
           "title": "电影《给阿嬷的情书》在泰国首映",
@@ -480,26 +710,16 @@
           "time_info": "[00时47分 ~ 02时24分]"
         },
         {
-          "title": "《蜘蛛侠：崭新之日》全球开画票房 9.27 亿美元，仅次于《复仇者联盟 4》居影史第二，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/2067561924846248123",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 04时20分]"
-        },
-        {
           "title": "DC电影宇宙将何去何从",
           "url": "https://search.bilibili.com/all?keyword=DC%E7%94%B5%E5%BD%B1%E5%AE%87%E5%AE%99%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 06时06分]"
         },
         {
           "title": "电影《蜘蛛侠》票房在六天内突破10亿美元。",
@@ -526,8 +746,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
@@ -537,8 +757,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "据华盛顿邮报，美国疾控中心（CDC）数据显示，环孢子虫病（cyclospora）疫情扩散至15个州，较上次披露新增六个州。 密苏里州通报称，1095例患者与Taco Bell有关。 百胜（Yum Brands）股价迅速转跌。",
@@ -547,7 +767,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -558,7 +778,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
@@ -578,8 +798,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "当十岁的妹妹有了自己的微信",
@@ -590,8 +810,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 06时06分]"
         },
         {
           "title": "美国白宫：杰伊·克莱顿已在椭圆形办公室正式宣誓就任美国国家情报总监，美国财长贝森特主持宣誓仪式。",
@@ -600,7 +820,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
@@ -630,8 +850,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "姆巴佩、哈兰德之后，谁最有希望成为下一代「球王」候选人？",
@@ -641,8 +861,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         }
       ]
     },
@@ -658,8 +878,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
         },
         {
           "title": "伊朗外交部发言人：谈判最终结果将在汇总整理后公布。",
@@ -679,7 +899,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
@@ -696,7 +916,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
