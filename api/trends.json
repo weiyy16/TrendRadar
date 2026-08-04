@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-04T12:01:49.675453+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-08-04T14:42:39.777595+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7,
+            4,
+            3,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 14时42分]"
+        },
         {
           "title": "DeepSeek一天消耗了8万亿",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
@@ -17,21 +33,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时47分 ~ 08时02分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 12时01分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -46,28 +47,17 @@
           "time_info": "[01时47分 ~ 06时03分]"
         },
         {
-          "title": "DeepSeek 斩杀线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时02分]"
-        },
-        {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 14时42分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -82,8 +72,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 14时42分]"
+        },
+        {
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时02分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
@@ -93,45 +95,6 @@
             7,
             6,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时02分]"
-        },
-        {
-          "title": "DeepSeek斩杀线斩的是什么",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时02分]"
-        },
-        {
-          "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
-          "url": "https://www.cls.cn/detail/2444783",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "DeepSeek模型单日吞下8万亿Token",
-          "url": "https://www.toutiao.com/trending/7669679149316836902/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            6,
-            24,
-            21
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -148,8 +111,36 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 14时42分]"
+        },
+        {
+          "title": "DeepSeek斩杀线斩的是什么",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            16,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[03时22分 ~ 12时01分]"
+          "time_info": "[01时47分 ~ 08时02分]"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            6,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时02分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -163,6 +154,19 @@
           "time_info": "[01时47分 ~ 08时02分]"
         },
         {
+          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
+          "url": "https://wallstreetcn.com/articles/3778565",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 14时42分]"
+        },
+        {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
           "url": "https://wallstreetcn.com/livenews/3144322",
           "source": "华尔街见闻-快讯",
@@ -172,6 +176,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
+          "url": "https://www.cls.cn/detail/2444783",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 14时42分]"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 14时42分]"
+        },
+        {
+          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
+          "url": "https://www.cls.cn/detail/2444881",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
@@ -212,50 +251,41 @@
           "time_info": "[06时03分 ~ 08时02分]"
         },
         {
-          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
-          "url": "https://wallstreetcn.com/articles/3778565",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时01分]"
-        },
-        {
           "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
           "url": "https://www.zhihu.com/question/2067564276433401082",
           "source": "知乎",
           "ranks": [
             7,
-            11
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 14时42分]"
+        },
+        {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时01分]"
-        },
-        {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "time_info": "[12时00分 ~ 14时42分]"
         },
         {
           "title": "DeepSeek斩杀线",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 14时42分]"
         },
         {
           "title": "用AI造谣抹黑小米 两人被处罚",
@@ -265,19 +295,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 14时42分]"
         },
         {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
@@ -302,6 +321,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "2人用AI造谣小米车祸视频被罚",
+          "url": "https://www.toutiao.com/trending/7669754577818828854/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "OpenAI：我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。",
           "url": "https://flash.jin10.com/detail/20260804025647865800",
           "source": "金十数据",
@@ -311,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "创业板指涨超6%，算力硬件、半导体芯片、AI应用、医药生物等方向涨幅居前，全市场上涨个股超3700只。",
+          "url": "https://wallstreetcn.com/livenews/3144558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "OpenAI：这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -333,6 +374,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "DeepSeek API出现性能下降情况，现已恢复",
+          "url": "https://wallstreetcn.com/livenews/3144548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "核能初创公司Valar首席执行官Isaiah Taylor：人工智能正在飞速发展。我们在各个方面都需要大量电力。对我们来说，这关乎规模化。这正是我们去建设所需的火力。 预计8月初这笔融资我们希望证明我们的生产节奏。我们希望将建造一座反应堆的周期从一年缩短到六个月，再到一个月一次，甚至更快。（彭博电视）",
@@ -366,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "AI前沿日报-8月4日",
+          "url": "https://flash.jin10.com/detail/20260804141229104800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "除了谷歌之外，Meta也将列席白宫周二的AI会议。（Politico）",
@@ -404,7 +478,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -415,8 +489,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 14时42分]"
         },
         {
           "title": "新型电力系统建设十五五规划发布",
@@ -508,6 +582,19 @@
           "time_info": "[01时47分 ~ 06时03分]"
         },
         {
+          "title": "罗正一年花170元146给了苹果",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%E4%B8%80%E5%B9%B4%E8%8A%B1170%E5%85%83146%E7%BB%99%E4%BA%86%E8%8B%B9%E6%9E%9C&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 14时42分]"
+        },
+        {
           "title": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
           "url": "https://www.zhihu.com/question/2062848132044607495",
           "source": "知乎",
@@ -532,16 +619,28 @@
           "time_info": "[08时02分 ~ 12时01分]"
         },
         {
-          "title": "罗正一年花170元146给了苹果",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%E4%B8%80%E5%B9%B4%E8%8A%B1170%E5%85%83146%E7%BB%99%E4%BA%86%E8%8B%B9%E6%9E%9C&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "A股药企密集发布集采“成绩单”：有公司守擂失败 也有“光脚者”成功突围",
+          "url": "https://www.cls.cn/detail/2444832",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            12
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时01分]"
+          "time_info": "[12时00分 ~ 14时42分]"
+        },
+        {
+          "title": "如何评价继小米拆车直播之后，理想、极氪也官宣直播拆车？",
+          "url": "https://www.zhihu.com/question/2067668934749427118",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 14时42分]"
         },
         {
           "title": "小米澎程销售称N70售价或低于20万",
@@ -554,28 +653,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 03时22分]"
-        },
-        {
-          "title": "A股药企密集发布集采“成绩单”：有公司守擂失败 也有“光脚者”成功突围",
-          "url": "https://www.cls.cn/detail/2444832",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
-          "title": "如何评价继小米拆车直播之后，理想、极氪也官宣直播拆车？",
-          "url": "https://www.zhihu.com/question/2067668934749427118",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
         },
         {
           "title": "员工泡水2小时捞手机获表扬无奖励",
@@ -595,9 +672,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "小米澎程低速慢行灯",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E4%BD%8E%E9%80%9F%E6%85%A2%E8%A1%8C%E7%81%AF&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称已经接到调价通知，购机该趁早入手还是继续观望？",
@@ -617,7 +705,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -642,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "小米澎程低速慢行灯",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E4%BD%8E%E9%80%9F%E6%85%A2%E8%A1%8C%E7%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "标普500指数初步收涨1.4%，电信板块涨4.4%，可选消费板块涨2.7%，工业、科技、原材料板块涨超1%，能源板块跌1.2%。 纳斯达克100指数初步收涨1.7%，成分股中，CoreWeave初步收涨19.5%，Nebius涨11.4%，Lumentum涨9.3%，Meta涨6.1%，苹果跌1.9%，Diamondback Energy跌2.1%，恩智浦、德州仪器、西部数据、希捷科技至多跌3.6%，万豪国际跌6.8%。",
@@ -672,7 +771,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -694,9 +793,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "小米、OPPO入股电池管理芯片研发商华芯智源",
+          "url": "https://flash.jin10.com/detail/20260804141013078800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "从马斯克到“烤斯克”",
@@ -708,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "创业板指大涨超5%，沪指涨0.19%，深成指涨2.91%，算力硬件、算力租赁、半导体芯片、医药医疗等方向涨幅居前，沪深京三市上涨个股超3700只。",
+          "url": "https://wallstreetcn.com/livenews/3144531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
@@ -715,6 +836,19 @@
       "keyword_group": "最新消息 后续 现场 确认 公布",
       "match_count": 15,
       "titles": [
+        {
+          "title": "图啥呢?Jiejie确认重返EDG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356757&amp;topic_name=%E5%9B%BE%E5%95%A5%E5%91%A2%3FJiejie%E7%A1%AE%E8%AE%A4%E9%87%8D%E8%BF%94EDG",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 14时42分]"
+        },
         {
           "title": "修订后的《集成电路布图设计保护条例》公布",
           "url": "https://www.cls.cn/detail/2444239",
@@ -728,18 +862,6 @@
           "time_info": "[01时47分 ~ 08时02分]"
         },
         {
-          "title": "图啥呢?Jiejie确认重返EDG",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356757&amp;topic_name=%E5%9B%BE%E5%95%A5%E5%91%A2%3FJiejie%E7%A1%AE%E8%AE%A4%E9%87%8D%E8%BF%94EDG",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 12时01分]"
-        },
-        {
           "title": "台风“白海豚”两种路径公布",
           "url": "https://www.douyin.com/hot/2596437",
           "source": "抖音",
@@ -747,8 +869,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 14时42分]"
+        },
+        {
+          "title": "虞书欣现场为AUBL比赛跳球",
+          "url": "https://www.douyin.com/hot/2596306",
+          "source": "抖音",
+          "ranks": [
+            27,
+            23,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 14时42分]"
         },
         {
           "title": "美国财政部公布可交易债务融资预估。",
@@ -773,19 +909,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 06时03分]"
-        },
-        {
-          "title": "虞书欣现场为AUBL比赛跳球",
-          "url": "https://www.douyin.com/hot/2596306",
-          "source": "抖音",
-          "ranks": [
-            27,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 12时01分]"
         },
         {
           "title": "伊朗公布遇袭船只画面：错信美国",
@@ -891,7 +1014,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -904,8 +1027,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 14时42分]"
         },
         {
           "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
@@ -933,6 +1056,31 @@
           "time_info": "[01时47分 ~ 12时01分]"
         },
         {
+          "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 14时42分]"
+        },
+        {
+          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711434",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 14时42分]"
+        },
+        {
           "title": "辱骂捐赠日军罪证少年者被警方传唤",
           "url": "https://www.toutiao.com/trending/7669287016593637382/",
           "source": "今日头条",
@@ -945,27 +1093,15 @@
           "time_info": "[03时22分 ~ 06时03分]"
         },
         {
-          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711434",
-          "source": "澎湃新闻",
+          "title": "蚂蚁阿福发文辟谣，网传“蚂蚁阿福1号位伟鹤调整”为假消息。",
+          "url": "https://wallstreetcn.com/livenews/3144564",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时01分]"
-        },
-        {
-          "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "比特币日内走出V形反转",
@@ -1063,11 +1199,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 12时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 14时42分]"
         },
         {
           "title": "59岁绿化工遭职场霸凌坠亡",
@@ -1106,7 +1243,7 @@
     },
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "米莱推出「让阿根廷再次伟大」改革，主动戴上「财政脚镣」，甚至禁止央行为财政融资，对此你怎么看？",
@@ -1120,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 06时03分]"
+        },
+        {
+          "title": "看完世界杯看中超会有落差感吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%8B%E5%AE%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E4%B8%AD%E8%B6%85%E4%BC%9A%E6%9C%89%E8%90%BD%E5%B7%AE%E6%84%9F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "阿根廷国脚联赛爆射闷人",
