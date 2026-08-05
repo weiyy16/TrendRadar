@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-06T06:14:20.392758+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-08-06T07:53:09.971865+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
+          "url": "https://www.cls.cn/detail/2446615",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
+        },
         {
           "title": "华为发布新款折叠电脑售价24999元起",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%E5%94%AE%E4%BB%B724999%E5%85%83%E8%B5%B7",
@@ -30,17 +42,6 @@
           "time_info": "[01时24分 ~ 06时14分]"
         },
         {
-          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
-          "url": "https://www.cls.cn/detail/2446615",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
-        },
-        {
           "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士，是否意味议价权彻底反转？可能有哪些影响？",
           "url": "https://www.zhihu.com/question/2068405410696880350",
           "source": "知乎",
@@ -50,8 +51,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[03时17分 ~ 07时53分]"
+        },
+        {
+          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
+          "url": "https://wallstreetcn.com/articles/3778694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "电脑市场2026现状",
@@ -60,23 +74,12 @@
           "ranks": [
             9,
             10,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
-        },
-        {
-          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
-          "url": "https://wallstreetcn.com/articles/3778694",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "余承东：手机可能都要大规模涨价",
@@ -86,22 +89,12 @@
             22,
             12,
             7,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
-        },
-        {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "余承东称手机将大规模涨价",
@@ -112,11 +105,12 @@
             18,
             7,
             25,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "华为新款折叠屏电脑24999元起",
@@ -127,11 +121,12 @@
             13,
             21,
             20,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "烂苹果立功,果菌王第八代来了",
@@ -141,8 +136,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "雌雄大盗合伙偷手机被抓",
@@ -152,19 +147,45 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
-          "source": "金十数据",
+          "title": "马斯克回应一个月亏掉2.45万亿",
+          "url": "https://www.toutiao.com/trending/7669518703364640297/",
+          "source": "今日头条",
           "ranks": [
-            3
+            6,
+            23,
+            17,
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时17分 ~ 07时53分]"
+        },
+        {
+          "title": "余承东口误将24999元电脑报成2499",
+          "url": "https://www.toutiao.com/trending/7670512223148752942/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
+          "url": "https://www.cls.cn/detail/2446843",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
@@ -178,18 +199,29 @@
           "time_info": "03时18分"
         },
         {
-          "title": "马斯克回应一个月亏掉2.45万亿",
-          "url": "https://www.toutiao.com/trending/7669518703364640297/",
-          "source": "今日头条",
+          "title": "苹果要求长鑫降价反遭涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            23,
-            17,
-            18
+            25,
+            29,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[03时17分 ~ 06时14分]"
+          "time_info": "[01时24分 ~ 07时53分]"
+        },
+        {
+          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
+          "url": "https://wallstreetcn.com/livenews/3145625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时53分]"
         },
         {
           "title": "周三（8月5日），美股存储芯片与硬件供应链指数跌2.87%，报197.07点。 美股盘初冲高回落、北京时间21:50刷新日高至206.67点，随后长时间保持在平盘附近，03:00以来持续下跌。 成分股闪迪收跌5.4%，西部数据跌5.36%，泰瑞达、拉姆研究、Rambus、应用材料、希捷科技至多跌3.51%，美光科技涨0.06%。 此外，SK海力士ADR跌2.17%。",
@@ -204,16 +236,27 @@
           "time_info": "[05时01分 ~ 06时14分]"
         },
         {
-          "title": "苹果要求长鑫降价反遭涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：我们很欣赏马斯克。",
+          "url": "https://flash.jin10.com/detail/20260806055113870800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            29
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时18分]"
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时53分]"
+        },
+        {
+          "title": "河南发布带薪休假新政",
+          "url": "https://www.douyin.com/hot/2598265",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
@@ -222,7 +265,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -244,7 +287,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -263,7 +306,7 @@
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -297,8 +340,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -306,11 +349,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -319,11 +363,12 @@
           "ranks": [
             20,
             18,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -333,8 +378,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -384,6 +429,28 @@
           "time_info": "03时18分"
         },
         {
+          "title": "外资机构密集发声，AI资本开支拐点隐现",
+          "url": "https://wallstreetcn.com/livenews/3145647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "Meta旗下AI入侵一公司系统",
+          "url": "https://flash.jin10.com/detail/20260806062228967800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
           "url": "https://wallstreetcn.com/livenews/3145543",
           "source": "华尔街见闻-快讯",
@@ -412,7 +479,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -423,7 +490,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -450,6 +517,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
+          "url": "https://wallstreetcn.com/livenews/3145632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
           "url": "https://flash.jin10.com/detail/20260806021109138800",
           "source": "金十数据",
@@ -472,11 +550,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "2026抖音创作者大会来了",
@@ -486,8 +565,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "网红烤鱼店为何频频倒闭",
@@ -497,11 +576,12 @@
             28,
             24,
             3,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "换角失误,年会2票房大扑街",
@@ -511,8 +591,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "日本女网红自杀过程被完整直播",
@@ -522,8 +602,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "抖音手瓦选秀大会",
@@ -532,11 +612,12 @@
           "ranks": [
             30,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         }
       ]
     },
@@ -544,6 +625,20 @@
       "keyword_group": "最新消息 后续 现场 确认 公布",
       "match_count": 6,
       "titles": [
+        {
+          "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33723954",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
+        },
         {
           "title": "中方公布5项对美反制措施",
           "url": "https://www.toutiao.com/trending/7669757913359663131/",
@@ -553,11 +648,12 @@
             7,
             6,
             15,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "反制美国！中方公布5项措施",
@@ -567,24 +663,12 @@
             8,
             22,
             28,
-            30
+            30,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
-        },
-        {
-          "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33723954",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "胡塞武装发言人：武装力量确认正在严密监控所有沙特油轮的动向，绝不允许任何船只通过。",
@@ -604,7 +688,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -623,7 +707,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "广东雷州通报“特教老师招聘存在违规”：启动问责程序，副校长被停职",
@@ -631,11 +715,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
         },
         {
           "title": "传销头目出狱办书院打孩子 当地通报",
@@ -644,11 +729,63 @@
           "ranks": [
             23,
             20,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
+        },
+        {
+          "title": "官方通报传销头目出狱办书院",
+          "url": "https://www.toutiao.com/trending/7670445084701343787/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "美国疾控中心（CDC）通报345例沙门氏菌病例，其中36例住院。 93%的确诊病例与墨西哥餐厅连锁有关。",
+          "url": "https://wallstreetcn.com/livenews/3145639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国拉“新群”，阿根廷、巴拿马等17国加入",
+          "url": "https://news.ifeng.com/c/8vLJc9qv8cn",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
+        },
+        {
+          "title": "巴西降级与阿根廷关系 阿称驻巴大使将“回国休假”",
+          "url": "https://flash.jin10.com/detail/20260806071653036800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
@@ -666,23 +803,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国拉“新群”，阿根廷、巴拿马等17国加入",
-          "url": "https://news.ifeng.com/c/8vLJc9qv8cn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
         }
       ]
     }
