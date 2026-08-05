@@ -1,11 +1,726 @@
 {
-  "generated_at": "2026-08-05T15:38:00.963596+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-08-05T18:41:33.360543+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
+      "match_count": 63,
+      "titles": [
+        {
+          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 18时41分]"
+        },
+        {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 15时38分]"
+        },
+        {
+          "title": "雌雄大盗合伙偷手机被抓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356775&amp;topic_name=%E9%9B%8C%E9%9B%84%E5%A4%A7%E7%9B%97%E5%90%88%E4%BC%99%E5%81%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8A%93",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            12,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 18时41分]"
+        },
+        {
+          "title": "受“白海豚”和“鲸鱼”共同影响中央气象台发布台风蓝色预警",
+          "url": "https://flash.jin10.com/detail/20260805182306516800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "马斯克又悄悄做出一个独角兽",
+          "url": "https://www.toutiao.com/trending/7670012720964239402/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            16,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 07时57分]"
+        },
+        {
+          "title": "余承东：手机之后可能都要大规模涨价",
+          "url": "https://www.toutiao.com/trending/7670470899877068836/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
+          "url": "https://flash.jin10.com/detail/20260805053156645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "港股商业航天板块多数走强，拓璞数控(07688.HK)涨超4%，航天控股(00031.HK)涨超3%，蓝思科技(06613.HK)涨超2%，钧达股份(02865.HK)、金风科技(02208.HK)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260805094800937800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "SpaceX在业绩报告发布前收涨9.4%。",
+          "url": "https://wallstreetcn.com/livenews/3144934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "马斯克：星舰预计到2027年底可安全载人。",
+          "url": "https://flash.jin10.com/detail/20260805053022430800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克预计，星舰到明年底将具备足够的安全性，可实现载人飞行。 星舰飞船大概率会在2027年底前满足载人安全要求。",
+          "url": "https://wallstreetcn.com/livenews/3144973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "余承东：手机可能都要大规模涨价",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "国家海洋预报台发布海浪黄色警报",
+          "url": "https://flash.jin10.com/detail/20260805094646624800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
+          "url": "https://wallstreetcn.com/livenews/3144931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
+          "url": "https://flash.jin10.com/detail/20260805015406320800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "A股三大指数全线翻红，存储芯片、先进封装、MLCC概念等方向涨幅居前。全市场上涨个股超3500只。",
+          "url": "https://flash.jin10.com/detail/20260805094614435800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
+          "url": "https://wallstreetcn.com/articles/3778694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时41分]"
+        },
+        {
+          "title": "烂苹果立功,果菌王第八代来了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356780&amp;topic_name=%E7%83%82%E8%8B%B9%E6%9E%9C%E7%AB%8B%E5%8A%9F%2C%E6%9E%9C%E8%8F%8C%E7%8E%8B%E7%AC%AC%E5%85%AB%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时41分]"
+        },
+        {
+          "title": "存储芯片超级周期走到十字路口？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710840",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 06时06分]"
+        },
+        {
+          "title": "Meta盯上卫星通信！商业航天概念股趁势起飞",
+          "url": "https://www.cls.cn/detail/2445721",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 12时59分]"
+        },
+        {
+          "title": "尊界MPV及华为新品发布会",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "华为发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "独家｜月之暗面500亿美元Pre-IPO轮开闸 K3模型发布后额度骤然紧俏",
+          "url": "https://www.cls.cn/detail/2445951",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "马斯克向科技界“投下炸弹”：SpaceX只用英伟达GPU，因为性能最佳！",
+          "url": "https://www.cls.cn/detail/2445835",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3144864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时24分]"
+        },
+        {
+          "title": "王腾的小米SU7Ultra泊车辅助遇bug",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%9A%84%E5%B0%8F%E7%B1%B3SU7Ultra%E6%B3%8A%E8%BD%A6%E8%BE%85%E5%8A%A9%E9%81%87bug%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 09时55分]"
+        },
+        {
+          "title": "自动驾驶系统安全强制性国标发布",
+          "url": "https://www.douyin.com/hot/2597328",
+          "source": "抖音",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 09时55分]"
+        },
+        {
+          "title": "老人举手机拍照被广告连环弹窗",
+          "url": "https://www.toutiao.com/trending/7669660083051970602/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "王腾的小米SU7Ultra泊车辅助遇bug",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%85%BE%E7%9A%84%E5%B0%8F%E7%B1%B3SU7Ultra%E6%B3%8A%E8%BD%A6%E8%BE%85%E5%8A%A9%E9%81%87bug",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "苹果手机 适合老人",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%20%E9%80%82%E5%90%88%E8%80%81%E4%BA%BA&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "A股收盘：科创50低开高走涨4.78%，芯片、算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3145221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "长鑫拒绝苹果压价",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "巴西政府发布声明，抗议美国更改巴西大使签证的决定。",
+          "url": "https://flash.jin10.com/detail/20260805071325736800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
+          "url": "https://wallstreetcn.com/livenews/3144892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "余承东发布会口误 24999元报成2499元",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "马斯克：SpaceX可能会提前实现“1万亿美元收入”目标",
+          "url": "https://wallstreetcn.com/livenews/3144965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "实探|小米澎程系列预售订单或超10万辆 多地设专营店待9月上市",
+          "url": "https://www.cls.cn/detail/2446101",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "马斯克：SpaceX(SPCX.O)现在目标是2030年实现1万亿美元收入，而不是2031年。",
+          "url": "https://flash.jin10.com/detail/20260805051012522800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "中央气象台8月5日18时继续发布暴雨蓝色预警",
+          "url": "https://flash.jin10.com/detail/20260805180726899800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "河南发布带薪休假新政",
+          "url": "https://www.douyin.com/hot/2598265",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "A股收评：科创50指数涨4.78% 存储芯片、贵金属概念走强",
+          "url": "https://flash.jin10.com/detail/20260805150702130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "马斯克：SpaceX正打造一个庞大的企业销售团队，从而为星链锁定更多企业合同。",
+          "url": "https://wallstreetcn.com/livenews/3144961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
+          "url": "https://flash.jin10.com/detail/20260805011115589800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "马斯克：SpaceX承诺将只使用英伟达GPU，因为它们性能最佳。 公司预计明年将获得英伟达图形处理器供应总量中“相当大的份额”。",
+          "url": "https://wallstreetcn.com/livenews/3144956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克回应一个月亏掉2.45万亿",
+          "url": "https://www.toutiao.com/trending/7669518703364640297/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3144913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "SpaceX：7月Grok 4.5发布后，token消耗量增长两倍。 IPO和债券发行改善了财务状况。 第二季度赢得逾60亿美元美国政府合同。 美国政府任务需求不断增长。",
+          "url": "https://wallstreetcn.com/livenews/3144955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "华为MatePadPro创作好拍档",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMatePadPro%E5%88%9B%E4%BD%9C%E5%A5%BD%E6%8B%8D%E6%A1%A3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "华为发布首款RGB-MiniLED电视",
+          "url": "https://wallstreetcn.com/livenews/3145306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "华为同时发布三款鸿蒙电脑含金量",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E5%90%AB%E9%87%91%E9%87%8F%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "华为余承东：内存高昂涨价，手机之后可能都要大规模涨价",
+          "url": "https://wallstreetcn.com/livenews/3145302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "8月5日午间收评：科创50指数半日涨超5%，半导体芯片股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3145132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
+          "url": "https://wallstreetcn.com/livenews/3144948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "马斯克一个月亏掉2.45万亿元",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8E%892.45%E4%B8%87%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "华为GT7手表首发身体状态准备度",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAGT7%E6%89%8B%E8%A1%A8%E9%A6%96%E5%8F%91%E8%BA%AB%E4%BD%93%E7%8A%B6%E6%80%81%E5%87%86%E5%A4%87%E5%BA%A6%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "SpaceX财报发布前夕，航天概念股普涨",
+          "url": "https://wallstreetcn.com/livenews/3144849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%",
+          "url": "https://wallstreetcn.com/livenews/3144978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "海南三亚发布暴雨红色预警信号",
+          "url": "https://wallstreetcn.com/livenews/3145123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "克罗地亚发布全境高温红色预警",
+          "url": "https://flash.jin10.com/detail/20260805175711861800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
+          "url": "https://wallstreetcn.com/livenews/3144976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "华为官网公布享界G9选配信息",
+          "url": "https://www.toutiao.com/trending/7670471630702988826/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "科创50指数涨超4%，沪指、深成指均涨超1%，半导体芯片、贵金属、PCB等方向涨幅居前，沪深京三市上涨个股超3900只。",
+          "url": "https://wallstreetcn.com/livenews/3145116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "苹果考虑将中国长鑫存储纳入新的供应链 但压价失败",
+          "url": "https://wallstreetcn.com/livenews/3145292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -14,11 +729,24 @@
           "ranks": [
             9,
             15,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 15时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 18时41分]"
+        },
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 18时41分]"
         },
         {
           "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
@@ -30,18 +758,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时55分 ~ 15时38分]"
-        },
-        {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 15时38分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -82,6 +798,17 @@
           "time_info": "[00时47分 ~ 07时57分]"
         },
         {
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "SpaceX资本开支不及预期，在AI领域亏损超预期",
           "url": "https://wallstreetcn.com/livenews/3144935",
           "source": "华尔街见闻-快讯",
@@ -118,6 +845,17 @@
           "time_info": "[00时47分 ~ 07时57分]"
         },
         {
+          "title": "SpaceX英伟达布局太空AI算力",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%83%E5%B1%80%E5%A4%AA%E7%A9%BAAI%E7%AE%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "阿里整合千问办公、腾讯升级 WorkBuddy 、字节合并飞书豆包，如今大厂为何集体押注 AI 办公？",
           "url": "https://www.zhihu.com/question/2066215215486562343",
           "source": "知乎",
@@ -138,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "AMD：AI计算市场年化增速为40%。",
@@ -165,6 +914,17 @@
           "time_info": "[00时47分 ~ 06时06分]"
         },
         {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时41分]"
+        },
+        {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
           "url": "https://www.zhihu.com/question/2067572483331291076",
           "source": "知乎",
@@ -186,17 +946,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时47分 ~ 06时06分]"
-        },
-        {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 15时38分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -312,6 +1061,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
           "url": "https://wallstreetcn.com/livenews/3144926",
           "source": "华尔街见闻-快讯",
@@ -321,6 +1081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -365,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "据AXIOS：白宫将开源模型排除在先进AI能力测试框架之外。",
@@ -499,6 +1281,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "消息人士称，摩根大通(JPM.N)首席执行官正在领导扩大行业团体的努力，以应对人工智能风险。",
+          "url": "https://flash.jin10.com/detail/20260805180049739800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "马斯克：SpaceX预计到2026年年底将形成超过2 GW的算力。 预计首批Starmind AI卫星将于明年开始发射升空。",
           "url": "https://wallstreetcn.com/livenews/3144951",
           "source": "华尔街见闻-快讯",
@@ -567,523 +1360,8 @@
       ]
     },
     {
-      "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 45,
-      "titles": [
-        {
-          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
-          "url": "https://wallstreetcn.com/articles/3778638",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 15时38分]"
-        },
-        {
-          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 15时38分]"
-        },
-        {
-          "title": "雌雄大盗合伙偷手机被抓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356775&amp;topic_name=%E9%9B%8C%E9%9B%84%E5%A4%A7%E7%9B%97%E5%90%88%E4%BC%99%E5%81%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8A%93",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 15时38分]"
-        },
-        {
-          "title": "马斯克又悄悄做出一个独角兽",
-          "url": "https://www.toutiao.com/trending/7670012720964239402/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            16,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 07时57分]"
-        },
-        {
-          "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
-          "url": "https://flash.jin10.com/detail/20260805053156645800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "港股商业航天板块多数走强，拓璞数控(07688.HK)涨超4%，航天控股(00031.HK)涨超3%，蓝思科技(06613.HK)涨超2%，钧达股份(02865.HK)、金风科技(02208.HK)涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260805094800937800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "SpaceX在业绩报告发布前收涨9.4%。",
-          "url": "https://wallstreetcn.com/livenews/3144934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "马斯克：星舰预计到2027年底可安全载人。",
-          "url": "https://flash.jin10.com/detail/20260805053022430800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "马斯克预计，星舰到明年底将具备足够的安全性，可实现载人飞行。 星舰飞船大概率会在2027年底前满足载人安全要求。",
-          "url": "https://wallstreetcn.com/livenews/3144973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "国家海洋预报台发布海浪黄色警报",
-          "url": "https://flash.jin10.com/detail/20260805094646624800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
-          "url": "https://wallstreetcn.com/livenews/3144931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
-          "url": "https://flash.jin10.com/detail/20260805015406320800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "A股三大指数全线翻红，存储芯片、先进封装、MLCC概念等方向涨幅居前。全市场上涨个股超3500只。",
-          "url": "https://flash.jin10.com/detail/20260805094614435800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "存储芯片超级周期走到十字路口？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710840",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时06分]"
-        },
-        {
-          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
-          "url": "https://wallstreetcn.com/articles/3778694",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 15时38分]"
-        },
-        {
-          "title": "烂苹果立功,果菌王第八代来了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356780&amp;topic_name=%E7%83%82%E8%8B%B9%E6%9E%9C%E7%AB%8B%E5%8A%9F%2C%E6%9E%9C%E8%8F%8C%E7%8E%8B%E7%AC%AC%E5%85%AB%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 15时38分]"
-        },
-        {
-          "title": "Meta盯上卫星通信！商业航天概念股趁势起飞",
-          "url": "https://www.cls.cn/detail/2445721",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时59分]"
-        },
-        {
-          "title": "尊界MPV及华为新品发布会",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "华为发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "独家｜月之暗面500亿美元Pre-IPO轮开闸 K3模型发布后额度骤然紧俏",
-          "url": "https://www.cls.cn/detail/2445951",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "马斯克向科技界“投下炸弹”：SpaceX只用英伟达GPU，因为性能最佳！",
-          "url": "https://www.cls.cn/detail/2445835",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3144864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 02时24分]"
-        },
-        {
-          "title": "王腾的小米SU7Ultra泊车辅助遇bug",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%9A%84%E5%B0%8F%E7%B1%B3SU7Ultra%E6%B3%8A%E8%BD%A6%E8%BE%85%E5%8A%A9%E9%81%87bug%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 09时55分]"
-        },
-        {
-          "title": "自动驾驶系统安全强制性国标发布",
-          "url": "https://www.douyin.com/hot/2597328",
-          "source": "抖音",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 09时55分]"
-        },
-        {
-          "title": "老人举手机拍照被广告连环弹窗",
-          "url": "https://www.toutiao.com/trending/7669660083051970602/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "王腾的小米SU7Ultra泊车辅助遇bug",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%85%BE%E7%9A%84%E5%B0%8F%E7%B1%B3SU7Ultra%E6%B3%8A%E8%BD%A6%E8%BE%85%E5%8A%A9%E9%81%87bug",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "A股收盘：科创50低开高走涨4.78%，芯片、算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3145221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "巴西政府发布声明，抗议美国更改巴西大使签证的决定。",
-          "url": "https://flash.jin10.com/detail/20260805071325736800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
-          "url": "https://wallstreetcn.com/livenews/3144892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "马斯克：SpaceX可能会提前实现“1万亿美元收入”目标",
-          "url": "https://wallstreetcn.com/livenews/3144965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "马斯克：SpaceX(SPCX.O)现在目标是2030年实现1万亿美元收入，而不是2031年。",
-          "url": "https://flash.jin10.com/detail/20260805051012522800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "A股收评：科创50指数涨4.78% 存储芯片、贵金属概念走强",
-          "url": "https://flash.jin10.com/detail/20260805150702130800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "马斯克：SpaceX正打造一个庞大的企业销售团队，从而为星链锁定更多企业合同。",
-          "url": "https://wallstreetcn.com/livenews/3144961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
-          "url": "https://flash.jin10.com/detail/20260805011115589800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "马斯克：SpaceX承诺将只使用英伟达GPU，因为它们性能最佳。 公司预计明年将获得英伟达图形处理器供应总量中“相当大的份额”。",
-          "url": "https://wallstreetcn.com/livenews/3144956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3144913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "SpaceX：7月Grok 4.5发布后，token消耗量增长两倍。 IPO和债券发行改善了财务状况。 第二季度赢得逾60亿美元美国政府合同。 美国政府任务需求不断增长。",
-          "url": "https://wallstreetcn.com/livenews/3144955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "8月5日午间收评：科创50指数半日涨超5%，半导体芯片股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3145132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
-          "url": "https://wallstreetcn.com/livenews/3144948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "马斯克一个月亏掉2.45万亿元",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8E%892.45%E4%B8%87%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "SpaceX财报发布前夕，航天概念股普涨",
-          "url": "https://wallstreetcn.com/livenews/3144849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%",
-          "url": "https://wallstreetcn.com/livenews/3144978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "海南三亚发布暴雨红色预警信号",
-          "url": "https://wallstreetcn.com/livenews/3145123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
-          "url": "https://wallstreetcn.com/livenews/3144976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "科创50指数涨超4%，沪指、深成指均涨超1%，半导体芯片、贵金属、PCB等方向涨幅居前，沪深京三市上涨个股超3900只。",
-          "url": "https://wallstreetcn.com/livenews/3145116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
@@ -1108,11 +1386,12 @@
             16,
             18,
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 15时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 18时41分]"
         },
         {
           "title": "「发现好多大学生不懂邮件礼仪」上热搜，你认为这有必要纳入大学课程吗？",
@@ -1158,6 +1437,17 @@
           "time_info": "[00时47分 ~ 07时57分]"
         },
         {
+          "title": "抖音电商上半年GMV增速近20%，继续放缓但优于大盘",
+          "url": "https://wallstreetcn.com/livenews/3145337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "《蜘蛛侠：崭新之日》全球开画票房 9.27 亿美元，仅次于《复仇者联盟 4》居影史第二，如何评价这一成绩？",
           "url": "https://www.zhihu.com/question/2067561924846248123",
           "source": "知乎",
@@ -1181,6 +1471,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
+          "title": "杂志社长举报网红张萌所著书籍292处文字雷同，张萌回应系“合理使用”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33718554",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 18时41分]"
         },
         {
           "title": "“爸王龙”才是电影的隐藏主角",
@@ -1218,17 +1519,6 @@
           "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "杂志社长举报网红张萌所著书籍292处文字雷同，张萌回应系“合理使用”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33718554",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
           "title": "从电影《奥德赛》的成绩来看，荷马史诗是有市场的，为什么当年的《特洛伊》票房不达预期？",
           "url": "https://www.zhihu.com/question/2067389212429641045",
           "source": "知乎",
@@ -1250,6 +1540,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 06时06分]"
+        },
+        {
+          "title": "电影欢迎来龙餐馆官宣定档",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "换角失误,年会2票房大扑街",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356796&amp;topic_name=%E6%8D%A2%E8%A7%92%E5%A4%B1%E8%AF%AF%2C%E5%B9%B4%E4%BC%9A2%E7%A5%A8%E6%88%BF%E5%A4%A7%E6%89%91%E8%A1%97",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "迪士尼(DIS.N)：TikTok将为其创作者提供访问迪士尼庞大影片库中数百部电影和剧集相关资产的权限。",
+          "url": "https://flash.jin10.com/detail/20260805181008457800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "2026抖音创作者大会来了",
+          "url": "https://www.douyin.com/hot/2598281",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "网红烤鱼店为何频频倒闭",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BA%A2%E7%83%A4%E9%B1%BC%E5%BA%97%E4%B8%BA%E4%BD%95%E9%A2%91%E9%A2%91%E5%80%92%E9%97%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "电影《蜘蛛侠》票房在六天内突破10亿美元。",
@@ -1277,7 +1622,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
@@ -1299,8 +1644,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 18时41分]"
         },
         {
           "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
@@ -1312,6 +1657,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时47分 ~ 07时57分]"
+        },
+        {
+          "title": "官方通报西安赛格商场店长坠楼事件，商户存在违约套券行为，商场单方面认定违约金过高，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2068353480377333651",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "河南通报三支一扶作弊案，查实作弊的考生会受到哪些处罚？内外串通舞弊会追究刑事责任吗？",
@@ -1330,22 +1686,24 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 15时38分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时41分]"
         },
         {
           "title": "西安通报赛格商场坠亡事件",
           "url": "https://www.douyin.com/hot/2598440",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 18时41分]"
         },
         {
           "title": "官方回应车辆“飞”到隧道口树上",
@@ -1357,6 +1715,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "官方通报西安赛格商场坠亡事件",
+          "url": "https://www.toutiao.com/trending/7670261561843367999/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "官方通报西安赛格商场坠亡事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33719947",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "据华盛顿邮报，美国疾控中心（CDC）数据显示，环孢子虫病（cyclospora）疫情扩散至15个州，较上次披露新增六个州。 密苏里州通报称，1095例患者与Taco Bell有关。 百胜（Yum Brands）股价迅速转跌。",
@@ -1390,100 +1770,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "图啥呢?Jiejie确认重返EDG",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356757&amp;topic_name=%E5%9B%BE%E5%95%A5%E5%91%A2%3FJiejie%E7%A1%AE%E8%AE%A4%E9%87%8D%E8%BF%94EDG",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 15时38分]"
         },
         {
-          "title": "新台风鲸鱼生成 路径公布",
-          "url": "https://www.toutiao.com/trending/7669963502744223795/",
-          "source": "今日头条",
+          "title": "西安通报赛格商场与坠楼者纠纷情况",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%80%9A%E6%8A%A5%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E4%B8%8E%E5%9D%A0%E6%A5%BC%E8%80%85%E7%BA%A0%E7%BA%B7%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            6
+            28
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 15时38分]"
-        },
-        {
-          "title": "AMD公布炸裂财报：业绩全面均超预期 数据中心营收明年或翻倍",
-          "url": "https://www.cls.cn/detail/2445870",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时38分]"
-        },
-        {
-          "title": "济南卫健委回应两位休班护士抢救溺水初中生：后续将予以表彰",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33713570",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时38分]"
-        },
-        {
-          "title": "伊朗外交部发言人：谈判最终结果将在汇总整理后公布。",
-          "url": "https://flash.jin10.com/detail/20260805002128385800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "SpaceX(SPCX.O)在公布Q2业绩前上涨9.8%，刷新日高。",
-          "url": "https://flash.jin10.com/detail/20260805030446769800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "中国7月RatingDog服务业PMI将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260805093500001800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "18时41分"
         }
       ]
     },
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "C罗回应乔治娜身材",
@@ -1537,11 +1840,23 @@
           "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%99%92%E8%B1%AA%E8%BD%A6%E6%94%B6%E8%97%8F%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 18时41分]"
+        },
+        {
+          "title": "美国拉“新群”，阿根廷、巴拿马等17国加入",
+          "url": "https://news.ifeng.com/c/8vLJc9qv8cn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "马宁参加节目谈梅西举报库库「人家就这样一下非说捂嘴骂人显然不合理」，对此你怎么看？",
@@ -1553,24 +1868,169 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "C罗晒豪车收藏",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E6%99%92%E8%B1%AA%E8%BD%A6%E6%94%B6%E8%97%8F",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "阿根廷中国行或取消 韩乔生发声",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%88%96%E5%8F%96%E6%B6%88+%E9%9F%A9%E4%B9%94%E7%94%9F%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "阿根廷国脚帕雷德斯再染黄",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E8%84%9A%E5%B8%95%E9%9B%B7%E5%BE%B7%E6%96%AF%E5%86%8D%E6%9F%93%E9%BB%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "最新消息 后续 现场 确认 公布",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "图啥呢?Jiejie确认重返EDG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356757&amp;topic_name=%E5%9B%BE%E5%95%A5%E5%91%A2%3FJiejie%E7%A1%AE%E8%AE%A4%E9%87%8D%E8%BF%94EDG",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 15时38分]"
+        },
+        {
+          "title": "新台风鲸鱼生成 路径公布",
+          "url": "https://www.toutiao.com/trending/7669963502744223795/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时41分]"
+        },
+        {
+          "title": "中方公布5项对美反制措施",
+          "url": "https://www.toutiao.com/trending/7669757913359663131/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "反制美国！中方公布5项措施",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD%EF%BC%81%E4%B8%AD%E6%96%B9%E5%85%AC%E5%B8%835%E9%A1%B9%E6%8E%AA%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "济南卫健委回应两位休班护士抢救溺水初中生：后续将予以表彰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713570",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 18时41分]"
+        },
+        {
+          "title": "AMD公布炸裂财报：业绩全面均超预期 数据中心营收明年或翻倍",
+          "url": "https://www.cls.cn/detail/2445870",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时38分]"
+        },
+        {
+          "title": "伊朗外交部发言人：谈判最终结果将在汇总整理后公布。",
+          "url": "https://flash.jin10.com/detail/20260805002128385800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)在公布Q2业绩前上涨9.8%，刷新日高。",
+          "url": "https://flash.jin10.com/detail/20260805030446769800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "中国7月RatingDog服务业PMI将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260805093500001800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "于东来公布胖东来未来3年计划",
+          "url": "https://www.toutiao.com/trending/7669879314682773510/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     },
     {
       "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "中国首批高快速迎到期免费潮",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E9%AB%98%E5%BF%AB%E9%80%9F%E8%BF%8E%E5%88%B0%E6%9C%9F%E5%85%8D%E8%B4%B9%E6%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 15时38分]"
-        },
         {
           "title": "整治恶意炒作涉企信息，国家网信办公开一批典型案例",
           "url": "https://m.thepaper.cn/newsDetail_forward_33712034",
@@ -1583,6 +2043,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 09时55分]"
+        },
+        {
+          "title": "中国首批高快速迎到期免费潮",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E9%AB%98%E5%BF%AB%E9%80%9F%E8%BF%8E%E5%88%B0%E6%9C%9F%E5%85%8D%E8%B4%B9%E6%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时41分]"
         },
         {
           "title": "当十岁的妹妹有了自己的微信",
@@ -1608,6 +2080,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "商务部：对相关进口打印复印办公设备发起对外贸易国家安全立案调查",
+          "url": "https://www.cls.cn/detail/2446335",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "美国白宫：杰伊·克莱顿已在椭圆形办公室正式宣誓就任美国国家情报总监，美国财长贝森特主持宣誓仪式。",
           "url": "https://flash.jin10.com/detail/20260805032350084800",
           "source": "金十数据",
@@ -1617,6 +2100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "清理“攀比内卷不愿休”的职场环境，天津发文推进带薪休假落地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33714415",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     },
