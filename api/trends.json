@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T12:59:16.256785+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-08-06T15:38:49.313952+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -67,6 +67,29 @@
           "time_info": "[01时24分 ~ 07时53分]"
         },
         {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
           "url": "https://www.zhihu.com/question/2068056227817284742",
           "source": "知乎",
@@ -81,28 +104,6 @@
           "time_info": "[01时24分 ~ 07时53分]"
         },
         {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
@@ -110,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -123,6 +124,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "小红书加大AI投入：布局AI社交方向，开启AI陪伴产品自研",
+          "url": "https://wallstreetcn.com/livenews/3145888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -137,6 +160,29 @@
           "time_info": "[01时24分 ~ 03时18分]"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 15时38分]"
+        },
+        {
+          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
+          "url": "https://www.cls.cn/detail/2446788",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 15时38分]"
+        },
+        {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
           "url": "https://wallstreetcn.com/livenews/3145522",
           "source": "华尔街见闻-快讯",
@@ -149,27 +195,52 @@
           "time_info": "[01时24分 ~ 03时18分]"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
+          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
           "ranks": [
-            8
+            21,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时59分]"
+          "time_info": "[12时58分 ~ 15时38分]"
         },
         {
-          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
-          "url": "https://www.cls.cn/detail/2446788",
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
           "source": "财联社热门",
           "ranks": [
-            12,
-            8
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时59分]"
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
+          "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%9D%A0AI%E5%87%8F%E8%82%A5+45%E5%A4%A9%E7%98%A640%E6%96%A4%E8%BF%9B%E4%BA%86ICU",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
         },
         {
           "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
@@ -184,44 +255,11 @@
           "time_info": "[05时01分 ~ 06时14分]"
         },
         {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "DeepSeek计划大幅涨价",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
-          "source": "百度热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -250,17 +288,6 @@
           "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%9D%A0AI%E5%87%8F%E8%82%A5+45%E5%A4%A9%E7%98%A640%E6%96%A4%E8%BF%9B%E4%BA%86ICU",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
           "url": "https://wallstreetcn.com/livenews/3145547",
           "source": "华尔街见闻-快讯",
@@ -281,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "Meta旗下AI入侵一公司系统",
@@ -344,9 +382,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "软银集团：于2026年8月安排了等值17.5亿美元的杠杆收购（LBO）融资，用于支付收购ABB Ltd机器人业务的部分款项。 于2026年8月以OpenAI股份为抵押，签订了100亿美元的贷款协议。",
+          "url": "https://wallstreetcn.com/livenews/3145865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
@@ -358,6 +407,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "ai一百块做出来的孙悟空",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E4%B8%80%E7%99%BE%E5%9D%97%E5%81%9A%E5%87%BA%E6%9D%A5%E7%9A%84%E5%AD%99%E6%82%9F%E7%A9%BA%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "AI细分赛道分析（三）：未来一两年内限制市场的核心变量将从芯片转向......",
+          "url": "https://flash.jin10.com/detail/20260806145906722800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "据华尔街日报，谷歌公司首席科学家Jeff Dean离职，将创办自己的AI公司。 谷歌母公司Alphabet/谷歌A（GOOGL）跌幅扩大之1.5%，刷新日低。",
@@ -388,7 +459,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -415,6 +486,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "软银集团：截至三月底OpenAI持股估值未发生变化。",
+          "url": "https://flash.jin10.com/detail/20260806145401696800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3145692",
           "source": "华尔街见闻-快讯",
@@ -432,9 +514,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "DeepSeek推理到一半说自己饿了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8E%A8%E7%90%86%E5%88%B0%E4%B8%80%E5%8D%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%A5%BF%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "当没有人再谈论AI",
@@ -451,8 +544,22 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士，是否意味议价权彻底反转？可能有哪些影响？",
+          "url": "https://www.zhihu.com/question/2068405410696880350",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时17分 ~ 15时38分]"
+        },
         {
           "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
           "url": "https://www.cls.cn/detail/2446615",
@@ -466,35 +573,11 @@
           "time_info": "[01时24分 ~ 09时48分]"
         },
         {
-          "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士，是否意味议价权彻底反转？可能有哪些影响？",
-          "url": "https://www.zhihu.com/question/2068405410696880350",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时17分 ~ 12时59分]"
-        },
-        {
           "title": "华为发布新款折叠电脑售价24999元起",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%E5%94%AE%E4%BB%B724999%E5%85%83%E8%B5%B7",
           "source": "百度热搜",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时14分]"
-        },
-        {
-          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
-          "url": "https://wallstreetcn.com/articles/3778638",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -509,8 +592,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 15时38分]"
+        },
+        {
+          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时14分]"
         },
         {
           "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
@@ -585,11 +679,12 @@
           "ranks": [
             2,
             4,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 15时38分]"
         },
         {
           "title": "余承东称手机将大规模涨价",
@@ -699,6 +794,18 @@
           "time_info": "[06时14分 ~ 07时53分]"
         },
         {
+          "title": "苹果压价失灵,长鑫拒绝供货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
           "title": "河南发布带薪休假新政",
           "url": "https://www.douyin.com/hot/2598265",
           "source": "抖音",
@@ -711,15 +818,15 @@
           "time_info": "[07时52分 ~ 09时48分]"
         },
         {
-          "title": "苹果压价失灵,长鑫拒绝供货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
-          "source": "贴吧",
+          "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
+          "url": "https://www.zhihu.com/question/2068437296529897006",
+          "source": "知乎",
           "ranks": [
-            7
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
         },
         {
           "title": "理想i8发布",
@@ -744,17 +851,6 @@
           "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
-          "url": "https://www.zhihu.com/question/2068437296529897006",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
           "url": "https://wallstreetcn.com/livenews/3145619",
           "source": "华尔街见闻-快讯",
@@ -772,7 +868,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -786,6 +882,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "欧股小幅高开，欧洲斯托克50指数涨0.33%，英国富时100指数涨0.28%，法国CAC40指数涨0.61%，德国DAX指数涨0.08%。西门子下跌5.5%，此前发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3145878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "据The Information：阿波罗任命里德·雷曼（Reed Rayman）负责其芯片领域覆盖业务。",
@@ -816,7 +934,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -827,9 +945,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "软银季度利润超预期，芯片投资收益提振业绩",
+          "url": "https://flash.jin10.com/detail/20260806145530566800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "马斯克：人们没意识到我说的将实现",
+          "url": "https://www.toutiao.com/trending/7670018813664051243/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "扎克伯格：Meta今天发布Muse Code测试版。",
@@ -849,7 +989,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -860,7 +1000,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -868,7 +1008,7 @@
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
@@ -881,8 +1021,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 12时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 15时38分]"
         },
         {
           "title": "中方公布5项对美反制措施",
@@ -916,15 +1056,27 @@
           "time_info": "[01时24分 ~ 07时53分]"
         },
         {
+          "title": "工信部：持续提升现场混装炸药许可产能比重，支持小品种过剩产能置换退出",
+          "url": "https://flash.jin10.com/detail/20260806150841224800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "奶蛙出处确认",
           "url": "https://search.bilibili.com/all?keyword=%E5%A5%B6%E8%9B%99%E5%87%BA%E5%A4%84%E7%A1%AE%E8%AE%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
         },
         {
           "title": "“抗生素牛蛙”后续：多地开展牛蛙食品安全检查或专项行动",
@@ -932,22 +1084,24 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 15时38分]"
         },
         {
           "title": "《英雄联盟》中国队正式确认缺席 2026 名古屋亚运会，对此你有什么想说的？",
           "url": "https://www.zhihu.com/question/2068385399152403302",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
         },
         {
           "title": "现场感受U17国足绝杀",
@@ -961,6 +1115,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "现场：俄六枚导弹齐射，基辅陷入一片火海",
+          "url": "https://v.ifeng.com/c/8vMuyCJ7ijn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "北京被确认为2029年“世界建筑之都”",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%A2%AB%E7%A1%AE%E8%AE%A4%E4%B8%BA2029%E5%B9%B4%E2%80%9C%E4%B8%96%E7%95%8C%E5%BB%BA%E7%AD%91%E4%B9%8B%E9%83%BD%E2%80%9D",
           "source": "百度热搜",
@@ -970,6 +1135,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "Jennie芝加哥现场Reaction",
+          "url": "https://search.bilibili.com/all?keyword=Jennie%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%8E%B0%E5%9C%BAReaction",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "恋与深空再确认敖尹不会上线，将永远只有五位男主，为啥时隔一个月舆论还在发酵？官方有啥好的应对办法吗？",
+          "url": "https://www.zhihu.com/question/2068411990985236481",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "胡塞武装发言人：武装力量确认正在严密监控所有沙特油轮的动向，绝不允许任何船只通过。",
@@ -1008,7 +1195,7 @@
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "杂志社长举报网红张萌所著书籍292处文字雷同，张萌回应系“合理使用”",
@@ -1043,11 +1230,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 12时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 15时38分]"
         },
         {
           "title": "日本女网红自杀过程被完整直播",
@@ -1071,11 +1259,12 @@
             24,
             3,
             7,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 09时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 15时38分]"
         },
         {
           "title": "抖音手瓦选秀大会",
@@ -1093,6 +1282,18 @@
           "time_info": "[01时24分 ~ 09时48分]"
         },
         {
+          "title": "暑期电影影评杂谈",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E7%94%B5%E5%BD%B1%E5%BD%B1%E8%AF%84%E6%9D%82%E8%B0%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
           "title": "日本籍女网红在韩直播时自杀身亡",
           "url": "https://www.toutiao.com/trending/7670081701817073705/",
           "source": "今日头条",
@@ -1104,15 +1305,26 @@
           "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "暑期电影影评杂谈",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E7%94%B5%E5%BD%B1%E5%BD%B1%E8%AF%84%E6%9D%82%E8%B0%88",
-          "source": "bilibili 热搜",
+          "title": "直播自杀日本女网红已身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E8%87%AA%E6%9D%80%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "如何看待《蜘蛛侠 4》导演否认成家班参与设计电影？",
+          "url": "https://www.zhihu.com/question/2068278852867166688",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "日本女网红在韩国直播时自杀身亡",
@@ -1124,89 +1336,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "广东雷州通报“特教老师招聘存在违规”：启动问责程序，副校长被停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33722151",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 12时59分]"
         },
         {
-          "title": "传销头目出狱办书院打孩子 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%A0%E9%94%80%E5%A4%B4%E7%9B%AE%E5%87%BA%E7%8B%B1%E5%8A%9E%E4%B9%A6%E9%99%A2%E6%89%93%E5%AD%A9%E5%AD%90+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "title": "网红全程直播“荒岛改造”被查处",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%92%AD%E2%80%9C%E8%8D%92%E5%B2%9B%E6%94%B9%E9%80%A0%E2%80%9D%E8%A2%AB%E6%9F%A5%E5%A4%84",
           "source": "百度热搜",
           "ranks": [
-            23,
-            20,
-            19,
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "今年4位周星驰电影配角去世",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B44%E4%BD%8D%E5%91%A8%E6%98%9F%E9%A9%B0%E7%94%B5%E5%BD%B1%E9%85%8D%E8%A7%92%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "电影欢迎来龙餐馆开启预售",
+          "url": "https://www.douyin.com/hot/2599427",
+          "source": "抖音",
+          "ranks": [
             26
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 07时53分]"
-        },
-        {
-          "title": "官方通报传销头目出狱办书院",
-          "url": "https://www.toutiao.com/trending/7670445084701343787/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
-        },
-        {
-          "title": "武汉辟谣进口药医保不能报销等传言",
-          "url": "https://www.toutiao.com/trending/7670100822352609316/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "周杰伦公司辟谣私生子传闻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356821&amp;topic_name=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%85%AC%E5%8F%B8%E8%BE%9F%E8%B0%A3%E7%A7%81%E7%94%9F%E5%AD%90%E4%BC%A0%E9%97%BB",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "美国疾控中心（CDC）通报345例沙门氏菌病例，其中36例住院。 93%的确诊病例与墨西哥餐厅连锁有关。",
-          "url": "https://wallstreetcn.com/livenews/3145639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "15时38分"
         }
       ]
     },
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国拉“新群”，阿根廷、巴拿马等17国加入",
@@ -1244,15 +1412,133 @@
           "time_info": "09时48分"
         },
         {
+          "title": "英格兰干旱现状如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%B9%B2%E6%97%B1%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "C罗再次回应女友身材评论",
           "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8F%8B%E8%BA%AB%E6%9D%90%E8%AF%84%E8%AE%BA%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
+          "title": "阿根廷世界杯决赛前3人受伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%89%8D3%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "警方 通报 官方回应 反转 辟谣",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "广东雷州通报“特教老师招聘存在违规”：启动问责程序，副校长被停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33722151",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 15时38分]"
+        },
+        {
+          "title": "传销头目出狱办书院打孩子 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%A0%E9%94%80%E5%A4%B4%E7%9B%AE%E5%87%BA%E7%8B%B1%E5%8A%9E%E4%B9%A6%E9%99%A2%E6%89%93%E5%AD%A9%E5%AD%90+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            20,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时53分]"
+        },
+        {
+          "title": "武汉辟谣进口药医保不能报销等传言",
+          "url": "https://www.toutiao.com/trending/7670100822352609316/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
+          "title": "周杰伦公司辟谣私生子传闻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356821&amp;topic_name=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%85%AC%E5%8F%B8%E8%BE%9F%E8%B0%A3%E7%A7%81%E7%94%9F%E5%AD%90%E4%BC%A0%E9%97%BB",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时38分]"
+        },
+        {
+          "title": "官方通报传销头目出狱办书院",
+          "url": "https://www.toutiao.com/trending/7670445084701343787/",
+          "source": "今日头条",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "美国疾控中心（CDC）通报345例沙门氏菌病例，其中36例住院。 93%的确诊病例与墨西哥餐厅连锁有关。",
+          "url": "https://wallstreetcn.com/livenews/3145639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“千问办公”推出鸿蒙电脑版 全面支持三大主流操作系统",
+          "url": "https://wallstreetcn.com/livenews/3145850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
