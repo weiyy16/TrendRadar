@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:22:00.370739+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-08-08T20:31:36.779463+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -119,6 +119,18 @@
           "time_info": "[01时42分 ~ 19时22分]"
         },
         {
+          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
+          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时31分]"
+        },
+        {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
           "url": "https://wallstreetcn.com/livenews/3146964",
           "source": "华尔街见闻-快讯",
@@ -134,6 +146,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时37分 ~ 19时22分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时31分]"
         },
         {
           "title": "小米高管玩梗被指越界",
@@ -180,18 +203,6 @@
           "time_info": "[01时42分 ~ 09时00分]"
         },
         {
-          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
-          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时22分]"
-        },
-        {
           "title": "中国驻刚果(金)大使馆发布澄清声明",
           "url": "https://news.ifeng.com/c/8vP7mvjRM2n",
           "source": "凤凰网",
@@ -201,17 +212,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时59分 ~ 10时55分]"
-        },
-        {
-          "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "温州发布告全体市民书：非必要不外出",
@@ -235,22 +235,47 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 20时31分]"
         },
         {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://wallstreetcn.com/livenews/3146994",
-          "source": "华尔街见闻-快讯",
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至6月30日，66%的股权投资总公允价值集中在美国运通、苹果、美国银行、Alphabet和可口可乐。",
+          "url": "https://flash.jin10.com/detail/20260808201557267800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "20时31分"
+        },
+        {
+          "title": "兵韬志略｜日本发布2026防卫白皮书，“总体战”动员值得警惕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736615",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时31分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "美联邦航空局发布适航指令 要求检查部分波音客机",
@@ -262,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "iPhone18系列发布节奏",
@@ -277,19 +313,6 @@
           "time_info": "[10时55分 ~ 14时38分]"
         },
         {
-          "title": "兵韬志略｜日本发布2026防卫白皮书，“总体战”动员值得警惕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736615",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 19时22分]"
-        },
-        {
           "title": "黄金此处看涨期权明显变动，强势行情能否延续？——增强版同步发布！",
           "url": "https://flash.jin10.com/detail/20260808165149646800",
           "source": "金十数据",
@@ -301,6 +324,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时30分 ~ 19时22分]"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://wallstreetcn.com/livenews/3146994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时31分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -423,6 +458,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "阿维塔王辉：华为乾崑智驾里程突破137亿公里",
+          "url": "https://wallstreetcn.com/livenews/3146998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
           "url": "https://www.zhihu.com/question/2069020073851983605",
           "source": "知乎",
@@ -432,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
@@ -481,7 +538,7 @@
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -491,11 +548,12 @@
             7,
             5,
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时59分 ~ 19时22分]"
+          "appearance_count": 16,
+          "time_info": "[08时59分 ~ 20时31分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -508,8 +566,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 20时31分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -572,11 +630,12 @@
             11,
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 20时31分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -590,8 +649,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时42分 ~ 19时22分]"
+          "appearance_count": 23,
+          "time_info": "[01时42分 ~ 20时31分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -606,8 +665,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时46分 ~ 19时22分]"
+          "appearance_count": 21,
+          "time_info": "[03时46分 ~ 20时31分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -622,8 +681,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时46分 ~ 19时22分]"
+          "appearance_count": 21,
+          "time_info": "[03时46分 ~ 20时31分]"
         },
         {
           "title": "自媒体红利期只剩AI了",
@@ -702,6 +761,19 @@
           "time_info": "[01时42分 ~ 07时27分]"
         },
         {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时31分]"
+        },
+        {
           "title": "Kimi K3也失控了",
           "url": "https://www.baidu.com/s?wd=Kimi+K3%E4%B9%9F%E5%A4%B1%E6%8E%A7%E4%BA%86",
           "source": "百度热搜",
@@ -716,6 +788,30 @@
           "time_info": "[12时06分 ~ 15时42分]"
         },
         {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时31分]"
+        },
+        {
+          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069009991709857177",
+          "source": "知乎",
+          "ranks": [
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时31分]"
+        },
+        {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
           "source": "澎湃新闻",
@@ -726,31 +822,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时42分 ~ 06时27分]"
-        },
-        {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 19时22分]"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时22分]"
         },
         {
           "title": "戚薇谈把脸交给AI",
@@ -765,17 +836,6 @@
           "time_info": "[16时30分 ~ 18时23分]"
         },
         {
-          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069009991709857177",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 19时22分]"
-        },
-        {
           "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
           "url": "https://wallstreetcn.com/livenews/3146973",
           "source": "华尔街见闻-快讯",
@@ -788,6 +848,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时42分 ~ 18时23分]"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时31分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -820,17 +892,6 @@
           "source": "百度热搜",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时22分]"
-        },
-        {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -905,6 +966,28 @@
           "time_info": "01时42分"
         },
         {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "用AI造出新病毒意味着什么",
           "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E9%80%A0%E5%87%BA%E6%96%B0%E7%97%85%E6%AF%92%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
@@ -919,22 +1002,8 @@
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
-          "url": "https://www.zhihu.com/question/2068340016519107220",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 19时22分]"
-        },
         {
           "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
           "url": "https://www.zhihu.com/question/2068466998103822555",
@@ -943,11 +1012,27 @@
             18,
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时42分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[15时42分 ~ 20时31分]"
+        },
+        {
+          "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
+          "url": "https://www.zhihu.com/question/2068340016519107220",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            5,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 20时31分]"
         },
         {
           "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
@@ -961,8 +1046,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 20时31分]"
         },
         {
           "title": "挑战看电影去你的岛不哭",
@@ -999,6 +1084,19 @@
           "time_info": "[13时37分 ~ 19时22分]"
         },
         {
+          "title": "如何评价 2026 年 8 月 8 日开启超前点映的文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
+          "url": "https://www.zhihu.com/question/2068425373046544035",
+          "source": "知乎",
+          "ranks": [
+            19,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时31分]"
+        },
+        {
           "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
           "url": "https://news.ifeng.com/c/8vOvAq61BE5",
           "source": "凤凰网",
@@ -1010,38 +1108,16 @@
           "time_info": "[01时42分 ~ 07时27分]"
         },
         {
-          "title": "2026年度电影总票房突破240亿",
-          "url": "https://flash.jin10.com/detail/20260808185112446800",
-          "source": "金十数据",
+          "title": "在电影院要小心自己的喝的",
+          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E5%B0%8F%E5%BF%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%96%9D%E7%9A%84&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "2026年度总票房破240亿",
-          "url": "https://wallstreetcn.com/livenews/3146993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "如何评价 2026 年 8 月 8 日开启超前点映的文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
-          "url": "https://www.zhihu.com/question/2068425373046544035",
-          "source": "知乎",
-          "ranks": [
-            19,
+            6,
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时22分]"
+          "time_info": "[19时21分 ~ 20时31分]"
         },
         {
           "title": "2026年8月票房破15亿",
@@ -1070,6 +1146,42 @@
           "time_info": "[15时42分 ~ 17时30分]"
         },
         {
+          "title": "2026年度电影总票房突破240亿",
+          "url": "https://flash.jin10.com/detail/20260808185112446800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时31分]"
+        },
+        {
+          "title": "2026年度总票房破240亿",
+          "url": "https://wallstreetcn.com/livenews/3146993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时31分]"
+        },
+        {
+          "title": "电影欢迎来龙餐馆口碑",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%8F%A3%E7%A2%91&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时31分]"
+        },
+        {
           "title": "电影去你的岛细思极哭",
           "url": "https://www.douyin.com/hot/2601958",
           "source": "抖音",
@@ -1094,28 +1206,6 @@
           "time_info": "[07时27分 ~ 09时00分]"
         },
         {
-          "title": "在电影院要小心自己的喝的",
-          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E5%B0%8F%E5%BF%83%E8%87%AA%E5%B7%B1%E7%9A%84%E5%96%9D%E7%9A%84&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
-        },
-        {
-          "title": "电影欢迎来龙餐馆口碑",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%8F%A3%E7%A2%91&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
-        },
-        {
           "title": "日韩网红模仿中国人切西瓜",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%A8%A1%E4%BB%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%87%E8%A5%BF%E7%93%9C%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1126,6 +1216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 15时42分]"
+        },
+        {
+          "title": "网红张主任在青岛麦霸现场掰嗓子",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E5%BC%A0%E4%B8%BB%E4%BB%BB%E5%9C%A8%E9%9D%92%E5%B2%9B%E9%BA%A6%E9%9C%B8%E7%8E%B0%E5%9C%BA%E6%8E%B0%E5%97%93%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
@@ -1139,6 +1240,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
+          "url": "https://www.zhihu.com/question/2069443167678632232",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "欢迎来龙餐馆的票房",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%9A%84%E7%A5%A8%E6%88%BF%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1148,6 +1260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "台网红：两岸统一才是唯一答案",
+          "url": "https://www.toutiao.com/trending/7670778058651418667/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
@@ -1164,8 +1287,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 19时22分]"
+          "appearance_count": 8,
+          "time_info": "[16时30分 ~ 20时31分]"
         },
         {
           "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
@@ -1198,11 +1321,12 @@
           "ranks": [
             4,
             5,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 20时31分]"
         },
         {
           "title": "美国参议院确认托德布兰奇将担任美国司法部长。",
@@ -1211,11 +1335,12 @@
           "ranks": [
             5,
             6,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 20时31分]"
         },
         {
           "title": "美国参议院确认托德布兰奇将担任美国司法部长。",
@@ -1363,11 +1488,12 @@
             12,
             14,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时42分 ~ 19时22分]"
+          "appearance_count": 23,
+          "time_info": "[01时42分 ~ 20时31分]"
         },
         {
           "title": "山东郯城警方围剿两处电诈窝点",
@@ -1376,11 +1502,12 @@
           "ranks": [
             20,
             12,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时31分]"
         },
         {
           "title": "男子赴泰国收款失联 警方介入调查",
@@ -1413,11 +1540,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时31分]"
         }
       ]
     },
@@ -1489,7 +1617,7 @@
     },
     {
       "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
@@ -1514,6 +1642,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "江苏省城市足球联赛 徐州vs常州",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%9F%8E%E5%B8%82%E8%B6%B3%E7%90%83%E8%81%94%E8%B5%9B%20%E5%BE%90%E5%B7%9Evs%E5%B8%B8%E5%B7%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "AUBL半决赛上交大绝杀清华",
@@ -1552,11 +1691,12 @@
             6,
             4,
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时42分 ~ 19时22分]"
+          "appearance_count": 23,
+          "time_info": "[01时42分 ~ 20时31分]"
         },
         {
           "title": "北京：非京籍家庭购房社保个税缴纳年限下调为一年",
@@ -1573,8 +1713,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时42分 ~ 19时22分]"
+          "appearance_count": 23,
+          "time_info": "[01时42分 ~ 20时31分]"
         },
         {
           "title": "北京楼市新政：非京籍五环内社保满1年即可购房，适度提高公积金最高贷款额度",
