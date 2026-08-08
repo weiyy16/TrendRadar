@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T12:06:58.771021+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-08-08T13:37:28.473998+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -43,11 +43,12 @@
             7,
             2,
             3,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "2名小孩玩手机低头幅度近乎折叠",
@@ -109,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "小米高管玩梗被指越界",
@@ -164,6 +165,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
+          "url": "https://wallstreetcn.com/livenews/3146964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
           "url": "https://wallstreetcn.com/livenews/3146924",
           "source": "华尔街见闻-快讯",
@@ -191,6 +203,18 @@
           "time_info": "[08时59分 ~ 12时06分]"
         },
         {
+          "title": "iPhone18系列发布节奏",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 13时37分]"
+        },
+        {
           "title": "美国FAA发布适航指令，要求检查部分波音客机",
           "url": "https://wallstreetcn.com/livenews/3146854",
           "source": "华尔街见闻-快讯",
@@ -203,6 +227,18 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "温州发布告全体市民书：非必要不外出",
+          "url": "https://www.toutiao.com/trending/7671483007768727083/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时37分]"
+        },
+        {
           "title": "我们真的能在太空造芯片吗",
           "url": "https://www.toutiao.com/trending/7671098416675602470/",
           "source": "今日头条",
@@ -212,17 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
-          "title": "iPhone18系列发布节奏",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 12时06分]"
         },
         {
           "title": "华为阔直板新机曝光",
@@ -259,15 +284,15 @@
           "time_info": "04时33分"
         },
         {
-          "title": "温州发布告全体市民书：非必要不外出",
-          "url": "https://www.toutiao.com/trending/7671483007768727083/",
-          "source": "今日头条",
+          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
+          "url": "https://flash.jin10.com/detail/20260808121316604800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "13时37分"
         },
         {
           "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
@@ -290,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "小心这种手机壳正在偷拍你的隐私",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BF%83%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%AD%A3%E5%9C%A8%E5%81%B7%E6%8B%8D%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "以色列国防军发言人：以色列国防军根据客观考量和对形势的评估，向公众发布信息。以色列国防军发言人不会发布根据评估可能危及我们在战区行动部队的信息。",
@@ -328,7 +364,7 @@
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -341,11 +377,12 @@
             6,
             19,
             8,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -355,11 +392,12 @@
             6,
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -373,8 +411,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -387,8 +425,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时46分 ~ 12时06分]"
+          "appearance_count": 10,
+          "time_info": "[03时46分 ~ 13时37分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -401,8 +439,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时46分 ~ 12时06分]"
+          "appearance_count": 10,
+          "time_info": "[03时46分 ~ 13时37分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时37分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -445,11 +495,12 @@
             1,
             5,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 13时37分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -464,26 +515,15 @@
           "time_info": "[01时42分 ~ 06时27分]"
         },
         {
-          "title": "Kimi K3也失控了",
-          "url": "https://www.baidu.com/s?wd=Kimi+K3%E4%B9%9F%E5%A4%B1%E6%8E%A7%E4%BA%86",
+          "title": "美国AI开始攻击真人了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时06分]"
+          "time_info": "13时37分"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -495,8 +535,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时37分]"
+        },
+        {
+          "title": "Kimi K3也失控了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E4%B9%9F%E5%A4%B1%E6%8E%A7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时37分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -516,11 +568,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 13时37分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -533,6 +586,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时37分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -569,17 +634,6 @@
           "time_info": "03时46分"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
           "url": "https://flash.jin10.com/detail/20260808005548495800",
           "source": "金十数据",
@@ -589,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "用AI造出新病毒意味着什么",
@@ -722,6 +787,108 @@
       ]
     },
     {
+      "keyword_group": "电影 票房 抖音 热搜 网红",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "挑战看电影去你的岛不哭",
+          "url": "https://www.douyin.com/hot/2600927",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            18,
+            22,
+            23,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 12时06分]"
+        },
+        {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 07时27分]"
+        },
+        {
+          "title": "2026年8月票房破15亿",
+          "url": "https://flash.jin10.com/detail/20260808123207013800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "2026年8月票房破15亿",
+          "url": "https://wallstreetcn.com/livenews/3146963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739863",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 13时37分]"
+        },
+        {
+          "title": "蜘蛛侠4登顶2026全球票房年冠",
+          "url": "https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%99%BB%E9%A1%B62026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E5%86%A0&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 09时00分]"
+        },
+        {
+          "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
+          "url": "https://www.zhihu.com/question/2062925324489339966",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "日韩网红模仿中国人切西瓜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%A8%A1%E4%BB%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%87%E8%A5%BF%E7%93%9C%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
       "match_count": 5,
       "titles": [
@@ -735,8 +902,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "飞机票免费退改真的来了",
@@ -801,8 +968,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
@@ -815,8 +982,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "大反转!桃酥吃出牙冠系造谣",
@@ -825,11 +992,12 @@
           "ranks": [
             9,
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "男子赴泰国收款失联 警方介入调查",
@@ -860,75 +1028,6 @@
       ]
     },
     {
-      "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "挑战看电影去你的岛不哭",
-          "url": "https://www.douyin.com/hot/2600927",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            18,
-            22,
-            23,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时42分 ~ 12时06分]"
-        },
-        {
-          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
-          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时27分]"
-        },
-        {
-          "title": "蜘蛛侠4登顶2026全球票房年冠",
-          "url": "https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%99%BB%E9%A1%B62026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E5%86%A0&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 09时00分]"
-        },
-        {
-          "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739863",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 12时06分]"
-        },
-        {
-          "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
-          "url": "https://www.zhihu.com/question/2062925324489339966",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
       "match_count": 4,
       "titles": [
@@ -944,8 +1043,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "北京：非京籍家庭购房社保个税缴纳年限下调为一年",
@@ -957,11 +1056,12 @@
             4,
             6,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 13时37分]"
         },
         {
           "title": "北京楼市新政：非京籍五环内社保满1年即可购房，适度提高公积金最高贷款额度",
@@ -971,8 +1071,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 13时37分]"
         },
         {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
