@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T02:28:42.152723+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-08-10T03:27:15.769209+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "网民AI造谣“西平灭门案”被行拘",
@@ -49,19 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
-        },
-        {
-          "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
-          "url": "https://wallstreetcn.com/livenews/3147103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "作者来整活,豆包成主角DS器灵",
@@ -71,8 +60,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -82,8 +71,31 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
+        },
+        {
+          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
+          "url": "https://www.zhihu.com/question/2068991097578021742",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 03时27分]"
+        },
+        {
+          "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
+          "url": "https://wallstreetcn.com/livenews/3147103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "期刊《中国经济问题》发布AI使用规范：不得替代作者开展实质性研究",
@@ -95,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
-          "url": "https://www.zhihu.com/question/2068991097578021742",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         }
       ]
     },
@@ -119,11 +120,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -134,19 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
-        },
-        {
-          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
-          "url": "https://wallstreetcn.com/livenews/3147106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "中央气象台升级发布台风红警：六省份有大暴雨，浙江局地特大暴雨",
@@ -154,11 +145,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "原字节跳动机器人一号位加入小米",
@@ -168,19 +160,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
-          "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
-          "url": "https://flash.jin10.com/detail/20260810002924011800",
-          "source": "金十数据",
+          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
+          "url": "https://wallstreetcn.com/livenews/3147106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
@@ -189,9 +181,21 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 03时27分]"
+        },
+        {
+          "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
+          "url": "https://flash.jin10.com/detail/20260810002924011800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时27分]"
         },
         {
           "title": "中央气象台发布台风红色预警，为何发布最高级别预警",
@@ -216,11 +220,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？",
@@ -230,8 +235,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
+        },
+        {
+          "title": "暑期档哪部电影值得看",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
+        },
+        {
+          "title": "贵州网红“老表”遗体已找到",
+          "url": "https://www.douyin.com/hot/2603296",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 03时27分]"
+        },
+        {
+          "title": "《欢迎来龙餐馆》点映及预售总票房破亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%82%B9%E6%98%A0%E5%8F%8A%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 03时27分]"
         },
         {
           "title": "还有哪些类似《奥德赛》一样史诗题材的电影值得一看？",
@@ -240,18 +281,6 @@
           "ranks": [
             14,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
-        },
-        {
-          "title": "暑期档哪部电影值得看",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%93%AA%E9%83%A8%E7%94%B5%E5%BD%B1%E5%80%BC%E5%BE%97%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -269,17 +298,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "贵州网红“老表”遗体已找到",
-          "url": "https://www.douyin.com/hot/2603296",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
           "title": "郑润泽发抖音是忘记加bgm了吗",
           "url": "https://www.douyin.com/hot/2603733",
           "source": "抖音",
@@ -289,23 +307,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "《欢迎来龙餐馆》点映及预售总票房破亿",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%82%B9%E6%98%A0%E5%8F%8A%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         }
       ]
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "五角大楼公布第5批UFO文件(图)",
@@ -315,8 +322,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "独闯南太行的失联女生最后轨迹已确认",
@@ -326,8 +333,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "台风登陆现场：狂风怒扫雨水横飞",
@@ -338,19 +345,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "黎巴嫩真主党：（就以色列外交部公布包含黎巴嫩南部的地图一事表示）当局应对走向妥协的道路承担责任。",
           "url": "https://flash.jin10.com/detail/20260810003801780800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时27分]"
+        },
+        {
+          "title": "封路、垒沙袋、捞杂物……记者现场直击上海多处积水抢排现场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33749478",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 03时27分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——周三美国CPI数据重磅来袭；国内成品油将调价、京东与腾讯等将公布二季度财报",
@@ -375,11 +394,24 @@
           "source": "微博",
           "ranks": [
             8,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
+        },
+        {
+          "title": "大家都走到职场的哪一步了",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%B5%B0%E5%88%B0%E8%81%8C%E5%9C%BA%E7%9A%84%E5%93%AA%E4%B8%80%E6%AD%A5%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 03时27分]"
         },
         {
           "title": "瑞典新研究：RNA预处理可助提升胰岛移植效率",
@@ -389,19 +421,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
-        },
-        {
-          "title": "大家都走到职场的哪一步了",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%B5%B0%E5%88%B0%E8%81%8C%E5%9C%BA%E7%9A%84%E5%93%AA%E4%B8%80%E6%AD%A5%E4%BA%86&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时27分]"
         }
       ]
     },
@@ -418,8 +439,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "穿8850元MiuMiu鞋脚被染黑 官方回应",
@@ -427,22 +448,24 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         },
         {
           "title": "江西警方通报：一男子酒驾致7人受伤",
           "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%EF%BC%9A%E4%B8%80%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%87%B47%E4%BA%BA%E5%8F%97%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 03时27分]"
         }
       ]
     },
@@ -475,8 +498,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时27分]"
         }
       ]
     }
