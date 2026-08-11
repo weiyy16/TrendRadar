@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:38:52.861703+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-08-11T23:53:55.518071+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 75,
+      "match_count": 79,
       "titles": [
         {
           "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
@@ -45,6 +45,19 @@
           "time_info": "[01时45分 ~ 17时54分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 23时53分]"
+        },
+        {
           "title": "AI挤占短剧业,真人演员遭偷家",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
           "source": "贴吧",
@@ -57,19 +70,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时45分 ~ 14时52分]"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 19时38分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -95,6 +95,34 @@
           "time_info": "[01时45分 ~ 06时29分]"
         },
         {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 23时53分]"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6,
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 23时53分]"
+        },
+        {
           "title": "用AI重返那年相遇的青涩夏天",
           "url": "https://www.douyin.com/hot/2605104",
           "source": "抖音",
@@ -110,33 +138,6 @@
           "time_info": "[09时04分 ~ 19时38分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 19时38分]"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 19时38分]"
-        },
-        {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
           "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
@@ -144,11 +145,41 @@
             10,
             9,
             8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 23时53分]"
+        },
+        {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            10,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 23时53分]"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            12,
             5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时54分 ~ 19时38分]"
+          "time_info": "[14时52分 ~ 23时53分]"
         },
         {
           "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
@@ -165,17 +196,17 @@
           "time_info": "[11时28分 ~ 19时38分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6,
-            11
+            11,
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 23时53分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -211,6 +242,21 @@
           "time_info": "14时52分"
         },
         {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            15,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 23时53分]"
+        },
+        {
           "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
           "url": "https://flash.jin10.com/detail/20260811111212869800",
           "source": "金十数据",
@@ -231,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
@@ -313,31 +370,18 @@
           "time_info": "[11时28分 ~ 16时05分]"
         },
         {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
+          "title": "推荐酒店收佣金,豆包转行当中介",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357131&amp;topic_name=%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%94%B6%E4%BD%A3%E9%87%91%2C%E8%B1%86%E5%8C%85%E8%BD%AC%E8%A1%8C%E5%BD%93%E4%B8%AD%E4%BB%8B",
+          "source": "贴吧",
           "ranks": [
-            10,
-            9,
-            12
+            17,
+            19,
+            20,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时52分 ~ 19时38分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 19时38分]"
+          "time_info": "[16时05分 ~ 23时53分]"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -387,31 +431,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 11时28分]"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时05分 ~ 19时38分]"
-        },
-        {
-          "title": "推荐酒店收佣金,豆包转行当中介",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357131&amp;topic_name=%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%94%B6%E4%BD%A3%E9%87%91%2C%E8%B1%86%E5%8C%85%E8%BD%AC%E8%A1%8C%E5%BD%93%E4%B8%AD%E4%BB%8B",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时05分 ~ 19时38分]"
         },
         {
           "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
@@ -547,7 +566,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -561,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -605,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
+          "url": "https://www.cls.cn/detail/2451331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "【上海：支持软件企业广泛使用Coding平台】上海市经济和信息化委员会印发《上海市软件和信息服务业发展“十五五”规划》。其中提到，推动软件产品AI化发展，加快工业制图、工程设计和生产排产等高价值场景的智能化升级，强化软件产品的智能感知、分析、决策与执行能力。促进软件企业智能化技改，支持软件企业广泛使用Coding平台，构建覆盖全流程、全链条的智能化研发生产线，探索将词元（Token）、数据治理、大模型部署及再训练等投入，纳入企业技术改造支持方向。",
@@ -690,7 +731,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -704,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "对话复旦大学李银胜：AI会带来“文化人”的黄金时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33757463",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
@@ -885,7 +937,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "马斯克的新挑战：给光刻机“换束光”",
@@ -1067,6 +1119,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "女子称汤泉洗澡遇男孩举手机玩",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B1%A4%E6%B3%89%E6%B4%97%E6%BE%A1%E9%81%87%E7%94%B7%E5%AD%A9%E4%B8%BE%E6%89%8B%E6%9C%BA%E7%8E%A9",
           "source": "百度热搜",
@@ -1114,6 +1177,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时53分 ~ 19时38分]"
+        },
+        {
+          "title": "手机NFC功能不要随便打开",
+          "url": "https://www.toutiao.com/trending/7672232082655182884/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 23时53分]"
         },
         {
           "title": "马斯克母子强推中国游",
@@ -1175,18 +1251,6 @@
           "time_info": "[13时54分 ~ 14时52分]"
         },
         {
-          "title": "手机NFC功能不要随便打开",
-          "url": "https://www.toutiao.com/trending/7672232082655182884/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 16时05分]"
-        },
-        {
           "title": "河南发布红色山洪灾害气象风险预警",
           "url": "https://wallstreetcn.com/livenews/3147818",
           "source": "华尔街见闻-快讯",
@@ -1197,6 +1261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 13时54分]"
+        },
+        {
+          "title": "局地特大暴雨！河南发布暴雨橙色预警",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%81%E6%B2%B3%E5%8D%97%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 23时53分]"
         },
         {
           "title": "北京市发布暴雨橙色预警",
@@ -1276,6 +1352,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "马斯克：强烈推荐大家去中国看看",
+          "url": "https://wallstreetcn.com/livenews/3148137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "机构：2026年第二季度全球平板电脑市场出货量下滑10%",
           "url": "https://wallstreetcn.com/livenews/3147847",
           "source": "华尔街见闻-快讯",
@@ -1285,6 +1372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "苹果的买方霸权 第一次在中国失效",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "越南航空航天企业VinSpace：与SpaceX签署卫星任务发射合同，计划于2027年通过SpaceX的“Transporter”拼车发射任务发射卫星。",
@@ -1430,15 +1528,15 @@
           "time_info": "11时28分"
         },
         {
-          "title": "局地特大暴雨！河南发布暴雨橙色预警",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%81%E6%B2%B3%E5%8D%97%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "title": "马斯克：强烈推荐大家去中国看看",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
           "source": "百度热搜",
           "ranks": [
-            24
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "23时53分"
         },
         {
           "title": "黄金与传统叙事再次脱钩，谁在拉盘？下一步看哪？——新版发布",
@@ -1469,9 +1567,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "我国聚变加料领域首项ISO国际标准正式发布",
+          "url": "https://wallstreetcn.com/livenews/3148114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "河南发布暴雨橙色预警",
@@ -1480,7 +1589,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -1488,7 +1597,7 @@
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "易烊千玺、卫诗雅分封影帝、影后，如何评价第 38 届大众电影百花奖获奖名单？",
@@ -1524,6 +1633,22 @@
           "time_info": "[01时45分 ~ 06时29分]"
         },
         {
+          "title": "闺蜜诱骗撕票,女网红不幸遇害",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 23时53分]"
+        },
+        {
           "title": "宁波公安回应网红雅典娜遇害传闻",
           "url": "https://www.douyin.com/hot/2605783",
           "source": "抖音",
@@ -1548,21 +1673,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时04分 ~ 17时54分]"
-        },
-        {
-          "title": "闺蜜诱骗撕票,女网红不幸遇害",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357114&amp;topic_name=%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E6%92%95%E7%A5%A8%2C%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8D%E5%B9%B8%E9%81%87%E5%AE%B3",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 19时38分]"
         },
         {
           "title": "沈腾主演电影票房已破415亿",
@@ -1605,11 +1715,23 @@
           "source": "微博",
           "ranks": [
             1,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 23时53分]"
+        },
+        {
+          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
+          "url": "https://www.zhihu.com/question/2070076711593406558",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "中国网红「雅典娜」确认遇害，被闺蜜骗去菲律宾后被绑架，哪些细节值得关注？",
@@ -1646,6 +1768,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 13时54分]"
+        },
+        {
+          "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至 35.4 亿人民币？",
+          "url": "https://www.zhihu.com/question/2070305441545040277",
+          "source": "知乎",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 23时53分]"
         },
         {
           "title": "龙餐馆灯塔预测票房35亿",
@@ -1706,13 +1840,24 @@
           "time_info": "[01时45分 ~ 01时46分]"
         },
         {
+          "title": "36岁网红为救父亲氨气中毒去世",
+          "url": "https://www.toutiao.com/trending/7672588898545451046/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "北京文化：公司作为联合出品方的部分电影项目已于2026年暑期档上映，公司参投比例较低，预计不会对业绩产生重大影响。",
           "url": "https://wallstreetcn.com/livenews/3148042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1723,7 +1868,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1739,6 +1884,39 @@
           "time_info": "09时04分"
         },
         {
+          "title": "欢迎来龙餐馆票房破两亿",
+          "url": "https://www.douyin.com/hot/2606235",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "网红逍遥客为救父亲氨气中毒去世",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%80%8D%E9%81%A5%E5%AE%A2%E4%B8%BA%E6%95%91%E7%88%B6%E4%BA%B2%E6%B0%A8%E6%B0%94%E4%B8%AD%E6%AF%92%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "网红“雅典娜”已确认遇害？母亲发声",
+          "url": "https://news.ifeng.com/c/8vVeyWMOlIM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "如何看待《哪吒之魔童闹海》斩获第 38 届大众电影百花奖最佳影片，成为百花奖历史上首部动画最佳影片？",
           "url": "https://www.zhihu.com/question/2070263777988289579",
           "source": "知乎",
@@ -1748,17 +1926,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至 35.4 亿人民币？",
-          "url": "https://www.zhihu.com/question/2070305441545040277",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "成龙国际动作电影周闭幕式嘉宾名单",
@@ -1778,7 +1945,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1800,7 +1967,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1822,7 +1989,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -1830,7 +1997,7 @@
     },
     {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
@@ -1871,8 +2038,21 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时45分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[01时45分 ~ 23时53分]"
+        },
+        {
+          "title": "媒体曝中国网红「雅典娜」确认遇害，宁波警方称并未证实其已遇害，事件真相到底如何？",
+          "url": "https://www.zhihu.com/question/2070285462472582864",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 23时53分]"
         },
         {
           "title": "公安部通报：抓获犯罪嫌疑人8200余名",
@@ -1887,19 +2067,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时45分 ~ 06时29分]"
-        },
-        {
-          "title": "媒体曝中国网红「雅典娜」确认遇害，宁波警方称并未证实其已遇害，事件真相到底如何？",
-          "url": "https://www.zhihu.com/question/2070285462472582864",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时05分 ~ 19时38分]"
         },
         {
           "title": "睡车里被酒店收150元住宿费事件反转",
@@ -1924,6 +2091,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "武汉市民政局通报“男子遗体滞留太平间十二年”：开展全面调查核实，将依法依规处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759939",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
+          "url": "https://www.zhihu.com/question/2070468397289009796",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "警车被指擅自更换车标 警方回应",
@@ -1951,6 +2140,19 @@
           "time_info": "[13时54分 ~ 16时05分]"
         },
         {
+          "title": "宁波警方回应“网红雅典娜遇害”：相关报道引用截图系网络资料",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33758640",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 23时53分]"
+        },
+        {
           "title": "睡车里被酒店收150元住宿费事件反转",
           "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E8%BD%A6%E9%87%8C%E8%A2%AB%E9%85%92%E5%BA%97%E6%94%B6150%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC",
           "source": "百度热搜",
@@ -1964,18 +2166,6 @@
           "time_info": "[13时54分 ~ 19时38分]"
         },
         {
-          "title": "宁波警方回应“网红雅典娜遇害”：相关报道引用截图系网络资料",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33758640",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时05分 ~ 17时54分]"
-        },
-        {
           "title": "警方介入调查独闯南太行女子死因",
           "url": "https://www.toutiao.com/trending/7672386776553406527/",
           "source": "今日头条",
@@ -1986,6 +2176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 14时52分]"
+        },
+        {
+          "title": "睡车里被酒店收150元住宿费事件反转",
+          "url": "https://www.toutiao.com/trending/7672232495756902446/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 23时53分]"
         },
         {
           "title": "周一（8月10日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报230.25欧元/吨。 油菜籽期货涨1.03%，报538.75欧元/吨，近期呈现出V形反转行情、8月3日曾跌至508.75欧元。",
@@ -2009,17 +2211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "睡车里被酒店收150元住宿费事件反转",
-          "url": "https://www.toutiao.com/trending/7672232495756902446/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "宁波警方并未证实雅典娜已遇害",
@@ -2050,7 +2241,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -2058,7 +2249,7 @@
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "百花奖获奖名单公布",
@@ -2154,6 +2345,18 @@
           "time_info": "[13时54分 ~ 14时52分]"
         },
         {
+          "title": "“举报执行局长骚扰索贿”当事人武丽娜首面镜头：希望公布核查结论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753706",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 23时53分]"
+        },
+        {
           "title": "加拿大总理卡尼：我们正在降低加拿大钢铁运输成本，让更多加拿大钢材能够运往全国各地的建设项目现场，同时加强国内供应链。",
           "url": "https://flash.jin10.com/detail/20260811020915077800",
           "source": "金十数据",
@@ -2196,17 +2399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "“举报执行局长骚扰索贿”当事人武丽娜首面镜头：希望公布核查结论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753706",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "美国稀土公司盘后下跌5%，此前公布第二季度业绩并宣布收购计划。",
@@ -2262,6 +2454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "朋友圈评论教体局长免职被拘后续",
+          "url": "https://www.toutiao.com/trending/7672684195747364915/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
@@ -2283,6 +2486,18 @@
           "time_info": "[09时04分 ~ 16时05分]"
         },
         {
+          "title": "免费领鸡蛋骗了60多名留守老人",
+          "url": "https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E9%A2%86%E9%B8%A1%E8%9B%8B%E9%AA%97%E4%BA%8660%E5%A4%9A%E5%90%8D%E7%95%99%E5%AE%88%E8%80%81%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 23时53分]"
+        },
+        {
           "title": "千问办公助理上线付费服务：三档套餐，一年最高1499元",
           "url": "https://flash.jin10.com/detail/20260811084033087800",
           "source": "金十数据",
@@ -2292,17 +2507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "免费领鸡蛋骗了60多名留守老人",
-          "url": "https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E9%A2%86%E9%B8%A1%E8%9B%8B%E9%AA%97%E4%BA%8660%E5%A4%9A%E5%90%8D%E7%95%99%E5%AE%88%E8%80%81%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         }
       ]
     },
