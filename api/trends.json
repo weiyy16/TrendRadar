@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-12T15:12:21.112265+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-08-12T17:04:41.162963+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时34分 ~ 17时04分]"
+        },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
           "url": "https://www.cls.cn/detail/2451347",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 11时58分]"
-        },
-        {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时34分 ~ 15时12分]"
         },
         {
           "title": "AI打开了我童年记忆的百宝箱",
@@ -160,6 +160,18 @@
           "time_info": "[00时50分 ~ 04时37分]"
         },
         {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时04分]"
+        },
+        {
           "title": "城市竞争进入AI答案时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
           "source": "澎湃新闻",
@@ -171,16 +183,29 @@
           "time_info": "[00时50分 ~ 07时32分]"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 17时04分]"
+        },
+        {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
           "url": "https://www.cls.cn/detail/2451840",
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 17时04分]"
         },
         {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
@@ -205,30 +230,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时12分]"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时12分]"
         },
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -264,6 +265,17 @@
           "time_info": "13时30分"
         },
         {
+          "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
+          "url": "https://wallstreetcn.com/livenews/3148530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "AI产业给韩国人带来什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -297,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "阿里巴巴前AI架构师创办新公司 获腾讯和红杉投资",
+          "url": "https://wallstreetcn.com/livenews/3148525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
@@ -423,6 +446,17 @@
           "time_info": "[06时34分 ~ 07时32分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 17时04分]"
+        },
+        {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
           "url": "https://wallstreetcn.com/livenews/3148181",
           "source": "华尔街见闻-快讯",
@@ -433,6 +467,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时50分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 17时04分]"
         },
         {
           "title": "易中天用AI解读庄子",
@@ -486,7 +531,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -524,15 +569,15 @@
           "time_info": "13时30分"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
+          "title": "事关AI支出激增影响！高盛：多头和空头都判断错了",
+          "url": "https://www.cls.cn/detail/2451842",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "17时04分"
         },
         {
           "title": "Omdia：AI需求激增2026年半导体市场增幅上调至94.1%",
@@ -574,20 +619,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
+          "title": "“千问AI Arena”上线 首个任务聚焦跨境电商",
+          "url": "https://wallstreetcn.com/livenews/3148509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "17时04分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)：最近数周启动了微信内AI智能体小微的小范围灰度测试；小微由专注于用户隐私、微信场景和推理效率的定制化模型WeLM驱动。",
+          "url": "https://flash.jin10.com/detail/20260812163528219800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
@@ -599,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "AI板块过热叠加能源通胀风险，押注能源股或是完美对冲选择 | 每日市场观察08.12",
+          "url": "https://flash.jin10.com/detail/20260812163445071800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "桑德斯要求三大AI公司暂停开发",
@@ -695,7 +762,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -747,7 +814,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 45,
+      "match_count": 52,
       "titles": [
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -769,8 +836,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 17时04分]"
+        },
+        {
+          "title": "部分博物馆出现停电、空调瘫痪等情况，国家文物局发布紧急通知",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33761589",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 17时04分]"
         },
         {
           "title": "马斯克：强烈推荐大家去中国看看",
@@ -795,17 +874,6 @@
           "source": "抖音",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时12分]"
-        },
-        {
-          "title": "部分博物馆出现停电、空调瘫痪等情况，国家文物局发布紧急通知",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33761589",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -846,11 +914,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 17时04分]"
         },
         {
           "title": "苹果的买方霸权 第一次在中国失效",
@@ -899,6 +968,17 @@
           "time_info": "[02时50分 ~ 07时32分]"
         },
         {
+          "title": "马斯克推荐“去中国看看”打了谁的脸",
+          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 17时04分]"
+        },
+        {
           "title": "小米汽车: 7月SU7销量21,044辆。",
           "url": "https://wallstreetcn.com/livenews/3148318",
           "source": "华尔街见闻-快讯",
@@ -932,15 +1012,17 @@
           "time_info": "04时37分"
         },
         {
-          "title": "马斯克推荐“去中国看看”打了谁的脸",
-          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
-          "source": "凤凰网",
+          "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2070445459840000945",
+          "source": "知乎",
           "ranks": [
-            11
+            10,
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时12分]"
+          "time_info": "[11时58分 ~ 17时04分]"
         },
         {
           "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
@@ -1006,28 +1088,17 @@
           "time_info": "[04时37分 ~ 06时34分]"
         },
         {
-          "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2070445459840000945",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时12分]"
-        },
-        {
           "title": "量化推波助澜？芯片股的“完美对冲”浮现了！",
           "url": "https://www.cls.cn/detail/2452001",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时12分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时04分]"
         },
         {
           "title": "马斯克母子强推中国游",
@@ -1115,6 +1186,17 @@
           "time_info": "11时58分"
         },
         {
+          "title": "几块钱的手机壳可能在消耗你的健康",
+          "url": "https://www.toutiao.com/trending/7671708004344922175/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "苹果支付负责人将退休离职",
           "url": "https://flash.jin10.com/detail/20260812032249870800",
           "source": "金十数据",
@@ -1159,6 +1241,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "小米SU7七月销量21044辆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E4%B8%83%E6%9C%88%E9%94%80%E9%87%8F21044%E8%BE%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "市场消息：负责支付和钱包服务的苹果(AAPL.O)公司高管将于10月离职。",
           "url": "https://flash.jin10.com/detail/20260812015140237800",
           "source": "金十数据",
@@ -1192,15 +1285,59 @@
           "time_info": "02时50分"
         },
         {
+          "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
+          "url": "https://www.zhihu.com/question/2070779372970012693",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
+          "url": "https://www.zhihu.com/question/2070796946256519933",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "华为秋季发布会或定档9月23日",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%96%E5%AE%9A%E6%A1%A39%E6%9C%8823%E6%97%A5%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "全球首款机器人手机今日发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "美股盘前：CoreWeave涨约16%，超微电脑涨约10%，Lumentum涨约7%",
+          "url": "https://wallstreetcn.com/livenews/3148503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "从\"赌协议\"到\"算库存\"，原油定价逻辑正在切换——新版发布",
@@ -1220,7 +1357,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -1280,194 +1417,32 @@
           "time_info": "11时58分"
         },
         {
+          "title": "苹果商店现山寨版政务APP，官方回应：相关部门正协调处理",
+          "url": "https://wallstreetcn.com/livenews/3148493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "四川多地发布高温红色、橙色预警",
           "url": "https://wallstreetcn.com/livenews/3148436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "C罗宣布结婚",
-          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时12分]"
-        },
-        {
-          "title": "C罗结婚,十年恋情终圆满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357188&amp;topic_name=C%E7%BD%97%E7%BB%93%E5%A9%9A%2C%E5%8D%81%E5%B9%B4%E6%81%8B%E6%83%85%E7%BB%88%E5%9C%86%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时12分]"
-        },
-        {
-          "title": "C罗宣布结婚5小时收获1400万赞",
-          "url": "https://www.douyin.com/hot/2606578",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "C罗宣布结婚",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时30分]"
-        },
-        {
-          "title": "C罗晒照官宣完婚",
-          "url": "https://www.toutiao.com/trending/7672634204827631654/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            15,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时12分]"
-        },
-        {
-          "title": "C罗宣布结婚(图)",
-          "url": "https://sports.ifeng.com/c/8vWSYwsKRLl",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时12分]"
-        },
-        {
-          "title": "C罗结婚5个孩子出席婚礼",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A5%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时12分]"
-        },
-        {
-          "title": "C罗晒照官宣完婚",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E6%99%92%E7%85%A7%E5%AE%98%E5%AE%A3%E5%AE%8C%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 09时11分]"
-        },
-        {
-          "title": "乔治娜因帮同事加班半小时与C罗邂逅",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%94%E6%B2%BB%E5%A8%9C%E5%9B%A0%E5%B8%AE%E5%90%8C%E4%BA%8B%E5%8A%A0%E7%8F%AD%E5%8D%8A%E5%B0%8F%E6%97%B6%E4%B8%8EC%E7%BD%97%E9%82%82%E9%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时12分]"
-        },
-        {
-          "title": "C罗宣布结婚5小时收获1400万赞",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时12分]"
-        },
-        {
-          "title": "乔治娜一开始并不相信C罗要娶她",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%B2%BB%E5%A8%9C%E4%B8%80%E5%BC%80%E5%A7%8B%E5%B9%B6%E4%B8%8D%E7%9B%B8%E4%BF%A1C%E7%BD%97%E8%A6%81%E5%A8%B6%E5%A5%B9%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "C罗五个孩子出席婚礼",
-          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BA%94%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 11时58分]"
-        },
-        {
-          "title": "如果C罗办了场中式婚礼",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E6%9E%9CC%E7%BD%97%E5%8A%9E%E4%BA%86%E5%9C%BA%E4%B8%AD%E5%BC%8F%E5%A9%9A%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "众球星祝贺C罗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%97%E7%90%83%E6%98%9F%E7%A5%9D%E8%B4%BAC%E7%BD%97%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         }
       ]
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "闺蜜诱骗撕票,女网红不幸遇害",
@@ -1478,11 +1453,12 @@
             12,
             15,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 15时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 17时04分]"
         },
         {
           "title": "欢迎来龙餐馆票房破两亿",
@@ -1586,15 +1562,17 @@
           "time_info": "[07时32分 ~ 15时12分]"
         },
         {
-          "title": "百万粉灵异女网红车祸身亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
-          "source": "贴吧",
+          "title": "百万粉丝网红姜小柔去世，年仅 24 岁，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2070280309057263511",
+          "source": "知乎",
           "ranks": [
-            5
+            6,
+            16,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 17时04分]"
         },
         {
           "title": "网红雅典娜是家中独生女",
@@ -1626,27 +1604,39 @@
           "time_info": "[01时51分 ~ 06时34分]"
         },
         {
-          "title": "百万粉丝网红姜小柔去世，年仅 24 岁，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2070280309057263511",
-          "source": "知乎",
+          "title": "百万粉灵异女网红车祸身亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
+          "source": "贴吧",
           "ranks": [
-            6,
-            16
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时12分]"
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 17时04分]"
         },
         {
           "title": "沈腾在电影《欢迎来龙餐馆》中从喜剧转型演正剧，如何评价其演技？",
           "url": "https://www.zhihu.com/question/2069717502976962752",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 17时04分]"
+        },
+        {
+          "title": "贾冰：这两天的热搜快给我热馊了",
+          "url": "https://www.toutiao.com/trending/7672557375442157595/",
+          "source": "今日头条",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "17时04分"
         },
         {
           "title": "欢迎来龙餐馆票房",
@@ -1662,8 +1652,183 @@
       ]
     },
     {
+      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "C罗宣布结婚",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 17时04分]"
+        },
+        {
+          "title": "C罗结婚,十年恋情终圆满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357188&amp;topic_name=C%E7%BD%97%E7%BB%93%E5%A9%9A%2C%E5%8D%81%E5%B9%B4%E6%81%8B%E6%83%85%E7%BB%88%E5%9C%86%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 17时04分]"
+        },
+        {
+          "title": "C罗宣布结婚(图)",
+          "url": "https://sports.ifeng.com/c/8vWSYwsKRLl",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 17时04分]"
+        },
+        {
+          "title": "C罗宣布结婚5小时收获1400万赞",
+          "url": "https://www.douyin.com/hot/2606578",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "C罗宣布结婚",
+          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时30分]"
+        },
+        {
+          "title": "C罗晒照官宣完婚",
+          "url": "https://www.toutiao.com/trending/7672634204827631654/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 15时12分]"
+        },
+        {
+          "title": "C罗结婚5个孩子出席婚礼",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A5%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 15时12分]"
+        },
+        {
+          "title": "C罗晒照官宣完婚",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E6%99%92%E7%85%A7%E5%AE%98%E5%AE%A3%E5%AE%8C%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时11分]"
+        },
+        {
+          "title": "C罗宣布结婚5小时收获1400万赞",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A5%E5%B0%8F%E6%97%B6%E6%94%B6%E8%8E%B71400%E4%B8%87%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时04分]"
+        },
+        {
+          "title": "乔治娜因帮同事加班半小时与C罗邂逅",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%94%E6%B2%BB%E5%A8%9C%E5%9B%A0%E5%B8%AE%E5%90%8C%E4%BA%8B%E5%8A%A0%E7%8F%AD%E5%8D%8A%E5%B0%8F%E6%97%B6%E4%B8%8EC%E7%BD%97%E9%82%82%E9%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时12分]"
+        },
+        {
+          "title": "乔治娜一开始并不相信C罗要娶她",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%B2%BB%E5%A8%9C%E4%B8%80%E5%BC%80%E5%A7%8B%E5%B9%B6%E4%B8%8D%E7%9B%B8%E4%BF%A1C%E7%BD%97%E8%A6%81%E5%A8%B6%E5%A5%B9%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "C罗五个孩子出席婚礼",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BA%94%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 11时58分]"
+        },
+        {
+          "title": "如果C罗办了场中式婚礼",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E6%9E%9CC%E7%BD%97%E5%8A%9E%E4%BA%86%E5%9C%BA%E4%B8%AD%E5%BC%8F%E5%A9%9A%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "众球星祝贺C罗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%97%E7%90%83%E6%98%9F%E7%A5%9D%E8%B4%BAC%E7%BD%97%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "警方 通报 官方回应 反转 辟谣",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "武汉市民政局通报“男子遗体滞留太平间十二年”：开展全面调查核实，将依法依规处理",
@@ -1741,8 +1906,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 15时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 17时04分]"
         },
         {
           "title": "中方严斥美国炮制“弹道导弹发射通报”涉华共同发言",
@@ -1779,6 +1944,17 @@
           "time_info": "[11时58分 ~ 15时12分]"
         },
         {
+          "title": "黄金剪开里面竟是钨芯 警方抓9人",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%89%AA%E5%BC%80%E9%87%8C%E9%9D%A2%E7%AB%9F%E6%98%AF%E9%92%A8%E8%8A%AF+%E8%AD%A6%E6%96%B9%E6%8A%939%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "广东揭西通报2人跳桥死亡",
           "url": "https://www.toutiao.com/trending/7672815906778955839/",
           "source": "今日头条",
@@ -1796,7 +1972,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -1804,7 +1980,7 @@
     },
     {
       "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "胖东来公布侵犯员工尊严案例，顾客驾车顶撞员工被行拘、掌掴员工被起诉，员工获上万元赔偿，如何看待此事？",
@@ -1829,11 +2005,12 @@
             11,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 15时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 17时04分]"
         },
         {
           "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
@@ -1844,8 +2021,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时12分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时04分]"
         },
         {
           "title": "百花奖获奖名单公布",
@@ -1860,6 +2037,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时50分 ~ 09时11分]"
+        },
+        {
+          "title": "国产算力基建加速落地！阿里云超节点实例上线 后续拟扩至多地域",
+          "url": "https://www.cls.cn/detail/2452166",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "美国至8月7日当周API原油库存将于十分钟后公布。",
@@ -1922,7 +2110,7 @@
     },
     {
       "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：ZoomInfo数据现已集成至微软Copilot Studio，并可在Microsoft 365 Copilot、Dynamics 365、Excel和Word中使用。",
@@ -1947,6 +2135,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "腾讯控股(00700.HK)：截至六月底，微信和WeChat的月活跃用户总数为14.39亿。",
+          "url": "https://flash.jin10.com/detail/20260812163317838800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "据华尔街日报：日本自动驾驶初创公司Turing计划在美国设立办公室，目标为100亿美元的IPO估值。",
           "url": "https://flash.jin10.com/detail/20260812120725875800",
           "source": "金十数据",
@@ -1961,7 +2160,7 @@
     },
     {
       "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "忙到晕倒炸鸡店员工已结算工资离职",
@@ -1979,6 +2178,17 @@
           "time_info": "[00时50分 ~ 11时58分]"
         },
         {
+          "title": "社保实缴严查中",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%AE%9E%E7%BC%B4%E4%B8%A5%E6%9F%A5%E4%B8%AD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "忙到晕倒炸鸡店员工已结算工资离职",
           "url": "https://www.baidu.com/s?wd=%E5%BF%99%E5%88%B0%E6%99%95%E5%80%92%E7%82%B8%E9%B8%A1%E5%BA%97%E5%91%98%E5%B7%A5%E5%B7%B2%E7%BB%93%E7%AE%97%E5%B7%A5%E8%B5%84%E7%A6%BB%E8%81%8C",
           "source": "百度热搜",
@@ -1989,6 +2199,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时11分 ~ 13时30分]"
+        },
+        {
+          "title": "社保断缴有哪些影响",
+          "url": "https://www.toutiao.com/trending/7672326617704398854/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
@@ -2002,11 +2223,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 17时04分]"
         }
       ]
     }
