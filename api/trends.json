@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-08-14T06:33:56.982215+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-08-14T07:33:47.763786+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
           "url": "https://www.zhihu.com/question/2071335529577239335",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -37,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -49,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -60,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -82,22 +84,38 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时33分]"
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时33分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -109,21 +127,84 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            11,
-            7
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
+        },
+        {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
+        },
+        {
+          "title": "用豆包给各地特产拍大片",
+          "url": "https://www.douyin.com/hot/2608658",
+          "source": "抖音",
+          "ranks": [
+            29,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -139,77 +220,16 @@
           "time_info": "[03时53分 ~ 06时33分]"
         },
         {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            21,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
-        },
-        {
-          "title": "用豆包给各地特产拍大片",
-          "url": "https://www.douyin.com/hot/2608658",
-          "source": "抖音",
-          "ranks": [
-            29,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -224,15 +244,26 @@
           "time_info": "[03时53分 ~ 05时37分]"
         },
         {
-          "title": "OpenAI 上市前年化营收突破 400 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149336",
+          "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
+          "url": "https://wallstreetcn.com/livenews/3149345",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
+          "url": "https://wallstreetcn.com/articles/3779359",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "据悉OpenAI年化营收突破400亿美元",
@@ -241,7 +272,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -274,7 +305,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -296,7 +327,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         }
@@ -304,7 +335,7 @@
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "马斯克一句“中国太棒了”刷屏海外",
@@ -314,8 +345,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "云南交警翻唱坏苹果",
@@ -324,11 +355,12 @@
           "ranks": [
             10,
             20,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
@@ -339,8 +371,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "马斯克安利中国,外网闹麻",
@@ -350,8 +382,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "手机的下一代交互样本来了",
@@ -363,6 +395,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 06时33分]"
+        },
+        {
+          "title": "iPhone18系列发布节奏确认",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
@@ -377,26 +421,27 @@
           "time_info": "[05时37分 ~ 06时33分]"
         },
         {
-          "title": "iPhone18系列发布节奏确认",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
           "title": "专访离职的华为“天才少年”宁博宇",
           "url": "https://www.toutiao.com/trending/7673369650491326507/",
           "source": "今日头条",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
+        },
+        {
+          "title": "中国两大芯片巨头业绩超预期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%A4%A7%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "07时33分"
         },
         {
           "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
@@ -485,8 +530,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "舍不得买可直接休学退学？校方通报",
@@ -496,8 +541,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "邹市明辟谣",
@@ -507,8 +552,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "警方称教师户口注销合规无法恢复",
@@ -517,9 +562,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
         }
       ]
     },
@@ -536,30 +581,32 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "新西兰联储：金融政策委员会考虑了房价发展、近期抵押贷款的风险状况以及借款人的财务压力。",
           "url": "https://flash.jin10.com/detail/20260814060455667800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
         },
         {
           "title": "退休236天大姐状态大变样",
           "url": "https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91236%E5%A4%A9%E5%A4%A7%E5%A7%90%E7%8A%B6%E6%80%81%E5%A4%A7%E5%8F%98%E6%A0%B7%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
         },
         {
           "title": "广东将上调最低工资标准",
@@ -586,8 +633,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         },
         {
           "title": "《欢迎来龙餐馆》电影里为什么要安排把赛夫一只眼睛炸坏的情节?",
@@ -653,11 +700,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时33分]"
         }
       ]
     }
