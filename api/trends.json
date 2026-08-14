@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-15T04:24:22.842800+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-15T06:15:17.652629+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
-          "url": "https://www.zhihu.com/question/2071486982732223991",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
         {
           "title": "人工智能激活力 “新”意盎然促发展",
           "url": "https://www.toutiao.com/trending/7673797019718598698/",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
@@ -37,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -48,19 +37,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
-          "title": "甲骨文：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。甲骨文跌幅收窄，现跌3.5%，此前一度跌4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3149866",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
           "ranks": [
+            2,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -70,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -81,19 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
@@ -103,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
@@ -114,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
@@ -125,19 +116,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "博通AI客户融资平台引担忧，盘中股价跌近7%",
-          "url": "https://wallstreetcn.com/livenews/3149860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -145,6 +125,52 @@
           "source": "贴吧",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "甲骨文：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。甲骨文跌幅收窄，现跌3.5%，此前一度跌4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3149866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 06时15分]"
+        },
+        {
+          "title": "博通AI客户融资平台引担忧，盘中股价跌近7%",
+          "url": "https://wallstreetcn.com/livenews/3149860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -160,45 +186,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价零宣发国产动画电影《牛来》上映，建模粗糙惊呆观众，9 天累计票房仅为 7169 元？",
           "url": "https://www.zhihu.com/question/2068124989094733448",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
           "url": "https://www.zhihu.com/question/2071540861712721478",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "星爷经纪人内涵龙餐馆偷票房",
@@ -208,19 +225,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "电影空枪8月19日全国上映",
           "url": "https://www.douyin.com/hot/2609800",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "动画电影牛来票房7000多",
@@ -230,19 +248,42 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "《牛来》上映9天票房7169元",
           "url": "https://www.toutiao.com/trending/7673370504196685860/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "画面灾难,劣质动画电影上映圈钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357311&amp;topic_name=%E7%94%BB%E9%9D%A2%E7%81%BE%E9%9A%BE%2C%E5%8A%A3%E8%B4%A8%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%E5%9C%88%E9%92%B1",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "电影牛来建模粗糙被网友吐槽",
+          "url": "https://www.douyin.com/hot/2609168",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 06时15分]"
         },
         {
           "title": "CORTIS抖音粉丝破500万",
@@ -254,23 +295,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "画面灾难,劣质动画电影上映圈钱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357311&amp;topic_name=%E7%94%BB%E9%9D%A2%E7%81%BE%E9%9A%BE%2C%E5%8A%A3%E8%B4%A8%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%E5%9C%88%E9%92%B1",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -280,8 +310,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
+          "url": "https://wallstreetcn.com/livenews/3149890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "06时15分"
         },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -291,8 +332,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "水利部升级发布洪水黄色预警",
@@ -302,8 +343,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "小米澎湃OS 4体验",
@@ -313,8 +354,30 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "对着别人手机念数字就可能背上贷款",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 06时15分]"
+        },
+        {
+          "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
+          "url": "https://flash.jin10.com/detail/20260815045930926800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "06时15分"
         }
       ]
     },
@@ -330,8 +393,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "专访2034杯重庆足球小将团队",
@@ -341,19 +404,48 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
         },
         {
           "title": "C罗婚后首露面一头金发",
           "url": "https://www.toutiao.com/trending/7673727363691056676/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "最新消息 后续 现场 确认 公布",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "惠誉确认英国评级为“AA-”，展望稳定。预计今年因能源进口增加，经常项目赤字将温和扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "06时15分"
+        },
+        {
+          "title": "惠誉确认英国评级为“AA-”，展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260815050320776800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -383,11 +475,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33784353",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "税务部门回应社保实缴问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E7%A4%BE%E4%BF%9D%E5%AE%9E%E7%BC%B4%E9%97%AE%E9%A2%98%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 06时15分]"
         }
       ]
     }
