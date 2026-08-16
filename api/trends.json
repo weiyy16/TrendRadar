@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T02:17:40.891380+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-17T04:13:30.384210+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -37,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
+        },
+        {
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -59,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -81,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -92,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -103,58 +104,62 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
           "url": "https://www.douyin.com/hot/2612104",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "AI正在批量制造“幽灵”",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
+        },
+        {
+          "title": "AI正在批量制造“幽灵”",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         }
       ]
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -164,8 +169,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "为中国航天点赞",
@@ -175,8 +180,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "两人为博眼球发布不实信息被处罚",
@@ -186,8 +191,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
+        },
+        {
+          "title": "继小米 YU7 完成品类启蒙后，岚图追光 S 、智界 RX 接连入局，FUV 这个市场到底有没有想象空间？",
+          "url": "https://www.zhihu.com/question/2072291192566452332",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报",
@@ -197,19 +214,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "继小米 YU7 完成品类启蒙后，岚图追光 S 、智界 RX 接连入局，FUV 这个市场到底有没有想象空间？",
-          "url": "https://www.zhihu.com/question/2072291192566452332",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "俄火箭航天中心遭乌军袭击起火",
@@ -219,8 +225,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
+        },
+        {
+          "title": "手机消费毁了逛街和创造力吗",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E6%AF%81%E4%BA%86%E9%80%9B%E8%A1%97%E5%92%8C%E5%88%9B%E9%80%A0%E5%8A%9B%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -230,25 +248,36 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
-          "title": "手机消费毁了逛街和创造力吗",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E6%AF%81%E4%BA%86%E9%80%9B%E8%A1%97%E5%92%8C%E5%88%9B%E9%80%A0%E5%8A%9B%E5%90%97",
-          "source": "百度热搜",
+          "title": "RTX60 系显卡大概什么时候发布?",
+          "url": "https://www.zhihu.com/question/1940427571205478236",
+          "source": "知乎",
           "ranks": [
-            29
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "04时13分"
+        },
+        {
+          "title": "中国博主发布进入靖国神社视频",
+          "url": "https://www.toutiao.com/trending/7674164987845820435/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
     {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -258,8 +287,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "电影原型聊真实龙餐馆",
@@ -269,8 +298,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "敲碎爸爸头骨?电影营销引不适",
@@ -280,19 +309,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "颜值缩水!湮灭之潮女主变网红",
@@ -302,8 +332,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "2026暑期档票房超100亿",
@@ -313,8 +343,19 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
+        },
+        {
+          "title": "电影《奥德赛》表达了什么主题？",
+          "url": "https://www.zhihu.com/question/2071593116092708663",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "04时13分"
         }
       ]
     },
@@ -327,33 +368,64 @@
           "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%B9%94%E6%B2%BB%E5%A8%9C%E5%A9%9A%E7%A4%BC%E5%90%88%E7%85%A7%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "C罗结婚仪式画面曝光",
           "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A%E4%BB%AA%E5%BC%8F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "天下足球入驻B站啦",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%85%A5%E9%A9%BBB%E7%AB%99%E5%95%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "警方 通报 官方回应 反转 辟谣",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20260817030717074800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "04时13分"
+        },
+        {
+          "title": "据半岛电视台：巴勒斯坦消息人士透露，哈马斯领导层已向库什纳详细通报了以色列在加沙地带违反停火协议的情况。",
+          "url": "https://flash.jin10.com/detail/20260817022544277800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -369,8 +441,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
@@ -394,11 +466,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33792818",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         }
       ]
     },
@@ -411,11 +484,12 @@
           "url": "https://s.weibo.com/weibo?q=%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 04时13分]"
         }
       ]
     }
