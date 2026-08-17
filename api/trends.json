@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-18T00:19:15.337662+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-18T02:26:06.784016+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
           "url": "https://wallstreetcn.com/articles/3779568",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -26,41 +27,77 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "闪过念头就刷到广告 是手机在偷听吗",
           "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
           "url": "https://www.zhihu.com/question/2071642621957747105",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "华为鸿蒙HarmonyOS 7.0.0.102SP8开推",
+          "url": "https://www.toutiao.com/trending/7674194526411522067/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "time_info": "[02时25分 ~ 02时26分]"
+        },
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
+        },
+        {
+          "title": "宇树发布“超人”机器人：原地跳高2米，称还有很大完善空间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33798886",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "9块9包邮的手机壳还敢买吗",
@@ -74,13 +111,24 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "搬运50公斤重物，香港科企发布“生产力工具型”人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3150620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
           "title": "或自研云端推理芯片？理想汽车：暂时还没有听到这方面的消息",
           "url": "https://wallstreetcn.com/livenews/3150571",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
@@ -88,7 +136,7 @@
     },
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "大批AI博主停更了",
@@ -98,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "AI私服来袭,二游圈传噩耗",
@@ -109,30 +157,66 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
           "ranks": [
-            6
+            12,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
           "url": "https://wallstreetcn.com/articles/3779603",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "巴克莱美国利率策略主管Anshul Pradhan：我们一直反对做空长端抛售，现在依然如此。 要转向建设性观点，需要财政出现下行意外、AI相关发行放缓、财政部发行策略转变，以及经济活动数据持续走软的某种组合。",
+          "url": "https://wallstreetcn.com/livenews/3150638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+          "url": "https://www.zhihu.com/question/2072103596481683649",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
@@ -146,15 +230,15 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
+          "url": "https://www.zhihu.com/question/2063294189954250663",
           "source": "知乎",
           "ranks": [
-            12
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "time_info": "[02时25分 ~ 02时26分]"
         }
       ]
     },
@@ -167,11 +251,12 @@
           "url": "https://wallstreetcn.com/livenews/3150605",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时26分]"
         },
         {
           "title": "电影原型聊真实龙餐馆",
@@ -181,8 +266,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "敲碎爸爸头骨?电影营销引不适",
@@ -192,41 +277,44 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "锐评抽象电影女版战狼",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "张艺谋电影 肖战",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%94%B5%E5%BD%B1%20%E8%82%96%E6%88%98&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "锐评抽象电影女版战狼",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%8A%BD%E8%B1%A1%E7%94%B5%E5%BD%B1%E5%A5%B3%E7%89%88%E6%88%98%E7%8B%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "从电影美学看奥德赛",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%94%B5%E5%BD%B1%E7%BE%8E%E5%AD%A6%E7%9C%8B%E5%A5%A5%E5%BE%B7%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         }
       ]
     },
@@ -241,7 +329,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -250,11 +338,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%85%E7%90%AAoffer5%E7%AE%80%E5%8E%86%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "我科学家研发高效率三结太阳电池取得新进展",
+          "url": "https://wallstreetcn.com/livenews/3150599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "time_info": "[00时19分 ~ 02时26分]"
         },
         {
           "title": "加拿大美加贸易事务部长办公室：勒布朗部长和首席谈判代表夏雷特将于美国东部时间今日13:00（北京时间次日01:00）在华盛顿特区商务部会见美国贸易代表格里尔和商务部长卢特尼克。",
@@ -263,18 +364,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "我科学家研发高效率三结太阳电池取得新进展",
-          "url": "https://wallstreetcn.com/livenews/3150599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -285,7 +375,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
@@ -293,7 +383,7 @@
     },
     {
       "keyword_group": "90后 整顿 避坑 工资 省钱 退休 社保 房价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
@@ -303,8 +393,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
+          "url": "https://wallstreetcn.com/articles/3779596",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "胖东来员工回应工资及闭店后安置",
+          "url": "https://www.toutiao.com/trending/7674910145792462342/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时26分]"
         },
         {
           "title": "多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？",
@@ -318,26 +430,32 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
-          "url": "https://wallstreetcn.com/articles/3779596",
-          "source": "华尔街见闻",
+          "title": "一线城市二手房价格连续5个月环比上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799536",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
+          "time_info": "[02时25分 ~ 02时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "最新消息 后续 现场 确认 公布",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "胖东来员工回应工资及闭店后安置",
-          "url": "https://www.toutiao.com/trending/7674910145792462342/",
-          "source": "今日头条",
+          "title": "昭和米国物语现场试玩导览",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%AD%E5%92%8C%E7%B1%B3%E5%9B%BD%E7%89%A9%E8%AF%AD%E7%8E%B0%E5%9C%BA%E8%AF%95%E7%8E%A9%E5%AF%BC%E8%A7%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            18
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "time_info": "[02时25分 ~ 02时26分]"
         }
       ]
     }
