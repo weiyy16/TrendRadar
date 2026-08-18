@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T08:44:47.983999+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-08-18T18:21:29.978399+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT OpenAI Kimi 豆包 通义千问 DeepSeek 人工智能",
-      "match_count": 17,
+      "match_count": 36,
       "titles": [
         {
           "title": "大批AI博主停更了",
@@ -24,11 +24,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 08时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 18时21分]"
         },
         {
           "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
@@ -61,7 +62,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -83,9 +84,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "功率半导体又酝酿涨价？AI用电拉动需求 部分企业或10月行动",
+          "url": "https://www.cls.cn/detail/2457030",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "小米AIoT平台连接设备同比增长17.4%，智能生态粘性持续增强",
+          "url": "https://wallstreetcn.com/livenews/3151037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
@@ -101,13 +135,35 @@
           "time_info": "[00时18分 ~ 08时44分]"
         },
         {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
+          "url": "https://wallstreetcn.com/articles/3779645",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
           "url": "https://www.cls.cn/detail/2456558",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -147,15 +203,71 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "姜月初刷新AI漫剧女打一天花板",
+          "url": "https://www.douyin.com/hot/2613313",
+          "source": "抖音",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 18时21分]"
+        },
+        {
+          "title": "微盟上半年实现AI收入1.33亿元 同比增长89.2%",
+          "url": "https://flash.jin10.com/detail/20260818174621862800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "AI大战转折点？与管理层会面后，华尔街的感受：腾讯在打“中途岛战役”",
+          "url": "https://wallstreetcn.com/articles/3779652",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "黄仁勋称失去中国市场美国AI必败",
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E5%A4%B1%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%BE%8E%E5%9B%BDAI%E5%BF%85%E8%B4%A5&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "创业板跌近1%，农业股逆势爆发，年内最贵新股上市首日暴涨超500%，港股阿里午后拉升涨近4%，AI大模型双雄齐跌",
+          "url": "https://wallstreetcn.com/articles/3779668",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "新规一刀切,AI漫剧被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美股收盘：3大利好推动AI板块逆势走强",
@@ -164,9 +276,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "AI漫剧全集花费超过电影票",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%AB%E5%89%A7%E5%85%A8%E9%9B%86%E8%8A%B1%E8%B4%B9%E8%B6%85%E8%BF%87%E7%94%B5%E5%BD%B1%E7%A5%A8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "UP主用AI给盲人装上眼睛",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "据Axios：美国食品药品监督管理局（FDA）正在考虑采用类似医生评估方式的“基于能力的方法”，对采用生成式人工智能技术的医疗器械进行评估。",
+          "url": "https://flash.jin10.com/detail/20260818173748302800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美股收盘：3大利好推动AI板块逆势走强",
@@ -175,20 +320,75 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
         {
-          "title": "姜月初刷新AI漫剧女打一天花板",
-          "url": "https://www.douyin.com/hot/2613313",
-          "source": "抖音",
+          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "公安机关公布14起涉企网络谣言案例：编造智驾事故，AI生成假车祸视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33803492",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "小米集团 第二季度营收1,089.2亿元人民币，同比下降6.1%，预估1,083.3亿元人民币。 第二季度营业利润108.7亿元人民币，同比下降19%，预估58.5亿元人民币。 第二季度净利润94.6亿元人民币，同比增加21%，预估57.6亿元人民币。 第二季度资本支出36.2亿元人民币，预估23.9亿元人民币。 第二季度智能电动汽车及AI等创新业务收入249.0亿元人民币，同比增长17%，预估249亿元人民币。 上半年营收2,080.6亿元人民币；净利润141.9亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3151006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "百度Q2 AI业务收入占比连续过半",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6Q2+AI%E4%B8%9A%E5%8A%A1%E6%94%B6%E5%85%A5%E5%8D%A0%E6%AF%94%E8%BF%9E%E7%BB%AD%E8%BF%87%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "AI 会把数学领域「低垂的果实」全部摘走么？",
+          "url": "https://www.zhihu.com/question/2072668885459760739",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "小米集团：2026年第二季度手机×AIoT分部收入为人民币840亿元",
+          "url": "https://flash.jin10.com/detail/20260818173412879800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "18时21分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月18日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic年化营收在IPO前突破650亿美元。</span><br/><span class=\"section-news\">2. 字节跳动与美国电影协会签署协议，加强AI模型版权保护。</span><br/><span class=\"section-news\">3. 英伟达与SB Energy合作开发美国俄亥俄州8吉瓦超大规模AI数据中心，并向SB Energy投资15亿美元。</span><br/><span class=\"section-news\">4. 英伟达：OpenAI承诺在2030年前大规模部署英伟达AI基础设施，对应约6000亿美元计算业务规模。</span><br/>其他：<br/><span class=\"section-news\">1. Meta天价索赔案将于周二开始庭审。</span><br/><span class=\"section-news\">2. 九光发布人形机械人 能举起50公斤重杠铃。</span><br/><span class=\"section-news\">3. 中信资本收购阿里旗下灵犀互娱已正式生效。</span><br/><span class=\"section-news\">4. 小米汽车：小米SU7系列，28.5个月交付突破50万台。</span><br/><span class=\"section-news\">5. 宇树机器人原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。 </span>",
@@ -197,16 +397,38 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "据华尔街日报：人工智能芯片初创公司Etched在由Jane Street领投的一轮融资中筹集7亿美元，使公司估值达到210亿美元。Etched已签署Jane Street作为首个客户，并已开始出货芯片。",
+          "url": "https://flash.jin10.com/detail/20260818173104007800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
     {
       "keyword_group": "华为 苹果 小米 马斯克 特斯拉 航天 芯片 手机 电脑 发布",
-      "match_count": 16,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 18时21分]"
+        },
         {
           "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
           "url": "https://wallstreetcn.com/articles/3779568",
@@ -234,15 +456,37 @@
           "time_info": "[00时18分 ~ 08时44分]"
         },
         {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
+          "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/2072693901802958901",
+          "source": "知乎",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "18时21分"
+        },
+        {
+          "title": "9部门发布活跃县域消费意见",
+          "url": "https://www.douyin.com/hot/2613786",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "小米Q2境外IoT业务收入同比高速增长，国际新零售体系加速拓展",
+          "url": "https://wallstreetcn.com/livenews/3151038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
@@ -251,7 +495,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -337,6 +581,50 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "如何评价《影之刃零》的索尼 State of Play 专场发布会，都有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2072981880291472040",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "手机价格涨20%以上",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%B6%A820%25%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "小米集团：2026年第二季度 智能电动汽车收入为人民币239亿元",
+          "url": "https://flash.jin10.com/detail/20260818173912035800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "特斯拉新车没有方向盘和踏板",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%98%E5%92%8C%E8%B8%8F%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "搬运50公斤重物，香港科企发布“生产力工具型”人形机器人",
           "url": "https://wallstreetcn.com/livenews/3150620",
           "source": "华尔街见闻-快讯",
@@ -348,13 +636,24 @@
           "time_info": "02时26分"
         },
         {
+          "title": "小米集团：在OpenRouter平台上，Xiaomi MiMo-V2.5周调用量位列第一",
+          "url": "https://wallstreetcn.com/livenews/3151019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日港股盘后，百度和小米将公布财报",
           "url": "https://flash.jin10.com/detail/20260818075150430800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -365,9 +664,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "小米集团：智能电动汽车收入为人民币239亿元",
+          "url": "https://wallstreetcn.com/livenews/3151015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "小米集团：在OpenRouter平台上，Xiaomi MiMo-V2.5周调用量3位 列第一",
+          "url": "https://flash.jin10.com/detail/20260818173614517800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "小米集团：智能手机平均售价创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3151013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "报道：美国要求韩国将存储芯片作为首个对美投资重点",
@@ -376,9 +708,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "小米集团(01810.HK)：2026年第二季度经调整净利润62.19亿元，同比下降42.6%。",
+          "url": "https://flash.jin10.com/detail/20260818173032414800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "或自研云端推理芯片？理想汽车：暂时还没有听到这方面的消息",
@@ -394,8 +737,189 @@
       ]
     },
     {
+      "keyword_group": "最新消息 后续 现场 确认 公布",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "韩国否认关于将半导体列为赴美首批投资项目的报道，韩国总统府表示无法确认具体细节。",
+          "url": "https://wallstreetcn.com/livenews/3150734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "强降雨致太湖水位持续上涨，苏州多地内涝严重，记者实探积水抽排现场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799401",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 18时21分]"
+        },
+        {
+          "title": "昭和米国物语现场试玩导览",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%AD%E5%92%8C%E7%B1%B3%E5%9B%BD%E7%89%A9%E8%AF%AD%E7%8E%B0%E5%9C%BA%E8%AF%95%E7%8E%A9%E5%AF%BC%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
+        },
+        {
+          "title": "“最爱发钱老板”现场资助380名学生",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E7%88%B1%E5%8F%91%E9%92%B1%E8%80%81%E6%9D%BF%E2%80%9D%E7%8E%B0%E5%9C%BA%E8%B5%84%E5%8A%A9380%E5%90%8D%E5%AD%A6%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "国际乒联公布最新世界排名",
+          "url": "https://www.douyin.com/hot/2613383",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "印度石油天然气公司（ONGC）：关于委内瑞拉资产后续行动的框架协议正在讨论中。",
+          "url": "https://flash.jin10.com/detail/20260818173411848800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "湘潭大学确认哥哥冒名顶替上学事实",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A6%E7%A1%AE%E8%AE%A4%E5%93%A5%E5%93%A5%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%AD%A6%E4%BA%8B%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "市场消息：伊朗高级官员否认伊朗参与了针对伊拉克库尔德自治区总理位于埃尔比勒办公室的无人机袭击。该官员表示，这一事件是又一次假旗行动，与伊朗无关。",
+          "url": "https://flash.jin10.com/detail/20260817234909312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "效率低,查猪锐评CN队太菜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358361&amp;topic_name=%E6%95%88%E7%8E%87%E4%BD%8E%2C%E6%9F%A5%E7%8C%AA%E9%94%90%E8%AF%84CN%E9%98%9F%E5%A4%AA%E8%8F%9C",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "张雅琪offer5简历解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%85%E7%90%AAoffer5%E7%AE%80%E5%8E%86%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 08时44分]"
+        },
+        {
+          "title": "我科学家研发高效率三结太阳电池取得新进展",
+          "url": "https://wallstreetcn.com/livenews/3150599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时26分]"
+        },
+        {
+          "title": "加拿大美加贸易事务部长办公室：勒布朗部长和首席谈判代表夏雷特将于美国东部时间今日13:00（北京时间次日01:00）在华盛顿特区商务部会见美国贸易代表格里尔和商务部长卢特尼克。",
+          "url": "https://flash.jin10.com/detail/20260817233616856800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "超级富豪家族办公室扎堆SpaceX 持股规模超过38亿美元",
+          "url": "https://wallstreetcn.com/livenews/3150584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "英国天然气电力市场办公室（Ofgem）：英国天然气公司（British Gas）获得有限豁免，可推出降低固定费用的试点资费，客户可在8月11日至2027年8月10日期间选择加入。",
+          "url": "https://flash.jin10.com/detail/20260818173429213800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "电影 票房 抖音 热搜 网红",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "电影原型聊真实龙餐馆",
@@ -466,70 +990,89 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 02时26分]"
+        },
+        {
+          "title": "欢迎来龙餐馆票房破十亿",
+          "url": "https://www.douyin.com/hot/2613722",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
     {
-      "keyword_group": "效率 免费 PDF 微信 办公 Excel WPS 打工人 职场 简历 PPT",
-      "match_count": 5,
+      "keyword_group": "警方 通报 官方回应 反转 辟谣",
+      "match_count": 6,
       "titles": [
         {
-          "title": "市场消息：伊朗高级官员否认伊朗参与了针对伊拉克库尔德自治区总理位于埃尔比勒办公室的无人机袭击。该官员表示，这一事件是又一次假旗行动，与伊朗无关。",
-          "url": "https://flash.jin10.com/detail/20260817234909312800",
-          "source": "金十数据",
+          "title": "调查组通报杭州酒局事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%BB%84%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "18时21分"
         },
         {
-          "title": "张雅琪offer5简历解析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%85%E7%90%AAoffer5%E7%AE%80%E5%8E%86%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
+          "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2072862065841198775",
+          "source": "知乎",
           "ranks": [
-            19,
-            22,
-            21
+            7
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 08时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
-          "title": "我科学家研发高效率三结太阳电池取得新进展",
-          "url": "https://wallstreetcn.com/livenews/3150599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 02时26分]"
-        },
-        {
-          "title": "加拿大美加贸易事务部长办公室：勒布朗部长和首席谈判代表夏雷特将于美国东部时间今日13:00（北京时间次日01:00）在华盛顿特区商务部会见美国贸易代表格里尔和商务部长卢特尼克。",
-          "url": "https://flash.jin10.com/detail/20260817233616856800",
-          "source": "金十数据",
+          "title": "重镇红利曼战线局势反转！乌军大反击，俄军多处失守",
+          "url": "https://news.ifeng.com/c/8vgUwqSTqjr",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "18时21分"
         },
         {
-          "title": "超级富豪家族办公室扎堆SpaceX 持股规模超过38亿美元",
-          "url": "https://wallstreetcn.com/livenews/3150584",
-          "source": "华尔街见闻-快讯",
+          "title": "官方通报杭州酒局事件",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
           "ranks": [
-            20
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "18时21分"
+        },
+        {
+          "title": "官方通报杭州酒局事件：赵某峰、郁某栋已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33804981",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "官方通报杭州酒局事件",
+          "url": "https://www.douyin.com/hot/2614530",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
@@ -554,11 +1097,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 18时21分]"
         },
         {
           "title": "胖东来员工回应工资及闭店后安置",
@@ -566,11 +1110,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 08时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 18时21分]"
         },
         {
           "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
@@ -597,63 +1142,19 @@
       ]
     },
     {
-      "keyword_group": "最新消息 后续 现场 确认 公布",
-      "match_count": 5,
+      "keyword_group": "世界杯 梅西 阿根廷 C罗 葡萄牙 英格兰 哈兰德 足球 半决赛",
+      "match_count": 1,
       "titles": [
         {
-          "title": "韩国否认关于将半导体列为赴美首批投资项目的报道，韩国总统府表示无法确认具体细节。",
-          "url": "https://wallstreetcn.com/livenews/3150734",
-          "source": "华尔街见闻-快讯",
+          "title": "哥伦比亚总统给灾民发足球引发众怒",
+          "url": "https://www.toutiao.com/trending/7674254779534934054/",
+          "source": "今日头条",
           "ranks": [
-            5
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "昭和米国物语现场试玩导览",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%AD%E5%92%8C%E7%B1%B3%E5%9B%BD%E7%89%A9%E8%AF%AD%E7%8E%B0%E5%9C%BA%E8%AF%95%E7%8E%A9%E5%AF%BC%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
-        },
-        {
-          "title": "强降雨致太湖水位持续上涨，苏州多地内涝严重，记者实探积水抽排现场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33799401",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "国际乒联公布最新世界排名",
-          "url": "https://www.douyin.com/hot/2613383",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "湘潭大学确认哥哥冒名顶替上学事实",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A6%E7%A1%AE%E8%AE%A4%E5%93%A5%E5%93%A5%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%AD%A6%E4%BA%8B%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "18时21分"
         }
       ]
     }
